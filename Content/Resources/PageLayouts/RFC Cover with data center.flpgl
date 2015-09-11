@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="2in" PaddingBottom="1in" BackgroundImage="../../Global Images/RFC data center background.bmp" BackgroundRepeat="no-repeat">
+        <Frame Flow="header" Height="1.447917in" Right="0px" X="35px" Y="-0.96875in" ColumnCount="1" Width="6.135417in" Bottom="722px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;">
+                            <xhtml:img xhtml:src="../../Global Images/rfc logo.bmp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="32px" Y="126px" Width="593px" Height="235px" Flow="body" Right="-1px" Bottom="407px" />
+    </Page>
+</PageStyles>

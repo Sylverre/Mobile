@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.include-mobile or Default.Logan] exclude[&quot;Default.AM only&quot; or Default.Deployment or Default.Exclude-Mobile or &quot;Default.future release&quot; or &quot;Default.Notes for authors&quot; or &quot;Default.Notes for Reviewers&quot; or Default.ScreenOnly or Default.SourceText] "
+  MasterToc="/Project/TOCs/Mobile.fltoc"
+  PatchHeadingLevels="true"
+  InjectBookHeadings="true"
+  InjectEmptyPages="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  GetLatestBeforeCompile="false"
+  MasterPageLayout="/Content/Resources/PageLayouts/Chapter8X11.flpgl">
+  <PrintedOutput
+    CollapseMargins="false"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false"
+    MultiDocOutput="false" />
+  <PDF
+    PageMode="UseNone" />
+  <DocumentProperties
+    Author="RF Code" />
+  <Variables>
+    <Variable
+      Name="General/ProductName">CenterScape</Variable>
+    <Variable
+      Name="General/RevNumber">00</Variable>
+    <Variable
+      Name="General/DocNumber">2013 pub</Variable>
+    <Variable
+      Name="General/UserGuideTitle">Asset Manager Mobile User Manual</Variable>
+    <Variable
+      Name="General/MinimumSupported">1.0</Variable>
+  </Variables>
+</CatapultTarget>

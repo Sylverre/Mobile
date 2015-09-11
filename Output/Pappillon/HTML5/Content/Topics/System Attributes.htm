@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>System Attributes</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1><a name="__RefHeading___Toc414541376"></a>System Attributes</h1>
+        <p>System Attributes are attributes (that is, information about assets and environments) defined by the <span class="GeneralProductName">CenterScape</span> system. System Attributes cannot be edited or deleted as they are integral to <span class="GeneralProductName">CenterScape</span>.   The System Administrator can restrict permission to view System Attributes, apply formatting to alter the way each System Attribute is displayed, set whether historical values are recorded, and create additional statistical attributes for select System Attributes.</p>
+        <h2>View System Attributes and Change Selections</h2>
+        <ol>
+            <li value="1">Navigate to <span class="strong">Admin Console &gt; Data Schema &gt; System Attributes.</span></li>
+            <li value="2">Select a System Attribute from the list.</li>
+            <li value="3">If desired, update selections.</li>
+        </ol>
+        <ul>
+            <li value="1"><span class="Strong">Record Value Changes:</span> Check this box if this attribute is required for historical reporting.  If unchecked, <span class="GeneralProductName">CenterScape</span> retains only the current value of the attribute; no previous information is available.  If checked, all value changes for this attribute for the life of the asset will be recorded for historical reporting and life cycle management.</li>
+        </ul>
+        <p class="note">This box must be checked to enable attribute graphing/reporting directly from the Assets task.</p>
+        <p class="note">Recording value changes for multiple attributes increases the total size of the database. </p>
+        <ul>
+            <li value="1"><span class="Strong">Restrictable:</span> Check this box if you would like this attribute to be one that can be limited to certain Groups.</li>
+        </ul>
+        <p class="note">Group-based restrictions must be completed in User Access.</p>
+        <ol start="4">
+            <li value="4">If desired, click <span class="strong">Add</span> to apply a formatting change to the Attribute that is triggered by a specific value or range. </li>
+        </ol>
+        <p class="note">This is useful for calling attention to values that go out of range, as green for acceptable, yellow to warn, red for alarm.</p>
+        <p>
+            <br />
+            <br />
+            <br />
+        </p>
+        <ol start="4" data-mc-continue="true">
+            <li value="5">If adding conditional formatting, in the Add Formatting pop-up window that appears, select foreground color, background color, operator, and value if appropriate. Click <span class="strong">OK</span> to return to the Formatting pane. Multiple conditions can be set for a single System Attribute. </li>
+        </ol>
+        <ol start="4" data-mc-continue="true">
+            <li value="6">Click <span class="strong">Save Changes</span> when finished.</li>
+        </ol>
+        <p class="note">See Conditional Formatting for more information.</p>
+        <h2 data-mc-conditions="Default.NewText">Statistical Attributes</h2>
+        <p data-mc-conditions="Default.NewText">Statistical Attributes produce derived data in real-time from the raw historical data collected by <span class="GeneralProductName">CenterScape</span>. The statistical computations supported are <span class="ital">Maximum</span>, <span class="ital">Minimum</span>, <span class="ital">Median</span>, <span class="ital">Average</span>, and <span class="ital">Standard Deviation</span>. Statistical Attributes can be created from any system attributes that report numerical data; the computed values are stored as Asset Attributes and can be used throughout <span class="GeneralProductName">CenterScape</span> in dashboards, graphs, reports, map views, etc.</p>
+        <p data-mc-conditions="Default.NewText">Statistical Attributes are often used for environmental conditions and power consumption, where trends are of particular importance. You might, for example, create a statistic for the average row intake temperature computed daily using the last thirty days of history. Using the new statistic in Dashboard gauges, show current average temperature vs. the thirty-day average temperature side by side. The dashboard gauges will provide a quick visualization if the current average is outside the norm or trending upwards.</p>
+        <h2><a name="Create_Statistic_from_System_Attribute"></a>Create a New Statistical Attribute from a System Attribute</h2>
+        <ol>
+            <li value="1">Navigate to <span class="strong">Admin Console &gt; Data Schema &gt; System Attributes</span> and select an attribute to which you will apply a statistical view. </li>
+            <li value="2">Click the <span class="strong">New Statistic</span> button.<br /> </li>
+        </ol>
+        <p class="note">The selected attribute must generate numerical data. The New Statistic button is grayed out if statistical measurements are not relevant for the selected System Attribute. </p>
+        <ol data-mc-continue="true">
+            <li value="3">Complete all required and any desired additional fields for the new Statistical Attribute. Some fields are pre-populated with data inherited from the parent System Attribute. </li>
+        </ol>
+        <p>&#160;</p>
+        <p data-mc-conditions="Default.NewText">
+            <p><span class="Strong">NOTE</span>:&#160; Those fields with asterisks (*) are required fields.</p>
+        Only fields applicable to the selected System Attribute appear when creating a new Statistical Attribute from a System Attribute.</p>
+        <ul>
+            <li value="1" data-mc-conditions="Default.NewText"><span class="Strong">Name:</span> Assign a name to the new Statistical Attribute.</li>
+            <li value="2" data-mc-conditions="Default.NewText"><span class="Strong">Description:</span> If desired, input a detailed comment describing purpose or meaning of the statistical attribute.</li>
+            <li value="3" data-mc-conditions="Default.NewText"><span class="Strong">Record Value Changes:</span> Check this box if this attribute is required for historical reporting.  If unchecked,  <span class="GeneralProductName">CenterScape</span> retains only the current value of the attribute; no previous information is available.  If checked, all value changes for this attribute for the life of the asset will be recorded for historical reporting and life cycle management.</li>
+            <li value="4" data-mc-conditions="Default.NewText"><span class="Strong">Restrictable:</span> Check this box if you would like this attribute to be one that can be limited to certain groups.</li>
+        </ul>
+        <p class="note" data-mc-conditions="Default.NewText">Group-based Restriction is completed in User Access.</p>
+        <ul>
+            <li value="1" data-mc-conditions="Default.NewText"><span class="strong">Hide On User Console:</span> Check this box if you would like this attribute to be hidden when viewing assets in the User Console.  This provides a way to assign attributes and values to assets as an administrative function.</li>
+            <li value="2" data-mc-conditions="Default.NewText"><span class="Strong">ID:</span> This field is automatically generated by <span class="GeneralProductName">CenterScape</span> when you enter a Name.</li>
+            <li value="3" data-mc-conditions="Default.NewText"><span class="Strong">Type: </span>The data type is inherited from the parent System Attribute and cannot be changed.</li>
+            <li value="4" data-mc-conditions="Default.NewText"><span class="strong">Asset Reference:</span> Select an asset to link to it. </li>
+            <li value="5" data-mc-conditions="Default.NewText"><span class="strong">Units: </span>Select the desired unit of measurement.</li>
+            <li value="6" data-mc-conditions="Default.NewText"><span class="strong">Statistic:</span> Select Minimum, Maximum, Average, Median, or Standard Deviation.</li>
+            <li value="7" data-mc-conditions="Default.NewText"><span class="strong">Value Constraint:</span> Define the value class allowed. Depending on the system attribute, a statistical attribute can include minimum and maximum value constraints.</li>
+            <li value="8" data-mc-conditions="Default.NewText"><span class="strong">String Values: </span>Define a list of values for the statistical attribute, and optionally restrict values to that list.</li>
+        </ul>
+        <ol start="4">
+            <li value="4">Apply Formatting if desired.</li>
+            <li value="5">Click <span class="strong">Save Changes</span>.</li>
+        </ol>
+        <p class="note">Statistical Attributes can be grouped into Statistical Packs.</p>
+    </body>
+</html>

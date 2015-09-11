@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/CS Map, Hot Spot Tools with callouts.bmp" />
+    <Link
+      Url="Content/Images/CS hot spot targets drop-down menu.bmp" />
+    <Link
+      Url="Content/Images/CS Map Configuration Data Center Overview.bmp" />
+    <Link
+      Url="Content/Images/CS Map Configuration Data Center Overview user console.bmp" />
+    <Link
+      Url="Content/Images/CS Map Configuration Data Center detail user console.bmp" />
+    <Link
+      Url="../RFC-AM Comprehensive/Content/Resources/Images/UserManual for reference/030000BF.png" />
+    <Link
+      Url="../RFC-AM Comprehensive/Content/Resources/Images/UserManual for reference/030000C0.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/CS Map, Hot Spot Tools with callouts.bmp" />
+    <Link
+      Url="Content/Images/CS hot spot targets drop-down menu.bmp" />
+    <Link
+      Url="Content/Images/CS Map Configuration Data Center Overview.bmp" />
+    <Link
+      Url="Content/Images/CS Map Configuration Data Center Overview user console.bmp" />
+    <Link
+      Url="Content/Images/CS Map Configuration Data Center detail user console.bmp" />
+    <Link
+      Url="../RFC-AM Comprehensive/Content/Resources/Images/UserManual for reference/030000BF.png" />
+    <Link
+      Url="../RFC-AM Comprehensive/Content/Resources/Images/UserManual for reference/030000C0.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="__RefHeading___Toc414541439" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.SourceText" />
+    <Condition
+      Tag="Default.Logan" />
+    <Condition
+      Tag="Default.NewText" />
+    <Condition
+      Tag="Default.AM only" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

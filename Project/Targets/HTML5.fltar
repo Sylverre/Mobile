@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  MasterToc="/Project/TOCs/singleton.fltoc"
+  ConditionTagExpression="exclude[&quot;Default.AM only&quot; or &quot;Default.future release&quot; or &quot;Default.Notes for authors&quot; or &quot;Default.Notes for Reviewers&quot; or Default.SourceText] "
+  Skin="/Project/Skins/HTML5 (2).flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

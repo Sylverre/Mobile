@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Import Location Hierarchy Using Spreadsheet</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Import Location Hierarchy Using Spreadsheet</h1>
+        <p>&#160;</p>
+        <ul>
+            <li value="1">File must be created in and exported from <span class="GeneralProductName">CenterScape</span>, then populated and imported into system.</li>
+            <li value="2">Every Location must have a unique name. </li>
+        </ul>
+        <p data-mc-conditions="Default.NewText">As a best practice, structure the levels of your Location Hierarchy to fit within <span class="GeneralProductName">CenterScape</span>'s data schema. The schema's expected levels are:</p>
+        <ul>
+            <li value="1" data-mc-conditions="Default.NewText">Country</li>
+            <li value="2" data-mc-conditions="Default.NewText">State</li>
+            <li value="3" data-mc-conditions="Default.NewText">City</li>
+            <li value="4" data-mc-conditions="Default.NewText">Campus</li>
+            <li value="5" data-mc-conditions="Default.NewText">Building </li>
+            <li value="6" data-mc-conditions="Default.NewText">Floor</li>
+            <li value="7" data-mc-conditions="Default.NewText">Zone</li>
+            <li value="8" data-mc-conditions="Default.NewText">Room</li>
+        </ul>
+        <p>Use as many of these levels as are appropriate for current or anticipated needs.</p>
+        <ol>
+            <li value="1">Though it is not required, it is recommended that you create one or two locations manually before exporting a location configuration. </li>
+            <li value="2">Navigate to <span class="Strong">Admin Console &gt; Export Configuration</span>. Deselect all variables except for <span class="Strong">Locations &amp;&#160;Rules</span>. Select <span class="Strong">CSV</span> and click <span class="Strong">Export Configuration</span>.</li>
+        </ol>
+        <p>&#160;</p>
+        <ol data-mc-continue="true">
+            <li value="3">Open file in spreadsheet program.</li>
+            <li value="4">Add Locations. Each location must have a unique name and a parent. All other fields are optional.</li>
+            <li value="5">Save file.</li>
+            <li value="6"><span class="Strong">Browse</span> to and <span class="Strong">Upload</span> the system configuration file.</li>
+        </ol>
+        <p>&#160;</p>
+        <p class="note">The location hierarchy is part of the system configuration. Use the Zone Manager configuration (bottom) task pane only to import Zone Manager configuration files.</p>
+    </body>
+</html>

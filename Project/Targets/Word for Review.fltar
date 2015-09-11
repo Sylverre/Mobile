@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  MasterToc="/Project/TOCs/singleton.fltoc"
+  EmbedImages="true"
+  ConditionTagExpression="include[Default.Logan or Default.SysAdmin or Default.workflow] exclude[&quot;Default.AM only&quot; or &quot;Default.future release&quot; or &quot;Default.Notes for Reviewers&quot; or Default.SourceText or Default.SysManual or Default.User] "
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  PatchHeadingLevels="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    MultiDocWordOutput="false" />
+  <Glossaries />
+</CatapultTarget>

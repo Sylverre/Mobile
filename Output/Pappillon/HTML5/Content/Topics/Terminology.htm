@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Terminology</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Terminology</h1>
+        <h2><span class="GeneralProductName">CenterScape</span>
+        </h2>
+        <p><span class="GeneralProductName">CenterScape</span> is the top-level component of the software. <span class="GeneralProductName">CenterScape</span> performs the configuration, alerting and notification, and asset data management. <span class="GeneralProductName">CenterScape</span> provides all information displayed in the asset views, reports and graphs. Information relayed from one or more Zone Managers is used along with user configured policies to track asset location and alerting events.</p>
+        <h2 data-mc-conditions="Default.NewText">Asset</h2>
+        <p data-mc-conditions="Default.NewText">An asset is a physical item to be tracked, for which an asset record must be created in <span class="GeneralProductName">CenterScape</span>. Assets have Types and Attributes, are assigned Tags, and are assigned to or detected in Locations.</p>
+        <h3>Retired and Deleted Assets</h3>
+        <p>Assets that no longer need to be tracked in <span class="GeneralProductName">CenterScape</span> can be retired or deleted. Assets that are retired from <span class="GeneralProductName">CenterScape</span> are listed as Retired status as opposed to Active status. Retired assets are not removed from the <span class="GeneralProductName">CenterScape</span> database and can be Unretired as required. An asset that is deleted will be completely removed from the system and its associated data is deleted. </p>
+        <h2>Asset Type</h2>
+        <p>Asset Types are data definitions used to describe assets that are tracked with <span class="GeneralProductName">CenterScape</span>. An Asset Type is defined as a category of asset such as IT assets, monitors or people. Within <span class="GeneralProductName">CenterScape</span>, Asset Types can be arranged in a hierarchy where child asset types will inherit all attributes associated to the parent type. An example of an asset hierarchy would be “IT Asset &gt; Computer &gt; Laptop”. In this example the Laptop asset type is a child of type Computer which is a child of IT Asset. So a Laptop can be described as a Computer which is an IT Asset.</p>
+        <h2>Attribute</h2>
+        <p>An attribute defines a specific property or characteristic of an Asset Type. Attributes are completely user definable. An example of an attribute might be the manufacturer of the asset or the model of the asset.</p>
+        <h3>Calculated Asset Attribute</h3>
+        <p>Calculated asset attributes are attributes that have been derived from the application of a formula to various asset attributes to produce a value. The Administrator can choose to create the formula or can use one of the pre-created calculated asset attributes that are contained within the data schema.</p>
+        <h3>Custom Attribute Type</h3>
+        <p>A custom attribute type is a combination of attributes into a single grouping to represent a specific quality or characteristic. Custom attribute types are associated to asset types just like standard attributes.</p>
+        <h3>
+            System
+            Attribute</h3>
+        <p>
+            System Attributes are similar to regular attributes but are non-configurable except for display color formatting. System attributes hold system information about Asset Types that are inherited from the active RFID tag associated with the asset. Examples of system attributes are motion, tamper, low battery, etc.</p>
+        <h2>Tag</h2>
+        <p>One-way, transmit-only communicators affixed to assets for tracking or monitoring. Tags can be IR-enabled, for use with IR&#160;locators. Sensor tags monitor environmental conditions. </p>
+        <h3>Assigned Tag</h3>
+        <p>Assigned tags are asset tags that have been associated or assigned to an asset. If an asset is deleted or retired from the system the associated tag may be placed back in the unassigned tag list.</p>
+        <h3>Detected Tag</h3>
+        <p>Any tag that has successfully transmitted information to a reader appears as Detected until it is imported into the system.  Tags move from Detected to Unassigned, then are assigned to assets (or, for sensor tags, defined as assets).</p>
+        <h3>Retired and Deleted Tag</h3>
+        <p>Tags that are associated with retired or deleted assets can be removed from the system or requested to be put back into the Unassigned tag queue for reuse on other assets.</p>
+        <h3>Unassigned Tag</h3>
+        <p>Unassigned tags are tags that are imported into the system but are not currently associated to an asset. All tags that are added to the system are considered to be in the Unassigned state until they are associated with an asset. The Unassigned tag population does not change unless a user explicitly associates a tag to an asset, deletes an Unassigned tag, or imports a detected tag.</p>
+        <h2>Data Schema</h2>
+        <p>The schema of a database system is its structure. The schema defines the tables, the fields in each table, and the relationships between fields and tables. The schema used to track assets in <span class="GeneralProductName">CenterScape</span> is completely customizable by the Administrator. A schema is comprised of Asset Types, Attributes, and Custom Attributes.</p>
+        <h2>IR&#160;Locator</h2>
+        <p>An IR&#160;Room or Rack Locator is a beacon that sends out a unique user-defined location code. IR-enabled tags receive this code and bundle it with the information they send to readers. </p>
+        <h2>Reader</h2>
+        <p>RF Code readers such as the M200 or M250, receive information from tags. <span class="GeneralProductName">CenterScape</span> will be configured with one or more readers to provide real-time tag location and sensor information.</p>
+        <h2>Web Interface</h2>
+        <p>The web interface is the browser-based user interface which is composed of the Administrator and User Consoles. The Administrator Console is designed to manage the system infrastructure and database schema while the User Console manages all aspects of the physical assets.</p>
+        <h2>Zone Manager</h2>
+        <p>Zone Manager is the second-level component of <span class="GeneralProductName">CenterScape</span>. The Zone Manager interfaces directly with the readers and allows for processing of tag data and transmissions to the <span class="GeneralProductName">CenterScape</span>.</p>
+    </body>
+</html>

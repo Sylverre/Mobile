@@ -1,0 +1,1778 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-22T09:03:28.0426925-05:00"
+  AutoSync="false"
+  AutoFitTables="false"
+  LastImport="2015-04-22T09:05:51.8485557-05:00">
+  <Files>
+    <Url
+      Source="../../../../UserManual for reference.doc"
+      AbsoluteSource="file:///C:/Users/DSFoxx/Desktop/contractor/RFCode/UserManual for reference.doc" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000EA.png"
+      TimeStamp="4/22/2015 9:03:29 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000002.jpg"
+      TimeStamp="4/22/2015 9:03:29 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/UserManual for reference.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Table of Contents1.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Copyright Statement.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Overview.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/RFID Technology.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/RF Regulatory Compliance and.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Comparison of Active RFID.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000003.png"
+      TimeStamp="4/22/2015 9:03:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/RF Code Software and Hardware.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/RF Code Active RFID Tags.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000004.png"
+      TimeStamp="4/22/2015 9:03:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Prerequisite Reader Configuration.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Licensing Overview.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Licenses for Advanced Features.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Installing Asset Manager.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/System Requirements.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Installation Instructions.htm"
+      TimeStamp="4/22/2015 9:04:37 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Ports Used by Asset Manager.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Installing with Microsoft.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring a Production Database.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000005.png"
+      TimeStamp="4/22/2015 9:03:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/AM Directory Structure and.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/The System Properties File.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Linux Installation Instructions.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000006.png"
+      TimeStamp="4/22/2015 9:03:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/AM Directory Structure and1.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Installing in Linux with a.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Getting Started with Asset.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000007.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring and Using Asset.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000008.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Asset Manager Web Console.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000009.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300000A.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300000B.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300000C.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300000D.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300000E.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Bookmarks.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300000F.png"
+      TimeStamp="4/22/2015 9:03:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Folders.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/The Administrator Console.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/The User Console.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000010.png"
+      TimeStamp="4/22/2015 9:03:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000011.png"
+      TimeStamp="4/22/2015 9:03:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000012.png"
+      TimeStamp="4/22/2015 9:03:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000013.png"
+      TimeStamp="4/22/2015 9:03:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000014.png"
+      TimeStamp="4/22/2015 9:03:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adding Licenses.htm"
+      TimeStamp="4/22/2015 9:04:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000015.png"
+      TimeStamp="4/22/2015 9:03:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000016.png"
+      TimeStamp="4/22/2015 9:03:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000017.png"
+      TimeStamp="4/22/2015 9:03:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000018.png"
+      TimeStamp="4/22/2015 9:03:47 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adding and Configuring Readers.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000019.png"
+      TimeStamp="4/22/2015 9:03:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300001A.png"
+      TimeStamp="4/22/2015 9:03:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300001B.png"
+      TimeStamp="4/22/2015 9:03:47 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adding Tag Groups.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Assets.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300001C.png"
+      TimeStamp="4/22/2015 9:03:47 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Managing Assets.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300001D.png"
+      TimeStamp="4/22/2015 9:03:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300001E.png"
+      TimeStamp="4/22/2015 9:03:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300001F.png"
+      TimeStamp="4/22/2015 9:03:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adding Assets Individually.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000020.png"
+      TimeStamp="4/22/2015 9:03:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Environmental Monitoring with.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Managing RCI and RTI with.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000021.png"
+      TimeStamp="4/22/2015 9:03:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000022.png"
+      TimeStamp="4/22/2015 9:03:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000023.png"
+      TimeStamp="4/22/2015 9:03:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating an Asset Export File.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000024.jpg"
+      TimeStamp="4/22/2015 9:03:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000025.jpg"
+      TimeStamp="4/22/2015 9:03:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000026.png"
+      TimeStamp="4/22/2015 9:03:50 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring an Asset Export.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000027.png"
+      TimeStamp="4/22/2015 9:03:50 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Importing Assets.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000028.png"
+      TimeStamp="4/22/2015 9:03:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Data Schema.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Asset Types.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000029.png"
+      TimeStamp="4/22/2015 9:03:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300002A.png"
+      TimeStamp="4/22/2015 9:03:52 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300002B.png"
+      TimeStamp="4/22/2015 9:03:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Viewing Asset Types.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300002C.png"
+      TimeStamp="4/22/2015 9:03:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Viewing an Asset Type Sample.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300002D.png"
+      TimeStamp="4/22/2015 9:03:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Deleting Asset Types.htm"
+      TimeStamp="4/22/2015 9:04:39 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Asset Templates.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300002E.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300002F.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000030.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000031.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000032.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Asset Templates.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000033.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/06000034.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/06000035.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Folders for Asset.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000036.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000037.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Locations and the Location.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000038.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Expected Location.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000039.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300003A.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuration for Unknown.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Locations and Rules.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Rule Types and Configuration.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300003B.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Rules for Matching by Simple.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300003C.png"
+      TimeStamp="4/22/2015 9:03:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Rules for Matching by IR Locator.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Summary Assets.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300003D.png"
+      TimeStamp="4/22/2015 9:03:54 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300003E.png"
+      TimeStamp="4/22/2015 9:03:54 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300003F.png"
+      TimeStamp="4/22/2015 9:03:54 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Working with Summary Assets.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000040.png"
+      TimeStamp="4/22/2015 9:03:54 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Associating Locations to Assets.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000041.png"
+      TimeStamp="4/22/2015 9:03:54 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Associating a Location to.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000042.png"
+      TimeStamp="4/22/2015 9:03:55 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000043.png"
+      TimeStamp="4/22/2015 9:03:55 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Associating a Location to1.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Editing a Location Associated.htm"
+      TimeStamp="4/22/2015 9:04:40 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Removing the Association of.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Asset Attributes.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000044.png"
+      TimeStamp="4/22/2015 9:03:55 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000045.png"
+      TimeStamp="4/22/2015 9:03:55 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000046.png"
+      TimeStamp="4/22/2015 9:03:55 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating New Asset Attributes.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Attribute Types and Descriptions.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000047.png"
+      TimeStamp="4/22/2015 9:03:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000048.png"
+      TimeStamp="4/22/2015 9:03:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000049.png"
+      TimeStamp="4/22/2015 9:03:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300004A.png"
+      TimeStamp="4/22/2015 9:03:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300004B.png"
+      TimeStamp="4/22/2015 9:03:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300004C.png"
+      TimeStamp="4/22/2015 9:03:57 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adding Asset Attributes to.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Editing an Asset Attribute.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Deleting an Asset Attribute.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Custom Attribute Types.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300004D.png"
+      TimeStamp="4/22/2015 9:03:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300004E.png"
+      TimeStamp="4/22/2015 9:03:57 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Status Attributes.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Calculated Asset Attributes.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Calculated Asset Attributes1.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300004F.png"
+      TimeStamp="4/22/2015 9:03:58 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating a Calculated Asset.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Calculated Asset Attributes2.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000050.png"
+      TimeStamp="4/22/2015 9:03:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000051.png"
+      TimeStamp="4/22/2015 9:03:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000052.png"
+      TimeStamp="4/22/2015 9:03:59 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Applying a Calculated Asset.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000053.png"
+      TimeStamp="4/22/2015 9:03:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000054.png"
+      TimeStamp="4/22/2015 9:03:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000055.png"
+      TimeStamp="4/22/2015 9:03:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000056.png"
+      TimeStamp="4/22/2015 9:03:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000057.png"
+      TimeStamp="4/22/2015 9:04:00 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000058.png"
+      TimeStamp="4/22/2015 9:04:00 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000059.png"
+      TimeStamp="4/22/2015 9:04:00 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300005A.png"
+      TimeStamp="4/22/2015 9:04:00 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Conditional Formatting with.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/System Notifications.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/SMTP and System Notifications.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300005B.png"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300005C.png"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring SMTP.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Events.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Event Actions.htm"
+      TimeStamp="4/22/2015 9:04:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300005D.png"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0200005E.jpg"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000060.png"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000061.png"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Event Actions.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Event Actions.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000062.png"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000063.jpg"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Basic Information.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000064.png"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuration Settings Specific.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuration Settings for.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000065.png"
+      TimeStamp="4/22/2015 9:04:01 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuration Settings for1.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000066.png"
+      TimeStamp="4/22/2015 9:04:02 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuration Settings for2.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuration Settings for3.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000067.png"
+      TimeStamp="4/22/2015 9:04:02 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Log Entry Format Select JSON.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000068.png"
+      TimeStamp="4/22/2015 9:04:02 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/For SNMP V1 Trap Event Actions.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000069.png"
+      TimeStamp="4/22/2015 9:04:02 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300006A.png"
+      TimeStamp="4/22/2015 9:04:03 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/For SNMP V3 Event Actions.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Copying Event Actions.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Testing Event Actions.htm"
+      TimeStamp="4/22/2015 9:04:42 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Deleting Event Actions.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Event Triggers.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300006B.png"
+      TimeStamp="4/22/2015 9:04:03 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0200006C.jpg"
+      TimeStamp="4/22/2015 9:04:03 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating New Triggers.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Triggers.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Basic Information1.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300006D.png"
+      TimeStamp="4/22/2015 9:04:03 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Event Filters.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Copying Event Triggers.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Deleting Event Triggers.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Alerts.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300006E.png"
+      TimeStamp="4/22/2015 9:04:04 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300006F.png"
+      TimeStamp="4/22/2015 9:04:04 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000070.png"
+      TimeStamp="4/22/2015 9:04:04 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000071.png"
+      TimeStamp="4/22/2015 9:04:04 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Alert Viewer.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Alert Actions.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000072.png"
+      TimeStamp="4/22/2015 9:04:04 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000073.png"
+      TimeStamp="4/22/2015 9:04:04 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Alert Actions.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Alert Actions.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuration Settings for4.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Email Alert Actions.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring FTP Alert Actions.htm"
+      TimeStamp="4/22/2015 9:04:43 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring HTTP Post Alert.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Logging Alert.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring SNMP V1 Trap Alert.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring SNMP V3 Alert.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Serial Device.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Copying Alert Actions.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Testing Alert Actions.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Deleting Alert Actions.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000077.png"
+      TimeStamp="4/22/2015 9:04:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000078.png"
+      TimeStamp="4/22/2015 9:04:06 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Alert Thresholds.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000079.png"
+      TimeStamp="4/22/2015 9:04:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300007A.png"
+      TimeStamp="4/22/2015 9:04:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300007B.png"
+      TimeStamp="4/22/2015 9:04:06 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Alert Thresholds.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Alert Thresholds.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Basic Information2.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Alert Filter.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Copying Alert Thresholds.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Deleting Alert Thresholds.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Global Alert Policies for.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/How to Set Up Some Specific.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300007C.png"
+      TimeStamp="4/22/2015 9:04:07 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300007D.png"
+      TimeStamp="4/22/2015 9:04:07 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/How to Set Up a Serial Asset.htm"
+      TimeStamp="4/22/2015 9:04:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300007E.png"
+      TimeStamp="4/22/2015 9:04:07 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Patlite RS 232C Commands.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0200007F.jpg"
+      TimeStamp="4/22/2015 9:04:07 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000080.jpg"
+      TimeStamp="4/22/2015 9:04:07 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000081.jpg"
+      TimeStamp="4/22/2015 9:04:07 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000082.jpg"
+      TimeStamp="4/22/2015 9:04:07 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000083.png"
+      TimeStamp="4/22/2015 9:04:07 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/How to Set Up a Humidity Alert.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000084.jpg"
+      TimeStamp="4/22/2015 9:04:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000085.jpg"
+      TimeStamp="4/22/2015 9:04:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000086.jpg"
+      TimeStamp="4/22/2015 9:04:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000087.jpg"
+      TimeStamp="4/22/2015 9:04:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000088.png"
+      TimeStamp="4/22/2015 9:04:09 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000089.png"
+      TimeStamp="4/22/2015 9:04:09 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/How to Set Up an Offline Asset.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300008A.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300008B.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0600008C.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/How to Set Up a Temperature.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300008D.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300008E.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300008F.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000090.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000091.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000092.png"
+      TimeStamp="4/22/2015 9:04:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000093.png"
+      TimeStamp="4/22/2015 9:04:12 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000094.png"
+      TimeStamp="4/22/2015 9:04:12 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/How to Set Up an Asset Online.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000095.png"
+      TimeStamp="4/22/2015 9:04:12 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Reports and Graphs.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Reports and Graphs Overview.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Reports.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000096.png"
+      TimeStamp="4/22/2015 9:04:12 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000097.png"
+      TimeStamp="4/22/2015 9:04:12 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Manage Reports.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000098.png"
+      TimeStamp="4/22/2015 9:04:12 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000099.jpg"
+      TimeStamp="4/22/2015 9:04:12 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0200009A.jpg"
+      TimeStamp="4/22/2015 9:04:12 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300009B.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300009C.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300009D.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Report Template Definitions.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300009E.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300009F.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Report Template.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Security.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Time.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Relative Time.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Relative Time Range.htm"
+      TimeStamp="4/22/2015 9:04:45 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Specific Time Range.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Lead In Timestamps.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000A0.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000A1.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000A2.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000A3.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000A4.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Report Schedule.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000A5.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/020000A6.jpg"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/020000A7.jpg"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Report Filters Post Conditions.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/020000A8.jpg"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000A9.png"
+      TimeStamp="4/22/2015 9:04:13 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Running and Viewing Reports.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Exporting Reports.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Deleting Reports.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Graphs.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Manage Graphs.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000AB.png"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/020000AC.jpg"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/020000AE.jpg"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Graph Template Definitions.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000AF.png"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Graph Template.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Basic Information3.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Time1.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Relative Time1.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Relative Time Range1.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Specific Time Range1.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000B0.png"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Graph Schedule.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Graph Actions.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000B1.png"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Graph Filters Post Conditions.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Graph Filter and Post Condition.htm"
+      TimeStamp="4/22/2015 9:04:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000B2.png"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/020000B3.jpg"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Graph Columns Attributes.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000B4.png"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Graph Appearance.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000B5.png"
+      TimeStamp="4/22/2015 9:04:14 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Running Graphs.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000B6.png"
+      TimeStamp="4/22/2015 9:04:15 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/020000B7.jpg"
+      TimeStamp="4/22/2015 9:04:15 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Filtering Graphs.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Viewing Graphs.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Deleting Graphs.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Using Actions with Reports.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000B8.png"
+      TimeStamp="4/22/2015 9:04:15 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Email Actions.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000B9.png"
+      TimeStamp="4/22/2015 9:04:15 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring FTP Actions for.htm"
+      TimeStamp="4/22/2015 9:04:47 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000BA.png"
+      TimeStamp="4/22/2015 9:04:15 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring HTTP Post Actions.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Maps.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000BB.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000BC.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000BD.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Maps.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000BE.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000BF.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000C0.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating and Using Map Hot.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000C1.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Map Views.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000C2.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000C3.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000C4.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Map Views in the User Console.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Dashboards.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Overview of Dashboards.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/020000C5.jpg"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating a Basic Dashboard.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/User Accounts and Security.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/User Accounts Roles and Permissions.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000CC.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000CD.png"
+      TimeStamp="4/22/2015 9:04:16 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adding Users.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Overview of Groups.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000CE.png"
+      TimeStamp="4/22/2015 9:04:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000CF.png"
+      TimeStamp="4/22/2015 9:04:17 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating Groups.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D0.png"
+      TimeStamp="4/22/2015 9:04:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D1.png"
+      TimeStamp="4/22/2015 9:04:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D2.png"
+      TimeStamp="4/22/2015 9:04:17 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Access Control.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D3.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D4.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Advanced Asset Security.htm"
+      TimeStamp="4/22/2015 9:04:48 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D5.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D6.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D7.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D8.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000D9.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000DA.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000DB.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000DC.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Asset Links.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000DD.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000DE.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000DF.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/User Audit Trail.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with LDAP Active.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E0.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E1.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E2.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E3.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E4.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E5.png"
+      TimeStamp="4/22/2015 9:04:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E6.png"
+      TimeStamp="4/22/2015 9:04:19 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/LDAP Server Configuration.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E7.png"
+      TimeStamp="4/22/2015 9:04:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E8.png"
+      TimeStamp="4/22/2015 9:04:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000E9.png"
+      TimeStamp="4/22/2015 9:04:19 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adding LDAP Users and Groups.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000EC.png"
+      TimeStamp="4/22/2015 9:04:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000ED.png"
+      TimeStamp="4/22/2015 9:04:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000EE.png"
+      TimeStamp="4/22/2015 9:04:19 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Statistical Computation Engine.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000EF.png"
+      TimeStamp="4/22/2015 9:04:19 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adaptive Thresholds.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with RF Code IR.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with PDUs and.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Using RF Code Sensor Tags.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Installing PDU CDU Sensor.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F0.png"
+      TimeStamp="4/22/2015 9:04:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F1.png"
+      TimeStamp="4/22/2015 9:04:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F2.png"
+      TimeStamp="4/22/2015 9:04:20 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Adding PDU CDU Sensor Tag.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F3.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F4.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F5.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F6.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F7.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F8.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Creating a Custom PDU View.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000F9.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000FA.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with ServerTech.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000FB.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with JMX BACnet.htm"
+      TimeStamp="4/22/2015 9:04:49 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with JMX.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000FC.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/JMX Monitor.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000FD.png"
+      TimeStamp="4/22/2015 9:04:21 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/JMX Domains.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000FE.png"
+      TimeStamp="4/22/2015 9:04:22 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/JMX Domain Configuration Settings.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with BACnet.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/030000FF.png"
+      TimeStamp="4/22/2015 9:04:22 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/BACnet Slave Server.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000100.png"
+      TimeStamp="4/22/2015 9:04:22 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/BACnet Slave Device.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000101.png"
+      TimeStamp="4/22/2015 9:04:22 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/BACnet Slave Object IDs.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000102.png"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with Modbus.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000103.png"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Modbus Slave Server.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000104.png"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000105.png"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000106.png"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000107.png"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Modbus Slave Devices.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000108.png"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/02000109.jpg"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Modbus Slave Addresses.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300010A.png"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0200010B.jpg"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0200010C.jpg"
+      TimeStamp="4/22/2015 9:04:23 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0600010D.png"
+      TimeStamp="4/22/2015 9:04:24 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Integrating with NetBotz.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Troubleshooting.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Troubleshooting Resources.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300010E.png"
+      TimeStamp="4/22/2015 9:04:25 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300010F.png"
+      TimeStamp="4/22/2015 9:04:25 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000110.png"
+      TimeStamp="4/22/2015 9:04:25 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000111.png"
+      TimeStamp="4/22/2015 9:04:25 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Log Files.htm"
+      TimeStamp="4/22/2015 9:04:50 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Appendix.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Admin Console Task and Sub.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/User Console Task and Sub.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Displaying Values in the English.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Q How do I change the display.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Reader Configuration with.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000112.png"
+      TimeStamp="4/22/2015 9:04:25 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000113.png"
+      TimeStamp="4/22/2015 9:04:25 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000114.png"
+      TimeStamp="4/22/2015 9:04:26 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000115.png"
+      TimeStamp="4/22/2015 9:04:26 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000116.png"
+      TimeStamp="4/22/2015 9:04:26 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Reader Configuration with1.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000117.png"
+      TimeStamp="4/22/2015 9:04:26 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/RF Code Tag Group Codes IDs.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000118.png"
+      TimeStamp="4/22/2015 9:04:26 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000119.png"
+      TimeStamp="4/22/2015 9:04:26 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300011A.png"
+      TimeStamp="4/22/2015 9:04:27 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Advanced Reader Configuration.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300011B.png"
+      TimeStamp="4/22/2015 9:04:27 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Default Asset Schemas.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/V4 1_Sensor_Tags_Only_Schema.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Schema Details.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/V4 1_Comprehensive_Schema.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Schema Details1.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/User Role Matrix.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Using Macros.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300011C.png"
+      TimeStamp="4/22/2015 9:04:32 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Macros for Reports and Graphs.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300011D.png"
+      TimeStamp="4/22/2015 9:04:32 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300011E.png"
+      TimeStamp="4/22/2015 9:04:32 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Macros for Events and Alerts.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Calculations and Functions.htm"
+      TimeStamp="4/22/2015 9:04:51 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/UserManual for reference1.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Blocking HTTP Access in Asset.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Preliminary Steps for Using.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300011F.png"
+      TimeStamp="4/22/2015 9:04:32 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring SSL for RF Code.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000120.png"
+      TimeStamp="4/22/2015 9:04:33 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Configuring Asset Manager.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Encryption with Key Pairs.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/SNMP V1 and V3 Trap Formatting.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000121.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000122.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000123.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000124.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000125.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000126.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000127.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000128.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/03000129.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Exporting and Importing.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/The Asset Manager Data Model.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Allocating Memory to Asset.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Backing Up and Restoring the.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Backup and Restore with SQL.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Database Backup and Restore.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/Resources/Images/UserManual for reference/0300012A.png"
+      TimeStamp="4/22/2015 9:04:34 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Restoring the Database.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Backup and Restore with PostgreSQL.htm"
+      TimeStamp="4/22/2015 9:04:52 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Upgrading Asset Manager.htm"
+      TimeStamp="4/22/2015 9:04:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/Migrating the Asset Manager.htm"
+      TimeStamp="4/22/2015 9:04:53 AM" />
+    <Url
+      Source="../../Content/UserManual for reference/RF Code Support and Professional.htm"
+      TimeStamp="4/22/2015 9:04:53 AM" />
+    <Url
+      Source="../TOCs/UserManual for reference.fltoc"
+      TimeStamp="4/22/2015 9:04:36 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/UserManual for reference.flmsp"
+      TimeStamp="4/22/2015 9:04:36 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/UserManual for reference.css"
+      TimeStamp="4/22/2015 9:04:36 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Footer Style" />
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="Heading 4" />
+    <StyleName
+      Name="Heading 5" />
+    <StyleName
+      Name="Heading 6" />
+    <StyleName
+      Name="TOC 1" />
+    <StyleName
+      Name="TOC 2" />
+    <StyleName
+      Name="TOC 3" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Colorful List - Accent 11" />
+    <StyleName
+      Name="Footer Style" />
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="Heading 4" />
+    <StyleName
+      Name="Heading 5" />
+    <StyleName
+      Name="Heading 6" />
+    <StyleName
+      Name="HTML Preformatted" />
+    <StyleName
+      Name="Medium Grid 21" />
+    <StyleName
+      Name="Normal (Web)" />
+    <StyleName
+      Name="Pa6" />
+    <StyleName
+      Name="Pa7" />
+    <StyleName
+      Name="Pa9" />
+    <StyleName
+      Name="TOC 1" />
+    <StyleName
+      Name="TOC 2" />
+    <StyleName
+      Name="TOC 3" />
+    <StyleName
+      Name="WW-Default" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Index Link" />
+    <StyleName
+      Name="Heading 1 Char" />
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="Strong" />
+    <StyleName
+      Name="Heading 3 Char" />
+    <StyleName
+      Name="Heading 2 Char" />
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="Emphasis" />
+    <StyleName
+      Name="Heading 4 Char" />
+    <StyleName
+      Name="Heading 5 Char" />
+    <StyleName
+      Name="r-required-field" />
+    <StyleName
+      Name="Comment Reference" />
+    <StyleName
+      Name="A14" />
+    <StyleName
+      Name="A13" />
+  </UsedCharacterStyles>
+</MsWordImport>

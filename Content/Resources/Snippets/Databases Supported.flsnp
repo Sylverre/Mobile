@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="156" MadCap:lastWidth="833">
+    <head>
+    </head>
+    <body>
+        <h2>Databases Supported</h2>
+        <ul>
+            <li>PostgreSQL version 9</li>
+            <li>Microsoft® SQL Server 2008 R2 and SQL Server 2012</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="343" MadCap:lastWidth="859">
+    <body>
+        <h2>Limited Standard Warranty Terms</h2>
+        <p><MadCap:variable name="General.CompanyName" /> warrants its products to be free from defects in materials and workmanship for a period of 1 year (12 months) for hardware and software from the date of purchase from <MadCap:variable name="General.CompanyName" />. Its obligation under this warranty is limited to repairing or replacing, at its own sole option, any such defective products. This warranty does not apply to equipment that has been damaged by accident, negligence, or misapplication or has been altered or modified in any way. This warranty applies only to the original purchaser (end-user) and is not transferable.</p>
+        <p MadCap:conditions="Default.Notes for authors">source:&#160;unreleased doc Zone Manager User Manual (beta)</p>
+    </body>
+</html>

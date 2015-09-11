@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Update Calculated Attributes</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Update Calculated Attributes</h1>
+        <p>Among the calculations that can be performed is “update,” used to set the value of a calculated attribute whenever certain user-specified criteria are met. The update () function can take either two or three arguments.</p>
+        <p>When calling an update with two arguments, the form is:</p>
+        <p>update(“target attribute”, value)</p>
+        <p>The first argument is the name of the attribute whose value is to be updated, enclosed in quotation marks. Note that, unlike other functions where an attribute is referenced and the value of that attribute is inserted into the expression, the value of the attribute is the actual name of the attribute itself. </p>
+        <p>For example, say we have an String attribute called OWNER_NAME. If it is desired to use the update function to change the value of OWNER_NAME, the syntax would be:</p>
+        <p>update(“OWNER_NAME”, “BOB”)</p>
+        <p>This would update the NAME attribute on the asset which contains the calculated attribute.</p>
+        <p>If calling with three arguments, the first argument is expected to be an asset reference attribute. The form would be:</p>
+        <p>update(asset reference attribute, target attribute, value)</p>
+        <p>In an example where there is a schema that has a person and a laptop which is assigned to the person, the schema would have the following asset types:</p>
+        <p>PERSON</p>
+        <p>COMPUTER</p>
+        <p>An asset reference attribute called LAPTOP whose asset reference type is COMPUTER would then be created and assigned to the PERSON asset type.</p>
+        <p>Next, an asset attribute would be created that would update the COMPUTER asset’s OWNER_NAME attribute whenever a COMPUTER asset is chosen as the value of a PERSON asset's LAPTOP attribute.</p>
+        <p>update(PC, “OWNER_NAME”, $aName)</p>
+        <p>This example can then be extended to assert that the LAPTOP assigned to a PERSON is expected to be in the same location as the PERSON. The following calculated attribute uses the update() function to set the COMPUTER asset's expected location to the current location of the PERSON:</p>
+        <p>update(PC, “$aExpectedLocation”, $aLocation); true</p>
+        <p>Please note that all attributes are required to have a “Type.” Since this calculated attribute’s type is “Boolean” we use the expression “true” after updating the attribute because the value of a calculated attribute is the last value found when evaluating the attribute's expression. If this calculated attribute were viewed in the user interface or in a report, the value “true” would be displayed as the attribute’s value. For this reason it is often wise to hide the attribute by selecting “Hide On User Console” in the calculated attribute’s configuration.</p>
+    </body>
+</html>

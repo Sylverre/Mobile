@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/CS Manage Assets by Location.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Assets by Detected Location.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Assets, filtered for location.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Equipment with Unresolved Locations.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Equipment with Unresolved Locations - resolve 1.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Equipment with Unresolved Locations - resolve 2.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Equipment with Unresolved Locations - resolve 3.bmp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/CS Manage Assets by Location.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Assets by Detected Location.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Assets, filtered for location.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Equipment with Unresolved Locations.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Equipment with Unresolved Locations - resolve 1.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Equipment with Unresolved Locations - resolve 2.bmp" />
+    <Link
+      Url="Content/Images/CS Manage Equipment with Unresolved Locations - resolve 3.bmp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

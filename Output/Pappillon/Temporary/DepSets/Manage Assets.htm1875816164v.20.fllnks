@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/CS Manage Assets.bmp" />
+    <Link
+      Url="Content/Images/CS manage assets, equipment unresolved location.bmp" />
+    <Link
+      Url="Content/Images/CS Manage assets, without assigned location.bmp" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/CS Manage Assets.bmp" />
+    <Link
+      Url="Content/Images/CS manage assets, equipment unresolved location.bmp" />
+    <Link
+      Url="Content/Images/CS Manage assets, without assigned location.bmp" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.CompanyName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

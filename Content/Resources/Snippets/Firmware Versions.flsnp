@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="74" MadCap:lastWidth="1096">
+    <body>
+        <h2>
+            <MadCap:annotation MadCap:createDate="2015-05-12T11:58:26.1615909-05:00" MadCap:creator="DSFoxx" MadCap:initials="DSF" MadCap:comment="is this necessary?  If so, update, but I'd prefer to skip it!  Though it might not be a bad idea to list Readers and IR Locators here. (same firmware for M240)." MadCap:editor="DSFoxx" MadCap:editDate="2015-05-14T10:22:35.5060777-05:00">Supported</MadCap:annotation> Firmware Versions</h2>
+        <ul>
+            <li>Version 1.4.1 for the M250 Reader</li>
+        </ul>
+    </body>
+</html>

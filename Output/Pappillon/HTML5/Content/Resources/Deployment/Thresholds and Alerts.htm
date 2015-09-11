@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Thresholds and Alerts</title>
+        <script src="../../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Thresholds and Alerts</h1>
+        <p style="text-decoration: underline;" data-mc-conditions="General.notes for reviewers">More properly SysAdmin than Deployment, but could be argued either way. Not yet removed from TOC, since personnel completing physical deployment may be more aware of thresholds, but I tend to feel that anything involving the User Console is beyond the scope of the Deployment Guide.</p>
+        <p>Thresholds are limits for specific attribute values. Alerts are notifications you will receive if the value of a particular attribute goes beyond the threshold set for it. For example, you can set a threshold for a sensor tag’s temperature reading to be 77°F and have an alert sent when the temperature exceeds this threshold.</p>
+        <p>To configure a basic threshold and alert, perform the following steps:</p>
+        <p>1. In the User Console, go to <b>Alert Management</b>.</p>
+        <p>2. Click Actions, click the New button, and choose Email Alert Action from the drop-down menu.</p>
+        <p>3. Give the alert a name, enter the email address of the alert recipient, and then click Save Changes.</p>
+        <p>4. Select Temperature Alert Threshold from the dropdown list and fill in a Name for the alert, e.g. “Rack too hot” (see screenshot below).</p>
+        <p>5. In the Alert Condition section, set the Threshold Attribute Value Operator to be Greater Than (&gt;) and the Threshold Attribute Value to 80.</p>
+        <p>6. Set the Alert Filter so that all temperature sensors in the <span class="GeneralCompanyName">RF Code</span> Data Center are monitored. This is a convenient way of setting a threshold on multiple sensors at one time for a given location, which will result in you receiving an alert anytime a sensor reads a temperature that is greater than the threshold you set.</p>
+        <p>7. If you choose the Email Alert Action, then an email like the one below will be sent when any temperature sensor in a particular data center location (e.g., <span class="GeneralCompanyName">RF Code</span> Data Center) reads greater than 80 degrees.</p>
+        <p class="note">Alert thresholds and email notifications can be set up for other sensors such as humidity, fluid detection, and/or open door states.</p>
+    </body>
+</html>

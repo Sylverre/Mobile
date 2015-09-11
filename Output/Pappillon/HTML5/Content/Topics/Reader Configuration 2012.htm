@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Configuring Readers in CenterScapeReaders</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>
+            <MadCap:conditionalText data-mc-conditions="Default.SysManual">Configuring Readers in <span class="GeneralProductName">CenterScape</span></MadCap:conditionalText>
+            <MadCap:conditionalText data-mc-conditions="Default.workflow">Readers</MadCap:conditionalText>
+        </h1>
+        <p data-mc-conditions="Default.NewText">Reader Configuration through the Reader Configuration Utility includes IP&#160;address assignment and optional security settings, and must be completed before readers are physically deployed. Configuring Readers in <span class="GeneralProductName">CenterScape</span> defines the equipment and channels from which <span class="GeneralProductName">CenterScape</span> will accept data. Both reader configuration steps are required.</p>
+        <p class="note" data-mc-conditions="Default.NewText">Configuring Readers in <span class="GeneralProductName">CenterScape</span> can be done manually through the web interface, or a reader configuration file can be imported.</p>
+        <p style="page-break-after: avoid;" data-mc-conditions="Default.NewText">To configure a reader in the <span class="GeneralProductName">CenterScape</span> web interface:</p>
+        <p data-mc-conditions="Default.NewText">&#160;</p>
+        <ol>
+            <li value="1">Navigate to <span class="Strong">Admin Console &gt; Configuration &gt;&#160;Readers</span>.  </li>
+            <li value="2">In the Readers configuration screen, click the <span class="strong">New </span>button and select the reader type from the drop-down list.</li>
+        </ol>
+        <ol data-mc-continue="true">
+            <li value="3">Set the Basic and Network configuration settings for the reader:</li>
+        </ol>
+        <ul>
+            <li value="1"><span class="strong">Reader: </span>Choose the type of reader you wish to configure from the drop-down list. 
+            </li>
+            <li value="2"><span class="strong">Name: </span>Create a name for the reader. 
+            </li>
+            <li value="3"><span class="strong">Zone Manager: </span>Choose the Zone Manager that you would like to assign your reader to (by default this is your local Zone Manager). 
+            </li>
+            <li value="4"><span class="strong">Description: </span>Enter a description for this Reader. 
+            </li>
+            <li value="5"><span class="strong">Enabled: </span>If you would like your reader to go active and receive and transmit tag data after saving your configuration, check this box.<![CDATA[ 
+            ]]></li>
+            <li value="6"><span class="strong">Hostname: </span> Enter the IP address of your reader in this field. 
+            </li>
+            <li value="7"><span class="strong">Port: </span>Enter the port number over which to communicate with your reader (by default this is 6500). 
+            </li>
+            <li value="8"><span class="strong">SSL Mode: </span>Select the desired SSL&#160;mode:<ul><li value="1"><span class="strong">OFF:</span> turns SSL mode off on the reader</li><li value="2"><span class="strong">IFAVAIL:</span> uses SSL on the reader if available</li><li value="3"><span class="strong">REQUIRED:</span> requires use of SSL </li><li value="4"><span class="strong">STRICT:</span> will authenticate the matching hostname and only connect if the hostname matches the reader</li></ul></li>
+        </ul>
+        <p class="note"> Accept the default entries where possible. If you are planning to use multiple Zone Managers, it may be simpler to complete the initial configuration using the single Local Zone Manager and then changing reader associations once the other Zone Managers have been installed. Refer to the Advanced Reader Configuration page of this document for more information.</p>
+        <ol start="4">
+            <li value="4">Click the <span class="strong">Save Changes</span> button.<br />The reader you have just configured appears in the middle pane to the left of the configuration pane. </li>
+        </ol>
+        <p class="note"> If configuring an Up Connection Reader, you must specify the reader Up Connection ID that was assigned to that reader and also, if specified, the optional password from the Reader Configuration Utility. Please refer to the <a href="http://support.rfcode.com/customer/portal/articles/716055-reader-utilities-downloads">Reader Configuration Utility User Manual</a> for more information.</p>
+    </body>
+</html>

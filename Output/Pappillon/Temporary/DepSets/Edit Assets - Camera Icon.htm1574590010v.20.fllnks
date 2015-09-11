@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/Mobile/camera icon.png" />
+    <Link
+      Url="Content/Images/Mobile/assets by location camera.png" />
+    <Link
+      Url="Content/Images/Mobile/assets by location camera phone.png" />
+    <Link
+      Url="Content/Images/Mobile/get image dialog.png" />
+    <Link
+      Url="Content/Images/Mobile/cancel image button.png" />
+    <Link
+      Url="Content/Images/Mobile/camera image button.png" />
+    <Link
+      Url="Content/Images/Mobile/gallery image button.png" />
+    <Link
+      Url="Content/Images/Mobile/get image phone.png" />
+    <Link
+      Url="Content/Images/Mobile/image selected highlight.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/Mobile/camera icon.png" />
+    <Link
+      Url="Content/Images/Mobile/assets by location camera.png" />
+    <Link
+      Url="Content/Images/Mobile/assets by location camera phone.png" />
+    <Link
+      Url="Content/Images/Mobile/get image dialog.png" />
+    <Link
+      Url="Content/Images/Mobile/cancel image button.png" />
+    <Link
+      Url="Content/Images/Mobile/camera image button.png" />
+    <Link
+      Url="Content/Images/Mobile/gallery image button.png" />
+    <Link
+      Url="Content/Images/Mobile/get image phone.png" />
+    <Link
+      Url="Content/Images/Mobile/image selected highlight.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

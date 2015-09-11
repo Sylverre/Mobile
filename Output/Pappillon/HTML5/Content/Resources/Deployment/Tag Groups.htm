@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Tag Groups</title>
+        <script src="../../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Tag Groups</h1>
+        <p>Tag Groups are groups of <span class="GeneralCompanyName">RF Code</span> Tag models that look and behave similarly in terms of form factor and the technology embedded within the tag. Adding Tag Groups to<span class="GeneralProductName">CenterScape</span> also adds them to Zone Manager and allows Zone Manager to “see” individual <span class="GeneralCompanyName">RF Code</span> Tags within the set Tag Group, which then lets <span class="GeneralProductName">CenterScape</span> display and record data that those tags transmit to readers in range, e.g., temperature and humidity readings sent from HUMRCK tags. <span class="GeneralCompanyName">RF Code</span> tags have uniform labels with the following anatomy.</p>
+        <p>Group Code: The Group Code is a 6-letter code. Examples of Group Codes are HUMRCK, IRCODE, LOCATE, RFCRCK, and THSRCK.</p>
+        <p>Tag ID: The Tag ID is a unique 8-digit numeric identifier. You might have 50 HUMRCK tags in your environment, but you can only have one with the Tag ID of 00005111.</p>
+        <p>Treatment Code: The Treatment Code is used together with the Group Code to tell <span class="GeneralCompanyName">RF Code</span> software how to interpret the data that each tag sends in beacons to <span class="GeneralCompanyName">RF Code</span> readers. A Treatment Code can be associated with multiple Group Codes, so it is important to match them exactly when adding them to a specific environment of <span class="GeneralCompanyName">RF Code</span> readers and tags. Note that all tags sold by <span class="GeneralCompanyName">RF Code</span> since November 2012 are assigned to and use Treatment Code 04.</p>
+        <p>All <span class="GeneralCompanyName">RF Code</span> tags are defined as being members of a specific group, and have a unique tag ID number within that group. When an <span class="GeneralCompanyName">RF Code</span> reader is configured, it can be supplied with up to eight (8) group code IDs and a corresponding treatment code for each group code. The treatment code instructs the reader how to interpret the payload data for each tag event within that group code. <span class="GeneralCompanyName">RF Code</span> tags are smart and have the ability to transmit various types of data within its radio frequency beacon such as indicators for motion, panic, tamper, infrared location, and low battery.</p>
+        <p>NOTE: For more information about Tags and Groups, refer to the following <span class="GeneralCompanyName">RF Code</span> KB article: <a href="http://support.rfcode.com/customer/portal/articles/843080">http://support.rfcode.com/customer/portal/articles/843080</a></p>
+        <h2>To add Tag Groups:</h2>
+        <ol>
+            <li value="1">Go to <b>Admin Console &gt; Configuration &gt; Tag Groups</b>.</li>
+        </ol>
+        <ol data-mc-continue="true">
+            <li value="2">Click the <b>New</b> button at the top of the second pane.</li>
+        </ol>
+        <ol data-mc-continue="true">
+            <li value="3">Select the appropriate Treatment Code for the tag being added.</li>
+        </ol>
+        <p>NOTE: The Treatment Code is found in the very lower right-hand corner of the tag and general begins with the prefix 04, such as 04F, 04V, etc.</p>
+        <ol data-mc-continue="true">
+            <li value="4">Choose the appropriate Group Code, which is a six (6) digit alpha-numeric code, found in the lower left corner of the tag, e.g. HUMRCK as seen in the photo diagram of the R155 Temperature-Humidity tag above.</li>
+        </ol>
+        <p>NOTE: After selecting a Treatment Code, the Group Code field will be pre-populated, but if the code does not match the code on your tag, change it so that it reflects the Group Code on the tag label.</p>
+        <ol data-mc-continue="true">
+            <li value="5">Enter a Name for the Tag Group.</li>
+        </ol>
+        <p>NOTE: A common practice is to use the Group Code as the name so that it is easy to identify when you later add assets and associate them with tags. However, the Name field is not restricted, so you can give the Tag Group any name you want if there is ever a reason to use alternative nomenclature.</p>
+        <p style="font-weight: normal;text-decoration: underline;font-style: normal;" data-mc-conditions="General.notes for reviewers">I&#160;need someone to explain to me why I shouldn't, just by default, rename every tag group to something like "Temperature-Humidity" or even "Temp-Hum HUMR" instead of the code. Because I-the-user don't want to deal with codes, so I-the-writer should address that. </p>
+        <p data-mc-conditions="General.New text">Once Tag Groups have been created, <span class="GeneralProductName">CenterScape</span> will create unassigned tag objects. Assigning tags to assets is part of the Tag Management process. <u data-mc-conditions="General.notes for reviewers">[xref]</u></p>
+    </body>
+</html>

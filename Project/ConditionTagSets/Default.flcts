@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment="formatted for online display"
+    Name="ScreenOnly"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment="formatted for PDF or output to InDesign, e.g."
+    Name="PrintOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Notes for authors"
+    Comment="Do Not Print!  Material intended for inheritors of Flare projects" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Reference"
+    Comment="Material that does not include instructions"
+    OriginalName="Reference" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Deployment"
+    Comment="for inclusion in Deployment Guide"
+    OriginalName="Deployment" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="SysAdmin"
+    Comment="for inclusion in System Administrator Guide"
+    OriginalName="SysAdmin" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="User"
+    Comment="end-user oriented material"
+    OriginalName="User" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Sales"
+    Comment="pitch text"
+    OriginalName="Sales" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="NewText"
+    Comment="indicates draft material not yet reviewed; will often appear contrasted to SourceText"
+    OriginalName="NewText" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="SourceText"
+    Comment="indicates older, approved material that the author feels is in need of updates/replacement" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Notes for Reviewers"
+    Comment="not to be included in final output" />
+  <ConditionTag
+    BackgroundColor="#fa8072"
+    Name="AM Comprehensive"
+    Comment="original or lightly glossed content from the AM User Manual (comprehensive)"
+    OriginalName="AM Comprehensive" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Logan"
+    Comment="designates text specific to new product codenamed Logan at the start of this project" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="AM only"
+    Comment="designates text that should be retained for AM but does not apply to Logan" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="future release"
+    Comment="for those features not in the current build but &quot;coming soon!&quot;" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="workflow"
+    Comment="designates text to be included in Workflow build only; usually paired with SysAdmin for alternative displays" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="SysManual"
+    Comment="text to be included where Workflow is Excluded." />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Exclude-Mobile"
+    Comment="designates text that is generally included but should be excluded from mobile outputs" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="include-mobile"
+    Comment="for inclusion in Mobile user manual" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Plus"
+    Comment="designates material to be added to a new Comprehensive output" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="ExcludeGetStarted"
+    Comment="designates text to be excluded from the Getting Started version of the Deployment Guide" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="IncludeGetStart"
+    Comment="designates text to be explicitly included in Getting Started (Deployment Plus)" />
+</CatapultConditionTagSet>

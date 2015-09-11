@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Deployment  Configuration</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Deployment  Configuration</h1>
+        <p><span class="GeneralProductName">CenterScape</span> can be deployed in one of three configuration options:</p>
+        <ul>
+            <li value="1"><span class="Strong">Single-Site Deployment:</span> In this configuration, the <span class="GeneralProductName">CenterScape</span> components (<span class="GeneralProductName">CenterScape</span> and Zone Manager) and the database are all installed and run on a single server. The single-site model is ideal for small-to-medium sized deployments where all assets are in a single geographical location and an existing database server does not exist or can not be used.</li>
+            <li value="2"><span class="Strong">Single-Site, Separate Database Server Deployment:</span> In this configuration, the <span class="GeneralProductName">CenterScape</span> components (<span class="GeneralProductName">CenterScape</span> and Zone Manager) are installed on a single server and interfaced with a database that is located on a separate server. This deployment model is ideal for small-to-medium sized deployments where all assets to be monitored are in a single geographical location and an existing database server can be utilized.</li>
+            <li value="3"><span class="Strong">Multiple-Site Deployment:</span> In this configuration, the <span class="GeneralProductName">CenterScape</span> system will be installed on a server in a centralized location which will include the <span class="GeneralProductName">CenterScape</span> component and a local installation of the Zone Manager. In addition, one ore more Zone Manager components will be deployed on separate servers in remote locations that will communicate with a central <span class="GeneralProductName">CenterScape</span> component. <span class="GeneralProductName">CenterScape</span> will connect to a remote database that is located on a separate server. This deployment method allows for a flexible and highly scalable model for companies that have large quantity and diverse location asset management needs.<br /></li>
+        </ul>
+        <p data-mc-conditions="Default.NewText">Pilot deployments generally use the single-site configuration.</p>
+        <h2>Zone Manager Best Practices</h2>
+        <p><span class="GeneralProductName">CenterScape</span> can be deployed in a variety of different environments for small, medium, large, and enterprise customers. The ability to have multiple remote Zone Managers and a remote database is a key part of this flexible design.</p>
+        <p>The local Zone Manager installed as part of the default installation path can handle 1,000 readers and 100,000s of tags if installed on a powerful server system. The number of tag events has a far larger impact on the resource requirements of the Zone Manager system(s) than the number of readers. The need for additional remote Zone Managers can be driven by two factors:</p>
+        <ul>
+            <li value="1"><span class="Strong">Scalability:</span> The need to handle more tags and readers and spread the load over additional systems.</li>
+            <li value="2"><span class="Strong">Network Architecture and Connectivity:</span> The need to distribute Zone Managers to remote locations in a distributed environment.</li>
+        </ul>
+        <h2>Reader, Zone Manager, and <span class="GeneralProductName">CenterScape</span> Communications</h2>
+        <p>In the <span class="GeneralProductName">CenterScape</span> architecture, the Zone Managers connect to the <span class="GeneralCompanyName">RF Code</span> Readers and <span class="GeneralProductName">CenterScape</span> connects to the Zone Managers. M250 Readers can by connected to multiple Zone Managers and applications at the same time.</p>
+        <p>The more tags seen by a reader, the more network traffic occurs between the <span class="GeneralCompanyName">RF Code</span> Reader and Zone Manager. RF Code Readers are intelligent devices that have the ability to operate in exception mode. When in exception mode, RF Code Readers only pass along tag events that are changes or contain new information. So if a tag which beacons every 10 seconds is stationary, the reader in exception mode will not forward every single event up to its Zone Manager. New events from this stationary beacon tag will only be sent to Zone Manager if the tag’s status changes from online to offline or it senses a different IR Room or Rack Locator. By utilizing exception mode, the amount of network activity is reduced between the <span class="GeneralCompanyName">RF Code</span>Reader and Zone Manager.</p>
+        <p>Zone Manager keeps a memory-based table or index of all tags seen by all of the readers it is communicating with. This table holds all information about the tag such as the readers that see the tag, since it is quite possible two or more readers can see a tag simultaneously. Zone Manager must process each tag event sent from the <span class="GeneralCompanyName">RF Code</span> Readers. With more readers there are more tag events, which drives up Zone Manager CPU and memory usage. Although Zone Manager is an extremely efficient program that can handle 1000 readers and 100,000s of tags on a powerful system, it is possible to overload a Zone Manager system, especially if reader exception mode is not utilized. </p>
+        <p>Zone Manager communicates definitive changes upstream to the <span class="GeneralProductName">CenterScape</span> component. Only meaningful changes are sent to the <span class="GeneralProductName">CenterScape</span>. Examples of meaningful changes are:</p>
+        <ol>
+            <li value="1">A tag goes offline (not seen by any reader)</li>
+            <li value="2">A tag comes online (new tag seen by any reader)</li>
+            <li value="3">A tag location change</li>
+            <li value="4">A tag sensor change (motion, tamper, door, temperature, low battery)<br /><br /></li>
+        </ol>
+        <p>The amount of network communications flowing from the RF Code Readers to Zone Manager is significantly more than the amount of network communications flowing from the Zone Manager to the <span class="GeneralProductName">CenterScape</span>. </p>
+        <h2>Additional Remote Zone Managers for Scalability</h2>
+        <p>In an environment where more than 1,000 readers are needed, additional Zone Managers may be installed on remote systems. These additional Zone Managers running on remote systems will help spread the load of the additional readers and ensure proper system response and performance. Also note that in an environment which has only a few hundred readers with an extremely high amount of tag events will drive the need for additional computing resources (that is, additional remote Zone Managers). When a Zone Manager system has excessively high CPU utilization (consistently 90% or higher) or begins to page or swap memory, the system is overloaded assuming the only application running on the system is Zone Manager. If this condition occurs, it is time to bring an additional Zone Manager online and move some of the RF Code Readers off of the loaded system over to the new Zone Manager.</p>
+        <h2>Additional Remote Zone Managers due to Network Architecture</h2>
+        <p>In a highly distributed environment with geographically dispersed physical locations, it may be desirable to have a Zone Manager at each physical location even though there might only be a few readers at each location. An example might be, a corporate headquarters located in Austin, Texas with additional locations in Dallas, Houston, and San Antonio. The majority of the readers are located in Austin (say 100 readers), but only about five readers in the remote locations (Dallas, Houston, and San Antonio). In this scenario, the local Zone Manager installed with <span class="GeneralProductName">CenterScape</span> on a server in Austin can easily handle all of the locations. However, if the network connections between Austin and the remote locations are congested, or highly utilized, it might be best to install a remote Zone Manager in each of the remote locations. In this scenario, the Zone Manager reduces the amount of network traffic therefore requiring less network bandwidth between the remote sites and the main corporate site.</p>
+        <h2>Reader Overlap and Multiple Zone Managers</h2>
+        <p>One of the many functions provided by Zone Managers is to determine the precise location of a tag based on the locations and rules configured using the Administrator Console. It is acceptable and expected for multiple readers connected to a single Zone Manager to be able to see the same tag (that is, overlapping readers). This is the ideal way to fully cover an area and Zone Manager is designed to correctly determine the zonal position of a tag even when reader zones overlap. However, do not configure your readers in such a way that overlapping readers are connected to two different Zone Managers. Overlapping readers should always be connected to the same Zone Manager.</p>
+    </body>
+</html>

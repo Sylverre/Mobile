@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Add Assets to CenterScape</title>
+        <link href="../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Add Assets to <span class="GeneralProductName">CenterScape</span></h1>
+        <p>Assets are the physical objects that are managed and/or monitored with <span class="GeneralProductName">CenterScape</span>. You may choose to add assets that will not be tagged as well as tagged assets and assets to which tags have not yet been assigned. Assigning tags to assets can be done as part of, or separately from, the process of adding assets to <span class="GeneralProductName">CenterScape</span>. To audit the location of assets that may be moved, assign a tag to an asset; to collect data from sensors, assign the sensors as assets.</p>
+        <h2><a name="Add_Single_Asset"></a>Add a Single Asset</h2>
+        <ol>
+            <li value="1">Navigate to <span class="strong">User Console &gt; Assets</span> and click <span class="strong">New</span> to add an asset manually.  </li>
+            <li style="page-break-after: avoid;" value="2">Select the Asset Template or Asset Type from the drop-down menus and complete all required and any desired additional fields in the <span class="strong">Create: <span class="emphasis">Asset</span></span> pop-up window. </li>
+        </ol>
+        <p style="page-break-before: avoid;">&#160;</p>
+        <p><span class="Strong">NOTE</span>:&#160; Those fields with asterisks (*) are required fields.</p>
+        <ol data-mc-continue="true">
+            <li value="3">When completed, click one of the buttons at the bottom of the dialog:  <span class="strong">Edit Group</span> to restrict access to the asset type, <span class="strong">Save &amp; Add Another</span>, or <span class="strong">Save</span>.  <span class="strong">Cancel</span> closes the window without saving.</li>
+        </ol>
+        <h2>Assign Tag and Add Single Asset</h2>
+        <ol>
+            <li value="1">Navigate to <span class="strong">User Console &gt; Tag Management &gt; Manage Tags</span>.</li>
+            <li value="2">Select the tag(s) under the Import Detected Tags column and click the <span class="strong">Add Selected Tag(s)</span> button, or click <span class="strong">Add All Tags</span>. This will move the tags to the Unassigned Tags column.</li>
+            <li value="3">In the Unassigned Tags column, right-click on the tag to be assigned in the far right column and then select <span class="strong">New Asset</span>.</li>
+            <li value="4">Complete the <span class="strong">Create: <span class="emphasis">Asset</span></span> dialog.</li>
+            <li value="5">When completed, click   <span class="strong">OK</span>.  <span class="strong">Cancel</span> closes the window without saving.</li>
+        </ol>
+        <h2>Import Assets</h2>
+        <p><span class="GeneralCompanyName">RF Code</span> recommends that you create at least one asset using use the appropriate <a href="#Add_Single_Asset">Asset Template or Asset Type</a>, then export these exemplar assets and modify the CSV to import assets. </p>
+        <p>After you have created one or more exemplar assets:</p>
+        <ol>
+            <li value="1">Navigate to <span class="strong">User Console &gt;&#160;Assets &gt;&#160;Manage Assets</span>. </li>
+            <li value="2">Click on the new asset to select it. If you have created multiple exemplar assets, <span class="strong">ctrl-click</span> to select each of the exemplars.</li>
+            <li value="3">Click the <span class="strong">Export</span> button to export a CSV file from <span class="GeneralProductName">CenterScape</span> to use as a template,<MadCap:conditionalText data-mc-conditions="Default.NewText"> or <span class="strong">right-click</span> and select <span class="strong">Export</span> to export multiple selected exemplars</MadCap:conditionalText>. </li>
+            <li value="4">Select the <span class="strong">Advanced Export</span> option and <span class="strong">Export all asset attributes</span>.  </li>
+            <li value="5">Export CSV.</li>
+            <li value="6">Open the CSV file in a spreadsheet program.</li>
+            <li value="7">Remove all columns other than: </li>
+            <table style="width: 100%;border-top-left-radius: 1px;border-top-right-radius: 1px;border-bottom-right-radius: 1px;border-bottom-left-radius: 1px;border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;margin-left: 0;margin-right: auto;" class="TableNormal">
+                <col style="width: 14%;" />
+                <col style="width: 14%;" />
+                <col style="width: 14%;" />
+                <col style="width: 14%;" />
+                <col style="width: 14%;" />
+                <col style="width: 14%;" />
+                <col style="width: 14%;" />
+                <thead>
+                    <tr>
+                        <th>Class</th>
+                        <th>Type</th>
+                        <th>guid</th>
+                        <th>Retired</th>
+                        <th>Deletable</th>
+                        <th>$aName</th>
+                        <th>$aAsset Tag</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="border-left-style: solid;border-left-color: #878787;border-right-style: solid;border-right-color: #878787;border-top-style: solid;border-top-color: #878787;border-bottom-style: solid;border-bottom-color: #878787;">typically Entity. </td>
+                        <td>Asset Type</td>
+                        <td>leave this field empty. <span class="GeneralProductName">CenterScape</span> will assign a guid on import.</td>
+                        <td>For new assets, False.</td>
+                        <td>This field describes whether or not a user can delete this asset. Typically True.</td>
+                        <td>Assign a unique name for each asset.</td>
+                        <td>Enter the unique Tag ID for each tagged asset.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <li value="8">Add information for each new asset in a new row.</li>
+        </ol>
+        <ol data-mc-continue="true">
+            <li value="9"><span class="strong">Save</span> file as CSV.</li>
+            <li value="10">Navigate to <span class="strong">User Console &gt;&#160;Assets &gt; Import Assets</span>. &#160;</li>
+            <li value="11"><span class="strong">Browse</span> to and <span class="strong">Upload</span> CSV.<br /></li>
+        </ol>
+        <h2>Add Asset Template</h2>
+        <p>Create templates to pre-populate common asset attributes for asset types. Asset Templates minimize the need for data entry, in some cases leaving only Name and Tag to be completed by the user. Asset templates are well-suited to adding assets with use of a barcode scanner. </p>
+        <ol>
+            <li value="1">Navigate to <span class="strong">Admin Console &gt; Customization</span> and click <span class="strong">Asset Template</span>.</li>
+            <li value="2">Complete the <span class="strong">Template ID</span> and <span class="strong">Description</span> fields, and select the desired asset type. </li>
+            <li value="3">Complete the asset type information fields that appear. <span class="strong">Save Changes</span> when finished. The template is now available in the User Console. To view or use, navigate to <span class="strong">User Console &gt; Assets &gt;&#160;New</span> and click the drop-down arrow for Asset Template. </li>
+        </ol>
+        <h2>Edit Asset Template</h2>
+        <p><span class="GeneralProductName">CenterScape</span> includes Rack and Server asset templates; these assets can be edited, and copied for use as a framework for new templates. Templates you create can also be copied and edited. </p>
+        <ol>
+            <li value="1">Navigate to <span class="strong">Admin Console &gt; Customization</span> and click <span class="strong">Asset Template</span>.</li>
+            <li value="2">In the center Hierarchy menu, select the template to edit. </li>
+            <li value="3">Make the desired changes in the Template Settings pane. <span class="strong">Save Changes</span> when finished. The template is now available in the User Console.  </li>
+        </ol>
+    </body>
+</html>

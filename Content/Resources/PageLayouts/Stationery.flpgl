@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Left" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="1in" PaddingRight="1.5in" PaddingTop="1in" PaddingBottom="1in" BackgroundColor="#ffffff" BackgroundType="Solid" Orientation="portrait">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.2604167in" Y="0.5208333in" Right="-0.8125in" Bottom="0in" Width="7.072917in" Height="8.479167in" ColumnGap="0" BackgroundType="Solid" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" BackgroundImage="none">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="-77px" X="-0.3020833in" Y="9.166667in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.625in" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="2pt" BorderTopColor="#000000" Width="7.104167in" Bottom="-76px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="Footer2" xhtml:style="text-align: left;font-size: 7pt;"><MadCap:variable xhtml:name="General.StreetAddress" xhtml:style="font-size: 10pt;" />&#160;<MadCap:variable xhtml:name="General.Suite" xhtml:style="font-size: 10pt;" />&#160;<MadCap:variable xhtml:name="General.CityStateZip" xhtml:style="font-size: 10pt;" />&#160;<xhtml:span xhtml:style="font-size: 10pt;">Tel. </xhtml:span><MadCap:variable xhtml:name="General.Phone" xhtml:style="font-size: 10pt;" />&#160;<xhtml:span xhtml:style="font-size: 10pt;">Fax </xhtml:span><MadCap:variable xhtml:name="General.Fax" xhtml:style="font-size: 10pt;" />&#160;<MadCap:variable xhtml:name="General.Company Website" xhtml:style="font-size: 10pt;" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-0.3020833in" Y="-59px" Width="7.104167in" Height="100px" Flow="header" ColumnCount="1" Anchors="" Right="-77px" Bottom="823px" BackgroundColor="#ffffff" BackgroundType="Solid" BorderBottomStyle="solid" BorderBottomWidth="0px" BackgroundImage="none">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;">
+                            <xhtml:img xhtml:src="../../Global Images/rfc logo.bmp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Copy of Left" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="1in" PaddingRight="1.5in" PaddingTop="1in" PaddingBottom="1in" BackgroundColor="#ffffff" BackgroundType="Solid" Orientation="portrait">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.2604167in" Y="0.5208333in" Right="-0.8125in" Bottom="0in" Width="7.072917in" Height="8.479167in" ColumnGap="0" BackgroundType="Solid" BackgroundColor="#ffffff" BackgroundColorAlt="#ffffff" BackgroundImage="none">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="-77px" X="-0.3020833in" Y="9.166667in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.625in" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="2pt" BorderTopColor="#000000" Width="7.104167in" Bottom="-76px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="Footer2" xhtml:style="text-align: left;font-size: 9pt;"><MadCap:variable xhtml:name="General.StreetAddress" xhtml:style="font-size: 10pt;" />&#160;<MadCap:variable xhtml:name="General.Suite" xhtml:style="font-size: 10pt;" />&#160;<MadCap:variable xhtml:name="General.CityStateZip" xhtml:style="font-size: 10pt;" />&#160;<xhtml:span xhtml:style="font-size: 10pt;">Tel. </xhtml:span><MadCap:variable xhtml:name="General.Phone" xhtml:style="font-size: 10pt;" />&#160;<xhtml:span xhtml:style="font-size: 10pt;">Fax </xhtml:span><MadCap:variable xhtml:name="General.Fax" xhtml:style="font-size: 10pt;" />&#160;<MadCap:variable xhtml:name="General.Company Website" xhtml:style="font-size: 10pt;" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-0.3020833in" Y="-59px" Width="7.104167in" Height="100px" Flow="header" ColumnCount="1" Anchors="" Right="-77px" Bottom="823px" BackgroundColor="#ffffff" BackgroundType="Solid" BorderBottomStyle="solid" BorderBottomWidth="0px" BackgroundImage="none">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;">
+                            <xhtml:img xhtml:src="../../Global Images/rfc logo.bmp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="empty" PaddingLeft="1in" PaddingRight="1.5in" PaddingTop="1in" PaddingBottom="1in" Name="Empty" Orientation="portrait" BackgroundType="Solid" BackgroundColor="#ffffff">
+    </Page>
+</PageStyles>

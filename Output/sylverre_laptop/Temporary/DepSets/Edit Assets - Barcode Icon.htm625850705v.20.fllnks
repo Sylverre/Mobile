@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/Mobile/barcode icon.png" />
+    <Link
+      Url="Content/Images/Mobile/assets by location barcode.png" />
+    <Link
+      Url="Content/Images/Mobile/asset barcode phone.png" />
+    <Link
+      Url="Content/Images/Mobile/barcode viewfinder.png" />
+    <Link
+      Url="Content/Images/Mobile/barcode in view.png" />
+    <Link
+      Url="Content/Images/Mobile/barcode scanned.png" />
+    <Link
+      Url="Content/Images/Mobile/barcode imported.png" />
+    <Link
+      Url="Content/Images/Mobile/clear x.bmp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/Mobile/barcode icon.png" />
+    <Link
+      Url="Content/Images/Mobile/assets by location barcode.png" />
+    <Link
+      Url="Content/Images/Mobile/asset barcode phone.png" />
+    <Link
+      Url="Content/Images/Mobile/barcode viewfinder.png" />
+    <Link
+      Url="Content/Images/Mobile/barcode in view.png" />
+    <Link
+      Url="Content/Images/Mobile/barcode scanned.png" />
+    <Link
+      Url="Content/Images/Mobile/barcode imported.png" />
+    <Link
+      Url="Content/Images/Mobile/clear x.bmp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

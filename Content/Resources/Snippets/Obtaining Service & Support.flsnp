@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="581" MadCap:lastWidth="859">
+    <body>
+        <h2>Obtaining Service &amp; Support</h2>
+        <p>For in-warranty service, customers have several options. Customers having difficulty with <MadCap:variable name="General.CompanyName" /> products should attempt to solve those problems through <MadCap:variable name="General.CompanyName" />’s Technical Support Problem Escalation Process:</p>
+        <p>First, contact the <MadCap:variable name="General.CompanyName" /> representative or other distributor from whom the <MadCap:variable name="General.CompanyName" /> product was purchased for information on how to obtain local support.</p>
+        <p>Second, contact the <MadCap:variable name="General.CompanyName" /> Customer Support via e-mail.</p>
+        <p>Third, contact the <MadCap:variable name="General.CompanyName" /> Customer Support via the Support Line.</p>
+        <p>For product returns, the support engineer will give you a return material authorization (RMA) number. No returns will be accepted without an RMA number. If the warranty expired, there is a charge for repair or replacement per <MadCap:variable name="General.CompanyName" />’s out-of-warranty policy. For full details of the <MadCap:variable name="General.CompanyName" /> RMA policy, please review the “<MadCap:variable name="General.CompanyName" /> Warranty, RMA, and Extended Warranty Policy” document.</p>
+        <p MadCap:conditions="Default.Notes for authors">source:&#160;unreleased doc Zone Manager User Manual (beta)</p>
+    </body>
+</html>

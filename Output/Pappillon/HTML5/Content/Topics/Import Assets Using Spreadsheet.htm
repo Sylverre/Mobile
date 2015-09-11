@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Import Assets Using Spreadsheet</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Import Assets Using Spreadsheet</h1>
+        <p>All of your assets and sensors can be manually added to the <span class="GeneralProductName">CenterScape</span> database, but it is more efficient to upload this information from a populated spreadsheet. </p>
+        <ul>
+            <li value="1"><span class="GeneralProductName">CenterScape</span> must be configured before Assets can be imported.  </li>
+            <li value="2">At least one Asset must be created within <span class="GeneralProductName">CenterScape</span>..</li>
+            <li value="3">File must be created in and exported from <span class="GeneralProductName">CenterScape</span>, then populated and imported into system.</li>
+            <li value="4">Every asset must have a unique name. Duplicate assets will not be imported.</li>
+            <li value="5">There is no limit on the number of asset types that can be created within <span class="GeneralProductName">CenterScape</span>.  </li>
+            <li value="6">Assets can be imported all at once or in smaller sets. </li>
+        </ul>
+        <ol>
+            <li value="1">Navigate to <span class="Strong">User Console &gt; Assets &gt; Manage Assets</span>.  If no assets have been created, click <span class="Strong">New</span> to create at least one asset manually in system.</li>
+        </ol>
+        <p>&#160;</p>
+        <p class="note">If importing a set of assets all of a single type, create an asset of that type.   </p>
+        <ol data-mc-continue="true">
+            <li value="2">Click <span class="Strong">Export</span>. Select Advanced Export and CSV.</li>
+            <li value="3">Open file in spreadsheet program.</li>
+            <li value="4">Highlight all cells (<span class="strong">Ctrl-A</span>) and then double-click the line between the first two columns to expand all the columns wide enough to read all of the cell values.</li>
+        </ol>
+        <p>
+            <img src="../Images/placeholder logan spreadsheet 1.bmp" style="width: 1078px;height: 397px;" />
+        </p>
+        <ol data-mc-continue="true">
+            <li value="5">To create a general template that can be used for multiple asset types, delete all data leaving only the header row. To create a template for a single asset type, delete the contents of all those columns except the attributes common to the asset.</li>
+            <li value="6">&#160;Populate the spreadsheet.<ol data-mc-continue="true"><li value="1">Do not enter any text into the <span class="Emphasis">guid</span> column; the contents of the <span class="Emphasis">guid</span> column must be blank.</li><li value="2">Enter a unique value for each asset in the <span class="Emphasis">$aName</span> column. </li><li value="3">For sensors and tagged assets, enter the Tag ID in <span class="Emphasis">$aAssetTag</span>. The Tag ID is the six-character Group Code followed by the eight-digit Tag ID, with no spaces. </li><li value="4">All other columns are optional.</li></ol></li>
+        </ol>
+        <ol data-mc-continue="true">
+            <li value="7"><span class="Strong">Save</span> as CSV.</li>
+            <li value="8">Navigate to <span class="Strong">User Console &gt; Assets &gt; Import Assets</span>.</li>
+            <li value="9"><span class="Strong">Browse</span> to and <span class="Strong">Upload</span> file.</li>
+        </ol>
+    </body>
+</html>

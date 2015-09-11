@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="[%=General.ProductName%] User Manual" Link="/Content/Topics/Mobile/Title Page.htm" BreakType="chapter" PageNumberReset="reset" PageNumber="1" StartSection="false" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" ComputeToc="false" ReplaceMergeNode="false">
+        <TocEntry Title="TOC" BreakType="pageLayout" StartSection="false" />
+        <TocEntry Title="Trademarks" BreakType="pageLayout" StartSection="true" PageNumberReset="reset" ComputeToc="false" ReplaceMergeNode="false" PageNumber="1" />
+        <TocEntry Title="Copyright Statement" StartSection="false" />
+    </TocEntry>
+    <TocEntry Title="Asset Manager Mobile" ReplaceMergeNode="false" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="1">
+        <TocEntry Title="[%=General.ProductName% ]Mobile Overview" Link="/Content/Topics/Mobile/Mobile Overview.htm" />
+        <TocEntry Title="Features" Link="/Content/Topics/Mobile/Features.htm" />
+        <TocEntry Title="Specifications &amp; Minimum Requirements" Link="/Content/Topics/Mobile/Specifications.htm" BreakType="pageLayout" StartSection="false" />
+        <TocEntry Title="Installing [%=General.ProductName%] Mobile" Link="/Content/Topics/Mobile/Installing Mobile.htm" BreakType="pageLayout" StartSection="false" />
+        <TocEntry Title="Getting Started with [%=General.ProductName%] Mobile" Link="/Content/Topics/Mobile/Getting Started with Mobile.htm" BreakType="pageLayout" StartSection="false" />
+        <TocEntry Title="Configuring and Using [%=General.ProductName%] Mobile" Link="/Content/Topics/Mobile/Configuring Mobile.htm" />
+        <TocEntry Title="[%=General.ProductName%] Mobile Console Overview" Link="/Content/Topics/Mobile/Mobile Console Overview.htm" />
+        <TocEntry Title="Basic Navigation" Link="/Content/Topics/Mobile/Basic Navigation.htm" />
+        <TocEntry Title="Main Menu" Link="/Content/Topics/Mobile/Main Menu.htm" />
+        <TocEntry Title="Browse Assets by Type" Link="/Content/Topics/Mobile/Browse Assets by Type.htm" />
+        <TocEntry Title="Browse Assets by Location" Link="/Content/Topics/Mobile/Browse Assets by Location.htm" />
+        <TocEntry Title="Browse Alerts" Link="/Content/Topics/Mobile/Browse Alerts.htm" />
+        <TocEntry Title="The Alert Screen" Link="/Content/Topics/Mobile/The Alert Screen.htm" />
+        <TocEntry Title="Asset Details Screen" Link="/Content/Topics/Mobile/Asset Details Screen.htm" />
+        <TocEntry Title="Basic Information Screen" Link="/Content/Topics/Mobile/Basic Information Screen.htm" />
+        <TocEntry Title="Asset Tag Screen" Link="/Content/Topics/Mobile/Asset Tag Screen.htm" />
+        <TocEntry Title="Edit Assets -- Barcode Icon" Link="/Content/Topics/Mobile/Edit Assets - Barcode Icon.htm" />
+        <TocEntry Title="Edit Assets -- Camera Icon" Link="/Content/Topics/Mobile/Edit Assets - Camera Icon.htm" />
+        <TocEntry Title="Acknowledging Alerts" Link="/Content/Topics/Mobile/Acknowledging Alerts.htm" />
+        <TocEntry Title="Bookmarks" Link="/Content/Topics/Mobile/Bookmarks.htm" />
+        <TocEntry Title="Global Search" Link="/Content/Topics/Mobile/Global Search.htm" />
+        <TocEntry Title="Asset and Sensor Filtering" Link="/Content/Topics/Mobile/Asset and Sensor Filtering.htm" />
+        <TocEntry Title="Asset Filter Options" Link="/Content/Topics/Mobile/Asset Filter Options.htm" />
+        <TocEntry Title="Filtering for Assets or Sensors Only" Link="/Content/Topics/Mobile/Filtering for Assets or Sensors Only.htm" />
+        <TocEntry Title="Filtering for Alerts Only" Link="/Content/Topics/Mobile/Filtering for Alerts Only.htm" />
+    </TocEntry>
+    <TocEntry Title="RF Code Support and Professional Services" BreakType="pageLayout" StartSection="false" />
+</CatapultToc>

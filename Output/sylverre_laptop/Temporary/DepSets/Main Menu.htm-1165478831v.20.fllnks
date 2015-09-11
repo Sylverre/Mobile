@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Images/Mobile/main menu button.png" />
+    <Link
+      Url="Content/Images/Mobile/navigation - main button highlight.png" />
+    <Link
+      Url="Content/Images/Mobile/navigation - browse assets by type.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS menu browse assets by type.png" />
+    <Link
+      Url="Content/Images/Mobile/navigation - browse assets by type phone.png" />
+    <Link
+      Url="Content/Images/AM Mobile/smartphone CS menu recreation.bmp" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Images/Mobile/main menu button.png" />
+    <Link
+      Url="Content/Images/Mobile/navigation - main button highlight.png" />
+    <Link
+      Url="Content/Images/Mobile/navigation - browse assets by type.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS menu browse assets by type.png" />
+    <Link
+      Url="Content/Images/Mobile/navigation - browse assets by type phone.png" />
+    <Link
+      Url="Content/Images/AM Mobile/smartphone CS menu recreation.bmp" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.AM only" />
+    <Condition
+      Tag="Default.Logan" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

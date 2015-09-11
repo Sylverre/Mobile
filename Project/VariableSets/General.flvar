@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="Year"
+    OriginalName="Year">2015</Variable>
+  <Variable
+    Name="Phone"
+    Definition="Some text">512.439.2200</Variable>
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    Definition="Some text">RF Code</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress">9229 Waterford Centre Blvd.</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text">Austin, TX 78758</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName">CenterScape</Variable>
+  <Variable
+    Name="Tollfree"
+    Comment=""
+    OriginalName="Tollfree">866.830.4578</Variable>
+  <Variable
+    Name="Company Website"
+    Comment=""
+    OriginalName="Fax">www.rfcode.com</Variable>
+  <Variable
+    Name="UserGuideTitle"
+    Comment="">Guide</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot"
+    Comment="Product Version number isn't often used, mainly for mobile">1.0</Variable>
+  <Variable
+    Name="Support Website"
+    Comment="">http://Support.RFCode.com</Variable>
+  <Variable
+    Name="Suite"
+    Comment="">Building 500</Variable>
+  <Variable
+    Name="DocNumber"
+    Comment="see Frank Harris for doc numbers">PNxxx-yyy</Variable>
+  <Variable
+    Name="Fax"
+    Comment="">512.439.2199</Variable>
+  <Variable
+    Name="RevNumber"
+    Comment="final draft = 00.  Subsequent releases are 01, 02, etc.">REV Unreleased</Variable>
+  <Variable
+    Name="SupportPhone"
+    Comment="">512.439.2244</Variable>
+  <Variable
+    Name="MinimumSupported"
+    Comment="for Mobile, earliest product version supported">2.9</Variable>
+</CatapultVariableSet>

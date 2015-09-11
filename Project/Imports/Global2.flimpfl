@@ -1,0 +1,2788 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.*"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  AutoSync="true"
+  LastImport="2015-08-24T16:13:35.1856742-05:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/Pappillon/Global/Global.flprj"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Global.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../../RFCode/Content/Print Only Topics/Copyright.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Print Only Topics/Copyright.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Print Only Topics/Glossary.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Print Only Topics/Glossary.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Print Only Topics/Index.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Print Only Topics/Index.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Print Only Topics/PDFGuideATitle.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Print Only Topics/PDFGuideATitle.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Print Only Topics/PDGGuideBTitle.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Print Only Topics/PDGGuideBTitle.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Print Only Topics/TOC.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Print Only Topics/TOC.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Access Control.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Access Control.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Adding LDAP Users and Groups.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Adding LDAP Users and Groups.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Adding Tag Groups.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Adding Tag Groups.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Adding Users.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Adding Users.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Advanced Asset Security.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Advanced Asset Security.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Advanced Reader Configuration.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Advanced Reader Configuration.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Asset Attributes.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Asset Attributes.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Asset Templates.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Asset Templates.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Asset Types.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Asset Types.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/BACnet Slave Device.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/BACnet Slave Device.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/BACnet Slave Object IDs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/BACnet Slave Object IDs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/BACnet Slave Server.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/BACnet Slave Server.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Basic Information - Graph.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Basic Information - Graph.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Bookmarks.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Bookmarks.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuration for Unknown.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuration for Unknown.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuration Settings for1.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuration Settings for1.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuration Settings for3.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuration Settings for3.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuration Settings Specific.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuration Settings Specific.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuring a Production Database.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuring a Production Database.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuring FTP Actions for.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuring FTP Actions for.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuring Graph Template.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuring Graph Template.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuring Report Template.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuring Report Template.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Configuring SMTP.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Configuring SMTP.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Creating and Using Map Hot.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Creating and Using Map Hot.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Creating Asset Templates.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Creating Asset Templates.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Creating Graph Template Definitions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Creating Graph Template Definitions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Creating Groups.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Creating Groups.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Creating Maps.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Creating Maps.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Creating Report Template Definitions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Creating Report Template Definitions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Custom Attribute Types.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Custom Attribute Types.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Data Schema.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Data Schema.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deleting Asset Types.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deleting Asset Types.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deleting Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deleting Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deleting Reports.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deleting Reports.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Expected Location.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Expected Location.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Exporting Reports.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Exporting Reports.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Filtering Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Filtering Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Graph Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Graph Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Graph Appearance.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Graph Appearance.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Graph Columns Attributes.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Graph Columns Attributes.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Graph Filter and Post Condition.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Graph Filter and Post Condition.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Graph Filters Post Conditions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Graph Filters Post Conditions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Graph Schedule.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Graph Schedule.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Integrating with BACnet.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Integrating with BACnet.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Integrating with JMX.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Integrating with JMX.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Integrating with Modbus.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Integrating with Modbus.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/JMX Domain Configuration Settings.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/JMX Domain Configuration Settings.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/JMX Domains.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/JMX Domains.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/JMX Monitor.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/JMX Monitor.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Licenses for Advanced Features.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Licenses for Advanced Features.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Locations and the Location.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Locations and the Location.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Macros for Reports and Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Macros for Reports and Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Manage Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Manage Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Manage Reports.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Manage Reports.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Map Views.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Map Views.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Maps.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Maps.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Modbus Slave Addresses.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Modbus Slave Addresses.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Modbus Slave Devices.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Modbus Slave Devices.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Modbus Slave Server.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Modbus Slave Server.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Overview of Groups.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Overview of Groups.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Report Filters Post Conditions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Report Filters Post Conditions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Report Schedule.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Report Schedule.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Reports and Graphs Overview.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Reports and Graphs Overview.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Reports and Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Reports and Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Reports.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Reports.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Rule Types and Configuration.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Rule Types and Configuration.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Running and Viewing Reports.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Running and Viewing Reports.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Running Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Running Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Security.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Security.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/User Accounts and Security.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/User Accounts and Security.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/User Accounts Roles and Permissions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/User Accounts Roles and Permissions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Using Actions with Reports.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Using Actions with Reports.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Viewing an Asset Type Sample.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Viewing an Asset Type Sample.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Viewing Asset Types.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Viewing Asset Types.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Viewing Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Viewing Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/[DCM] Web Console Overview.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/[DCM] Web Console Overview.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Add Reader(s).htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Add Reader(s).htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Adding LDAP Users and Groups.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Adding LDAP Users and Groups.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Adding Licenses.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Adding Licenses.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Adding Sensors as Assets1.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Adding Sensors as Assets1.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Adding Sensors as Assets2.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Adding Sensors as Assets2.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Alert Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Alert Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Alert Filter.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Alert Filter.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Alert Thresholds.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Alert Thresholds.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Alert Viewer.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Alert Viewer.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Alerts.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Alerts.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Applying a Calculated Asset.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Applying a Calculated Asset.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Asset Links.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Asset Links.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Asset Skins.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Asset Skins.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/BIRT Templates.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/BIRT Templates.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Calculated Asset Attributes.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Calculated Asset Attributes.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Calculated Asset Attributes1.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Calculated Asset Attributes1.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Calculated Asset Attributes2.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Calculated Asset Attributes2.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Conditional Formatting with.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Conditional Formatting with.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuration Settings for.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuration Settings for.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuration Settings for2.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuration Settings for2.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuration Settings for4.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuration Settings for4.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring Alert Thresholds.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring Alert Thresholds.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring Email Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring Email Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring Email Alert Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring Email Alert Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring Event Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring Event Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring FTP Alert Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring FTP Alert Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring HTTP Post Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring HTTP Post Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring HTTP Post Alert.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring HTTP Post Alert.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring Logging Alert.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring Logging Alert.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring Serial Device.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring Serial Device.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring SNMP V1 Trap Alert.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring SNMP V1 Trap Alert.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring SNMP V3 Alert.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring SNMP V3 Alert.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring the M250 Reader.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring the M250 Reader.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Configuring Triggers.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Configuring Triggers.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Copying Alert Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Copying Alert Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Copying Alert Thresholds.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Copying Alert Thresholds.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Copying Event Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Copying Event Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Copying Event Triggers.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Copying Event Triggers.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/CRAC Assets for RTI.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/CRAC Assets for RTI.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Creating a Basic Dashboard.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Creating a Basic Dashboard.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Creating a Calculated Asset.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Creating a Calculated Asset.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Creating Alert Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Creating Alert Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Creating Alert Thresholds.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Creating Alert Thresholds.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Creating Event Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Creating Event Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Creating New Triggers.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Creating New Triggers.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Dashboards.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Dashboards.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Data Center Requirements.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Data Center Requirements.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Data Schema.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Data Schema.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/DCM Deploy Intro.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/DCM Deploy Intro.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/DCM Deploy Overview.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/DCM Deploy Overview.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/DCM Hardware, Software, and Database Requirements.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/DCM Hardware, Software, and Database Requirements.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/DCM Initial Configuration - Consoles.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/DCM Initial Configuration - Consoles.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/DCM Installation.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/DCM Installation.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/DCM manual pilot deployment1.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/DCM manual pilot deployment1.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Deleting Alert Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Deleting Alert Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Deleting Alert Thresholds.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Deleting Alert Thresholds.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Deleting Event Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Deleting Event Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Deleting Event Triggers.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Deleting Event Triggers.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Discovery.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Discovery.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Event Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Event Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Event Filters.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Event Filters.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Event Triggers.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Event Triggers.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Events.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Events.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Export Configuration.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Export Configuration.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Folders.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Folders.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Global Alert Policies for.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Global Alert Policies for.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Global Positioning System (GPS).htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Global Positioning System (GPS).htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Import Configuration.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Import Configuration.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Install and Configure IR Locator.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Install and Configure IR Locator.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Installation and Deployment of Readers.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Installation and Deployment of Readers.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Integrating with LDAP Active.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Integrating with LDAP Active.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/JMX Monitor.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/JMX Monitor.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/LDAP Server Configuration.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/LDAP Server Configuration.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Locations and Rules.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Locations and Rules.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Locations.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Locations.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Macros for Events and Alerts.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Macros for Events and Alerts.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Map Views in the User Console.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Map Views in the User Console.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Maps.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Maps.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Measuring RTI.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Measuring RTI.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Planning and Deployment.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Planning and Deployment.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Rack Cooling Index.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Rack Cooling Index.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Readers, Reader Firmware, Reader Status.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Readers, Reader Firmware, Reader Status.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Reports, Advanced.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Reports, Advanced.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Reports, Create New.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Reports, Create New.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Reports, Run.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Reports, Run.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Return Temperature Index.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Return Temperature Index.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Schema Import.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Schema Import.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Security.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Security.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Sensor Definitions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Sensor Definitions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Serial Devices.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Serial Devices.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Server.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Server.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Statistical Pack.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Statistical Pack.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Statistical Policy.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Statistical Policy.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Status Attributes.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Status Attributes.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Summary Assets.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Summary Assets.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Table View.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Table View.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Tag Groups.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Tag Groups.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Tag Management.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Tag Management.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Tag Positioning.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Tag Positioning.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Testing Event Actions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Testing Event Actions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/The Administrator Console.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/The Administrator Console.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Thresholds and Alerts.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Thresholds and Alerts.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Time - Graphs.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Time - Graphs.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Time - Reports.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Time - Reports.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/User Audit Trail.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/User Audit Trail.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Viewing Assets.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Viewing Assets.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Zone Manager Status.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Zone Manager Status.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Resources/Deployment/Zone Manager.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Resources/Deployment/Zone Manager.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.eps"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.eps" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.eps"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.eps" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/CenterScape Logo Color.png"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/CenterScape Logo Color.png" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/CS logo cropped no RFC.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/CS logo cropped no RFC.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/drop-down arrow.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/drop-down arrow.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/ECD Survey 1 of 3.jpg"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/ECD Survey 1 of 3.jpg" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/greencheck.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/greencheck.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/help icon.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/help icon.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/redx.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/redx.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/RFC data center background - Copy.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/RFC data center background - Copy.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/RFC data center background cropped and shaded.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/RFC data center background cropped and shaded.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/rfc data center background rich color.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/rfc data center background rich color.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/RFC data center background.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/RFC data center background.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/rfc dc back.jpg"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/rfc dc back.jpg" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Global Images/rfc logo.bmp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Global Images/rfc logo.bmp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/Appendix.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/Appendix.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/ChapterNumber.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/ChapterNumber.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/Copyright Statement.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/Copyright Statement.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/Glossary.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/Glossary.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/Index.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/Index.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/PDFGuideATitle.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/PDFGuideATitle.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/PDGGuideBTitle.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/PDGGuideBTitle.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/TOC.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/TOC.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Print Only Topics/Trademarks.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Print Only Topics/Trademarks.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Time - Reports.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Time - Reports.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Web Browsers Supported.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Web Browsers Supported.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/2012 Tasks Menu.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/2012 Tasks Menu.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Appendix 2012 - Existing Zone Manger Integration.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Appendix 2012 - Existing Zone Manger Integration.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Appendix-Example Floorplans.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Appendix-Example Floorplans.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Appendix-Inventory Spreadsheet.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Appendix-Inventory Spreadsheet.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Asset Location and Detected Location.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Asset Location and Detected Location.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Assets-Workflow.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Assets-Workflow.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Best Practice - Installing Sensor Tags in Network Closets.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Best Practice - Installing Sensor Tags in Network Closets.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Best Practices for Importing Assets with a Spreadsheet.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Best Practices for Importing Assets with a Spreadsheet.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Changing Administrator Login.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Changing Administrator Login.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Changing Web Server Ports.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Changing Web Server Ports.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Compare Values.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Compare Values.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Configuration for Unknown.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Configuration for Unknown.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Configuration Task intro.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Configuration Task intro.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Creating and Using Map Hot.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Creating and Using Map Hot.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Creating Maps.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Creating Maps.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Default Alerts.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Default Alerts.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Default Dashboards.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Default Dashboards.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Default Graphs.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Default Graphs.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Default Reports.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Default Reports.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Delete Assets.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Delete Assets.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Deployment Configuration.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Deployment Configuration.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Displaying Values in English or Metric System.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Displaying Values in English or Metric System.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Events and Alerts.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Events and Alerts.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Getting Started with Product-PilotConfig.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Getting Started with Product-PilotConfig.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Getting Started with Product-SysConfig.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Getting Started with Product-SysConfig.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Import Assets Using Spreadsheet.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Import Assets Using Spreadsheet.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Import Location Hierarchy Using Spreadsheet.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Import Location Hierarchy Using Spreadsheet.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Installing Product.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Installing Product.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/License Key Configuration 2012.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/License Key Configuration 2012.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Locations, Rules, Maps 2012 addendum.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Locations, Rules, Maps 2012 addendum.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Logan Default Schema.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Logan Default Schema.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Logan Schema Details.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Logan Schema Details.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Manage Assets.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Manage Assets.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Manage Selected Assets.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Manage Selected Assets.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Moving Assets.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Moving Assets.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/New Views.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/New Views.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Product Card.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Product Card.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/quickstart-Product.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/quickstart-Product.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Rack Visualization.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Rack Visualization.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Reader Configuration 2012.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Reader Configuration 2012.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Remote Zone Managers.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Remote Zone Managers.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Resetting Administrator Login.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Resetting Administrator Login.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Roll-Out.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Roll-Out.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/System API Pages.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/System API Pages.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/System Attributes.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/System Attributes.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Terminology.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Terminology.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Update Attributes.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Update Attributes.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Topics/Workflow-Product.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Topics/Workflow-Product.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Targets/HTML Help.fltar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Targets/HTML Help.fltar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Targets/PDF (simple).fltar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Targets/PDF (simple).fltar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/VariableSets/General.flvar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/VariableSets/General.flvar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/Chapter8X11.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/Chapter8X11.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/Cover.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/Cover.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/Default.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/Fronmatter8X11.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/Fronmatter8X11.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Databases Supported.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Databases Supported.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Firmware Versions.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Firmware Versions.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Minimum Hardware.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Minimum Hardware.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Operating Systems Supported.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Operating Systems Supported.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/required fields note.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/required fields note.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/RF Code Customer Support.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/RF Code Customer Support.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Standard Warranty Limitations.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Standard Warranty Limitations.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Simple.css"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Simple.css" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/CS WebHelp.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/CS WebHelp.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/Default.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/Default.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/HTML5 (2).flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/HTML5 (2).flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/HTML5.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/HTML5.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/WebHelp BookNav.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/WebHelp BookNav.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/WebHelp.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/WebHelp.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Targets/HTML5.fltar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Targets/HTML5.fltar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Targets/Release Notes.fltar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Targets/Release Notes.fltar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Targets/Word for Review.fltar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Targets/Word for Review.fltar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/TOCs/singleton.fltoc"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/TOCs/singleton.fltoc" />
+    <Url
+      Source="../../../Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif" />
+    <Url
+      Source="../../../Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png" />
+    <Url
+      Source="../../../Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png" />
+    <Url
+      Source="../../../Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif" />
+    <Url
+      Source="../../../Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png" />
+    <Url
+      Source="../../../Global/Content/Global Images/CenterScape Logo Color.png"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/CenterScape Logo Color.png" />
+    <Url
+      Source="../../../Global/Content/Global Images/CS alert threshold humidity.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/CS alert threshold humidity.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/CS alert threshold.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/CS alert threshold.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/CS hero splash.png"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/CS hero splash.png" />
+    <Url
+      Source="../../../Global/Content/Global Images/CS logo cropped no RFC.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/CS logo cropped no RFC.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/drop-down arrow.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/drop-down arrow.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/greencheck.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/greencheck.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/help icon.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/help icon.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/Note icon.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/Note icon.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/redx.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/redx.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/RFC data center background - Copy.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/RFC data center background - Copy.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/RFC data center background cropped and shaded.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/RFC data center background cropped and shaded.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/rfc data center background rich color.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/rfc data center background rich color.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/RFC data center background.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/RFC data center background.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/rfc dc back.jpg"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/rfc dc back.jpg" />
+    <Url
+      Source="../../../Global/Content/Global Images/rfc logo.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/rfc logo.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/Tool Tip icon.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/Tool Tip icon.bmp" />
+    <Url
+      Source="../../../Global/Content/Global Images/Vital Icon.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/Vital Icon.bmp" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/Appendix.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/Appendix.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/ChapterNumber.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/ChapterNumber.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/Copyright Statement.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/Copyright Statement.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/Glossary.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/Glossary.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/Index.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/Index.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/PDFGuideATitle.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/PDFGuideATitle.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/PDGGuideBTitle.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/PDGGuideBTitle.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/TOC.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/TOC.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/Trademarks.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/Trademarks.htm" />
+    <Url
+      Source="../../../Global/Content/Print Only Topics/Warranty and Service.htm"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Print Only Topics/Warranty and Service.htm" />
+    <Url
+      Source="../../../Global/Content/Resources/MasterPages/UserManual for reference.flmsp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/MasterPages/UserManual for reference.flmsp" />
+    <Url
+      Source="../../../Global/Content/Resources/PageLayouts/Chapter8X11.flpgl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/PageLayouts/Chapter8X11.flpgl" />
+    <Url
+      Source="../../../Global/Content/Resources/PageLayouts/ControlDoc.flpgl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/PageLayouts/ControlDoc.flpgl" />
+    <Url
+      Source="../../../Global/Content/Resources/PageLayouts/Cover.flpgl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/PageLayouts/Cover.flpgl" />
+    <Url
+      Source="../../../Global/Content/Resources/PageLayouts/Default.flpgl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="../../../Global/Content/Resources/PageLayouts/DraftChapter8X11.flpgl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/PageLayouts/DraftChapter8X11.flpgl" />
+    <Url
+      Source="../../../Global/Content/Resources/PageLayouts/Frontmatter8X11.flpgl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/PageLayouts/Frontmatter8X11.flpgl" />
+    <Url
+      Source="../../../Global/Content/Resources/PageLayouts/RFC Cover with data center.flpgl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/PageLayouts/RFC Cover with data center.flpgl" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/Databases Supported.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/Databases Supported.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/Firmware Versions.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/Firmware Versions.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/Minimum Hardware.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/Minimum Hardware.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/Operating Systems Supported.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/Operating Systems Supported.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/required fields note.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/required fields note.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/RF Code Customer Support.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/RF Code Customer Support.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/Standard Warranty Limitations.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/Standard Warranty Limitations.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Snippets/Web Browsers Supported.flsnp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Snippets/Web Browsers Supported.flsnp" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Simple.css"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Simple.css" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/TOC1.css"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/TOC1.css" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf" />
+    <Url
+      Source="../../../Global/Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt" />
+    <Url
+      Source="../../../Global/Project/Advanced/English (United States) Dictionary.mcdic"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/English (United States) Dictionary.mcdic" />
+    <Url
+      Source="../../../Global/Project/Advanced/English (United States).mchyph"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/English (United States).mchyph" />
+    <Url
+      Source="../../../Global/Project/Advanced/Auto Index Sets/AutoIndexSet.flaix"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/Auto Index Sets/AutoIndexSet.flaix" />
+    <Url
+      Source="../../../Global/Project/Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx" />
+    <Url
+      Source="../../../Global/Project/Advanced/Browse Sequences/BrowseSequence.flbrs"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/Browse Sequences/BrowseSequence.flbrs" />
+    <Url
+      Source="../../../Global/Project/Advanced/CSH/BIRT.flali"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/CSH/BIRT.flali" />
+    <Url
+      Source="../../../Global/Project/Advanced/CSH/HeaderFile.h"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/CSH/HeaderFile.h" />
+    <Url
+      Source="../../../Global/Project/Advanced/CSH/Unlink_and_Move.flali"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/CSH/Unlink_and_Move.flali" />
+    <Url
+      Source="../../../Global/Project/Advanced/File Tags/FileTagSetAuthor.flfts"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/File Tags/FileTagSetAuthor.flfts" />
+    <Url
+      Source="../../../Global/Project/Advanced/File Tags/FileTagSetStatus.flfts"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/File Tags/FileTagSetStatus.flfts" />
+    <Url
+      Source="../../../Global/Project/Advanced/Index Link Sets/IndexLinkSet.flixl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/Index Link Sets/IndexLinkSet.flixl" />
+    <Url
+      Source="../../../Global/Project/Advanced/Relationship Tables/RelationshipTable.flrtb"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/Relationship Tables/RelationshipTable.flrtb" />
+    <Url
+      Source="../../../Global/Project/Advanced/Search Filters/SearchFilter.flsfs"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/Search Filters/SearchFilter.flsfs" />
+    <Url
+      Source="../../../Global/Project/Advanced/Synonyms/Synonyms.mcsyns"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Advanced/Synonyms/Synonyms.mcsyns" />
+    <Url
+      Source="../../../Global/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../Global/Project/Destinations/Destination.fldes"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Destinations/Destination.fldes" />
+    <Url
+      Source="../../../Global/Project/Exports/RFC-Comprehensive.flexp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Exports/RFC-Comprehensive.flexp" />
+    <Url
+      Source="../../../Global/Project/Glossaries/RFC Terms.flglo"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Glossaries/RFC Terms.flglo" />
+    <Url
+      Source="../../../Global/Project/Imports/UserManual for reference.flimp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Imports/UserManual for reference.flimp" />
+    <Url
+      Source="../../../Global/Project/Reports/Critical Issues Report.flrep"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="../../../Global/Project/Reports/Empty Report.flrep"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Reports/Empty Report.flrep" />
+    <Url
+      Source="../../../Global/Project/Reports/Unused Items Report.flrep"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Reports/Unused Items Report.flrep" />
+    <Url
+      Source="../../../Global/Project/Skins/CS WebHelp.flskn"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Skins/CS WebHelp.flskn" />
+    <Url
+      Source="../../../Global/Project/Skins/Default.flskn"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Skins/Default.flskn" />
+    <Url
+      Source="../../../Global/Project/Skins/HTML5 (2).flskn"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Skins/HTML5 (2).flskn" />
+    <Url
+      Source="../../../Global/Project/Skins/HTML5.flskn"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Skins/HTML5.flskn" />
+    <Url
+      Source="../../../Global/Project/Skins/WebHelp BookNav.flskn"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Skins/WebHelp BookNav.flskn" />
+    <Url
+      Source="../../../Global/Project/Skins/WebHelp.flskn"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Skins/WebHelp.flskn" />
+    <Url
+      Source="../../../Global/Project/Targets/HTML Help.fltar"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Targets/HTML Help.fltar" />
+    <Url
+      Source="../../../Global/Project/Targets/HTML5.fltar"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Targets/HTML5.fltar" />
+    <Url
+      Source="../../../Global/Project/Targets/PDF (simple).fltar"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Targets/PDF (simple).fltar" />
+    <Url
+      Source="../../../Global/Project/Targets/Release Notes.fltar"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Targets/Release Notes.fltar" />
+    <Url
+      Source="../../../Global/Project/Targets/Word for Review.fltar"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Targets/Word for Review.fltar" />
+    <Url
+      Source="../../../Global/Project/TOCs/singleton.fltoc"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/TOCs/singleton.fltoc" />
+    <Url
+      Source="../../../Global/Project/VariableSets/General.flvar"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/VariableSets/General.flvar" />
+    <Url
+      Source="../../../Global/Content/Global Images/ECD Survey 1 of 3.jpg"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/ECD Survey 1 of 3.jpg" />
+    <Url
+      Source="../../../Global/Content/Global Images/chevron arrow.bmp"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/chevron arrow.bmp" />
+    <Url
+      Source="../../../Global/Content/Resources/PageLayouts/Stationery.flpgl"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Resources/PageLayouts/Stationery.flpgl" />
+    <Url
+      Source="../../../Global/Project/Targets/Release History.fltar"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Project/Targets/Release History.fltar" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../../../RFCode/Content/A_Introduction Topics/DropDowns.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/A_Introduction Topics/DropDowns.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/A_Introduction Topics/Headings.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/A_Introduction Topics/Headings.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/A_Introduction Topics/Welcome.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/A_Introduction Topics/Welcome.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/B_Links and Lists/Links.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/B_Links and Lists/Links.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/B_Links and Lists/LinksAndLists.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/B_Links and Lists/LinksAndLists.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/B_Links and Lists/Lists.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/B_Links and Lists/Lists.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/C_Conditions Notes Tables/Conditions.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/C_Conditions Notes Tables/Conditions.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/C_Conditions Notes Tables/NotesExamplesBlockquotes.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/C_Conditions Notes Tables/Tables.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/C_Conditions Notes Tables/Tables.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/D_Images/ImagePositionedLeft.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/D_Images/ImagePositionedLeft.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/D_Images/ImagePositionedRight.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/D_Images/ImagePositionedRight.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/D_Images/Images.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/D_Images/Images.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/D_Images/ImageWithinList.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/D_Images/ImageWithinList.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/D_Images/ThumbnailImage.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/D_Images/ThumbnailImage.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Print Only Topics/Appendix.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Print Only Topics/Appendix.htm" />
+    <Url
+      Source="../../../../../RFCode/Content/Print Only Topics/ChapterNumber.htm"
+      AbsoluteSource="file:///C:/RFCode/Content/Print Only Topics/ChapterNumber.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/CRAC Assets for RTI.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/CRAC Assets for RTI.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/DCM Initial Configuration - Consoles.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/DCM Initial Configuration - Consoles.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/DCM manual pilot deployment1.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/DCM manual pilot deployment1.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Measuring RTI.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Measuring RTI.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Readers, Reader Firmware, Reader Status.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Readers, Reader Firmware, Reader Status.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Reports, Advanced.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Reports, Advanced.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Reports, Create New.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Reports, Create New.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Reports, Run.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Reports, Run.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Schema Import.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Schema Import.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Security.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Security.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Sensor Definitions.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Sensor Definitions.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Serial Devices.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Serial Devices.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Statistical Pack.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Statistical Pack.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Statistical Policy.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Statistical Policy.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Status Attributes.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Status Attributes.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Summary Assets.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Summary Assets.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Table View.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Table View.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Tag Groups.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Tag Groups.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Tag Management.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Tag Management.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Testing Event Actions.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Testing Event Actions.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Thresholds and Alerts.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Thresholds and Alerts.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Time - Graphs.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Time - Graphs.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/User Audit Trail.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/User Audit Trail.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Viewing Assets.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Viewing Assets.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Zone Manager Status.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Zone Manager Status.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Deployment/Zone Manager.htm"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Deployment/Zone Manager.htm" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/MasterPages/UserManual for reference.flmsp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/MasterPages/UserManual for reference.flmsp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/Chapter8X11.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/Chapter8X11.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/ControlDoc.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/ControlDoc.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/Cover.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/Cover.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/Default.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/PageLayouts/Fronmatter8X11.flpgl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/PageLayouts/Fronmatter8X11.flpgl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Databases Supported.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Databases Supported.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Firmware Versions.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Firmware Versions.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Minimum Hardware.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Minimum Hardware.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Operating Systems Supported.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Operating Systems Supported.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/required fields note.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/required fields note.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/RF Code Customer Support.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/RF Code Customer Support.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Snippets/Standard Warranty Limitations.flsnp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Snippets/Standard Warranty Limitations.flsnp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Simple.css"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Simple.css" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf" />
+    <Url
+      Source="../../../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/English (United States) Dictionary.mcdic"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/English (United States) Dictionary.mcdic" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/English (United States).mchyph"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/English (United States).mchyph" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/Auto Index Sets/AutoIndexSet.flaix"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/Auto Index Sets/AutoIndexSet.flaix" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/Browse Sequences/BrowseSequence.flbrs"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/Browse Sequences/BrowseSequence.flbrs" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/CSH/BIRT.flali"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/CSH/BIRT.flali" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/CSH/HeaderFile.h"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/CSH/HeaderFile.h" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/CSH/Unlink_and_Move.flali"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/CSH/Unlink_and_Move.flali" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/File Tags/FileTagSetAuthor.flfts"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/File Tags/FileTagSetAuthor.flfts" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/File Tags/FileTagSetStatus.flfts"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/File Tags/FileTagSetStatus.flfts" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/Index Link Sets/IndexLinkSet.flixl"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/Index Link Sets/IndexLinkSet.flixl" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/Relationship Tables/RelationshipTable.flrtb"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/Relationship Tables/RelationshipTable.flrtb" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/Search Filters/SearchFilter.flsfs"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/Search Filters/SearchFilter.flsfs" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Advanced/Synonyms/Synonyms.mcsyns"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Advanced/Synonyms/Synonyms.mcsyns" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Destinations/Destination.fldes"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Destinations/Destination.fldes" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Exports/RFC-Comprehensive.flexp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Exports/RFC-Comprehensive.flexp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Glossaries/RFC Terms.flglo"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Glossaries/RFC Terms.flglo" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Imports/UserManual for reference.flimp"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Imports/UserManual for reference.flimp" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Reports/Critical Issues Report.flrep"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Reports/Empty Report.flrep"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Reports/Empty Report.flrep" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Reports/Unused Items Report.flrep"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Reports/Unused Items Report.flrep" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/CS WebHelp.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/CS WebHelp.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/Default.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/Default.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/HTML5 (2).flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/HTML5 (2).flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/HTML5.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/HTML5.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/WebHelp BookNav.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/WebHelp BookNav.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Skins/WebHelp.flskn"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Skins/WebHelp.flskn" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Targets/HTML5.fltar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Targets/HTML5.fltar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Targets/Release Notes.fltar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Targets/Release Notes.fltar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/Targets/Word for Review.fltar"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/Targets/Word for Review.fltar" />
+    <Url
+      Source="../../../../RFC Flare/Global/Project/TOCs/singleton.fltoc"
+      AbsoluteSource="file:///C:/Users/RFC Flare/Global/Project/TOCs/singleton.fltoc" />
+    <Url
+      Source="../../../Global/Content/Global Images/ECD Survey 1 of 3.jpg"
+      AbsoluteSource="file:///C:/Users/Pappillon/Global/Content/Global Images/ECD Survey 1 of 3.jpg" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../../../Content/Print Only Topics/Copyright.htm"
+      TimeStamp="4/21/2015 12:58:20 PM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/Glossary.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/Index.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/PDFGuideATitle.htm"
+      TimeStamp="4/21/2015 1:02:16 PM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/PDGGuideBTitle.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/TOC.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../../../Content/Resources/Access Control.htm"
+      TimeStamp="4/22/2015 3:30:38 PM" />
+    <Url
+      Source="../../../../Content/Resources/Adding LDAP Users and Groups.htm"
+      TimeStamp="4/22/2015 3:13:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/Adding Tag Groups.htm"
+      TimeStamp="4/22/2015 12:28:58 PM" />
+    <Url
+      Source="../../../../Content/Resources/Adding Users.htm"
+      TimeStamp="4/22/2015 3:13:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/Advanced Asset Security.htm"
+      TimeStamp="4/22/2015 3:30:21 PM" />
+    <Url
+      Source="../../../../Content/Resources/Advanced Reader Configuration.htm"
+      TimeStamp="4/22/2015 1:18:15 PM" />
+    <Url
+      Source="../../../../Content/Resources/Asset Attributes.htm"
+      TimeStamp="4/22/2015 2:52:17 PM" />
+    <Url
+      Source="../../../../Content/Resources/Asset Templates.htm"
+      TimeStamp="4/22/2015 2:24:03 PM" />
+    <Url
+      Source="../../../../Content/Resources/Asset Types.htm"
+      TimeStamp="4/22/2015 2:24:03 PM" />
+    <Url
+      Source="../../../../Content/Resources/BACnet Slave Device.htm"
+      TimeStamp="4/22/2015 1:37:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/BACnet Slave Object IDs.htm"
+      TimeStamp="4/22/2015 1:37:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/BACnet Slave Server.htm"
+      TimeStamp="4/22/2015 1:37:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/Basic Information - Graph.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Bookmarks.htm"
+      TimeStamp="4/22/2015 11:35:21 AM" />
+    <Url
+      Source="../../../../Content/Resources/Configuration for Unknown.htm"
+      TimeStamp="4/22/2015 2:07:02 PM" />
+    <Url
+      Source="../../../../Content/Resources/Configuration Settings for1.htm"
+      TimeStamp="4/22/2015 4:42:02 PM" />
+    <Url
+      Source="../../../../Content/Resources/Configuration Settings for3.htm"
+      TimeStamp="4/22/2015 4:43:05 PM" />
+    <Url
+      Source="../../../../Content/Resources/Configuration Settings Specific.htm"
+      TimeStamp="4/22/2015 4:39:13 PM" />
+    <Url
+      Source="../../../../Content/Resources/Configuring a Production Database.htm"
+      TimeStamp="4/22/2015 12:11:14 PM" />
+    <Url
+      Source="../../../../Content/Resources/Configuring FTP Actions for.htm"
+      TimeStamp="4/22/2015 4:21:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/Configuring Graph Template.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Configuring Report Template.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Configuring SMTP.htm"
+      TimeStamp="4/22/2015 12:14:17 PM" />
+    <Url
+      Source="../../../../Content/Resources/Creating and Using Map Hot.htm"
+      TimeStamp="4/22/2015 2:16:14 PM" />
+    <Url
+      Source="../../../../Content/Resources/Creating Asset Templates.htm"
+      TimeStamp="4/22/2015 2:24:03 PM" />
+    <Url
+      Source="../../../../Content/Resources/Creating Graph Template Definitions.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Creating Groups.htm"
+      TimeStamp="4/22/2015 3:13:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/Creating Maps.htm"
+      TimeStamp="4/22/2015 2:14:34 PM" />
+    <Url
+      Source="../../../../Content/Resources/Creating Report Template Definitions.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Custom Attribute Types.htm"
+      TimeStamp="4/22/2015 2:47:37 PM" />
+    <Url
+      Source="../../../../Content/Resources/Data Schema.htm"
+      TimeStamp="4/22/2015 2:18:15 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deleting Asset Types.htm"
+      TimeStamp="4/22/2015 2:24:03 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deleting Graphs.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deleting Reports.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Expected Location.htm"
+      TimeStamp="4/22/2015 2:05:41 PM" />
+    <Url
+      Source="../../../../Content/Resources/Exporting Reports.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Filtering Graphs.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Graph Actions.htm"
+      TimeStamp="4/22/2015 4:15:47 PM" />
+    <Url
+      Source="../../../../Content/Resources/Graph Appearance.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Graph Columns Attributes.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Graph Filter and Post Condition.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Graph Filters Post Conditions.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Graph Schedule.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Graphs.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Integrating with BACnet.htm"
+      TimeStamp="4/22/2015 1:37:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/Integrating with JMX.htm"
+      TimeStamp="4/22/2015 1:35:00 PM" />
+    <Url
+      Source="../../../../Content/Resources/Integrating with Modbus.htm"
+      TimeStamp="4/22/2015 1:37:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/JMX Domain Configuration Settings.htm"
+      TimeStamp="4/22/2015 1:37:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/JMX Domains.htm"
+      TimeStamp="4/22/2015 1:37:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/JMX Monitor.htm"
+      TimeStamp="4/22/2015 1:37:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/Licenses for Advanced Features.htm"
+      TimeStamp="4/22/2015 1:33:34 PM" />
+    <Url
+      Source="../../../../Content/Resources/Locations and the Location.htm"
+      TimeStamp="4/22/2015 2:03:57 PM" />
+    <Url
+      Source="../../../../Content/Resources/Macros for Reports and Graphs.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Manage Graphs.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Manage Reports.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Map Views.htm"
+      TimeStamp="4/22/2015 2:11:37 PM" />
+    <Url
+      Source="../../../../Content/Resources/Maps.htm"
+      TimeStamp="4/22/2015 2:10:16 PM" />
+    <Url
+      Source="../../../../Content/Resources/Modbus Slave Addresses.htm"
+      TimeStamp="4/22/2015 1:42:22 PM" />
+    <Url
+      Source="../../../../Content/Resources/Modbus Slave Devices.htm"
+      TimeStamp="4/22/2015 1:42:22 PM" />
+    <Url
+      Source="../../../../Content/Resources/Modbus Slave Server.htm"
+      TimeStamp="4/22/2015 1:42:22 PM" />
+    <Url
+      Source="../../../../Content/Resources/Overview of Groups.htm"
+      TimeStamp="4/22/2015 3:13:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/Report Filters Post Conditions.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Report Schedule.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Reports and Graphs Overview.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Reports and Graphs.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Reports.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Rule Types and Configuration.htm"
+      TimeStamp="4/22/2015 2:08:36 PM" />
+    <Url
+      Source="../../../../Content/Resources/Running and Viewing Reports.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Running Graphs.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Security.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/User Accounts and Security.htm"
+      TimeStamp="4/22/2015 3:13:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/User Accounts Roles and Permissions.htm"
+      TimeStamp="4/22/2015 3:13:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/Using Actions with Reports.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Viewing an Asset Type Sample.htm"
+      TimeStamp="4/22/2015 2:24:03 PM" />
+    <Url
+      Source="../../../../Content/Resources/Viewing Asset Types.htm"
+      TimeStamp="4/22/2015 2:24:03 PM" />
+    <Url
+      Source="../../../../Content/Resources/Viewing Graphs.htm"
+      TimeStamp="4/22/2015 3:42:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/[DCM] Web Console Overview.htm"
+      TimeStamp="4/22/2015 5:27:40 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Add Reader(s).htm"
+      TimeStamp="4/27/2015 5:45:33 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Adding LDAP Users and Groups.htm"
+      TimeStamp="5/6/2015 9:44:23 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Adding Licenses.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Adding Sensors as Assets1.htm"
+      TimeStamp="4/27/2015 5:53:01 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Adding Sensors as Assets2.htm"
+      TimeStamp="4/21/2015 1:00:59 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Alert Actions.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Alert Filter.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Alert Thresholds.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Alert Viewer.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Alerts.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Applying a Calculated Asset.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Asset Links.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Asset Skins.htm"
+      TimeStamp="5/6/2015 9:44:24 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/BIRT Templates.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Calculated Asset Attributes.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Calculated Asset Attributes1.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Calculated Asset Attributes2.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Conditional Formatting with.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuration Settings for.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuration Settings for2.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuration Settings for4.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring Alert Thresholds.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring Email Actions.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring Email Alert Actions.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring Event Actions.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring FTP Alert Actions.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring HTTP Post Actions.htm"
+      TimeStamp="5/6/2015 9:44:25 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring HTTP Post Alert.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring Logging Alert.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring Serial Device.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring SNMP V1 Trap Alert.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring SNMP V3 Alert.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring the M250 Reader.htm"
+      TimeStamp="4/27/2015 5:41:53 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Configuring Triggers.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Copying Alert Actions.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Copying Alert Thresholds.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Copying Event Actions.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Copying Event Triggers.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/CRAC Assets for RTI.htm"
+      TimeStamp="4/23/2015 4:34:36 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Creating a Basic Dashboard.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Creating a Calculated Asset.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Creating Alert Actions.htm"
+      TimeStamp="5/6/2015 9:44:26 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Creating Alert Thresholds.htm"
+      TimeStamp="5/6/2015 9:44:27 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Creating Event Actions.htm"
+      TimeStamp="5/6/2015 9:44:27 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Creating New Triggers.htm"
+      TimeStamp="5/6/2015 9:44:27 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Dashboards.htm"
+      TimeStamp="4/17/2015 12:17:48 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Data Center Requirements.htm"
+      TimeStamp="5/6/2015 9:44:27 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Data Schema.htm"
+      TimeStamp="5/6/2015 9:44:27 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/DCM Deploy Intro.htm"
+      TimeStamp="4/23/2015 5:02:56 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/DCM Deploy Overview.htm"
+      TimeStamp="4/27/2015 5:38:12 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/DCM Hardware, Software, and Database Requirements.htm"
+      TimeStamp="4/27/2015 5:43:28 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/DCM Initial Configuration - Consoles.htm"
+      TimeStamp="5/6/2015 9:44:27 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/DCM Installation.htm"
+      TimeStamp="4/23/2015 3:51:07 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/DCM manual pilot deployment1.htm"
+      TimeStamp="4/21/2015 1:02:17 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Deleting Alert Actions.htm"
+      TimeStamp="5/6/2015 9:44:27 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Deleting Alert Thresholds.htm"
+      TimeStamp="5/6/2015 9:44:27 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Deleting Event Actions.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Deleting Event Triggers.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Discovery.htm"
+      TimeStamp="4/27/2015 5:40:18 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Event Actions.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Event Filters.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Event Triggers.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Events.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Export Configuration.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Folders.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Global Alert Policies for.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Global Positioning System (GPS).htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Import Configuration.htm"
+      TimeStamp="5/6/2015 9:44:28 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Install and Configure IR Locator.htm"
+      TimeStamp="4/23/2015 4:30:59 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Installation and Deployment of Readers.htm"
+      TimeStamp="4/27/2015 5:56:34 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Integrating with LDAP Active.htm"
+      TimeStamp="5/6/2015 9:44:29 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/JMX Monitor.htm"
+      TimeStamp="5/6/2015 9:44:29 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/LDAP Server Configuration.htm"
+      TimeStamp="5/6/2015 9:44:29 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Locations and Rules.htm"
+      TimeStamp="5/6/2015 9:44:29 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Locations.htm"
+      TimeStamp="5/6/2015 9:44:29 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Macros for Events and Alerts.htm"
+      TimeStamp="5/6/2015 9:44:29 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Map Views in the User Console.htm"
+      TimeStamp="5/6/2015 9:44:29 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Maps.htm"
+      TimeStamp="4/27/2015 5:57:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Measuring RTI.htm"
+      TimeStamp="4/23/2015 3:14:10 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Planning and Deployment.htm"
+      TimeStamp="4/23/2015 3:26:17 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Rack Cooling Index.htm"
+      TimeStamp="4/23/2015 3:11:56 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Readers, Reader Firmware, Reader Status.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Reports, Advanced.htm"
+      TimeStamp="4/21/2015 1:02:17 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Reports, Create New.htm"
+      TimeStamp="4/17/2015 12:24:20 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Reports, Run.htm"
+      TimeStamp="4/17/2015 12:20:25 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Return Temperature Index.htm"
+      TimeStamp="4/23/2015 3:12:25 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Schema Import.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Security.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Sensor Definitions.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Serial Devices.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Server.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Statistical Pack.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Statistical Policy.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Status Attributes.htm"
+      TimeStamp="5/6/2015 9:44:30 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Summary Assets.htm"
+      TimeStamp="4/27/2015 5:55:58 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Table View.htm"
+      TimeStamp="4/17/2015 12:14:17 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Tag Groups.htm"
+      TimeStamp="4/27/2015 5:47:28 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Tag Management.htm"
+      TimeStamp="4/23/2015 4:26:32 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Tag Positioning.htm"
+      TimeStamp="4/27/2015 5:57:00 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Testing Event Actions.htm"
+      TimeStamp="5/6/2015 9:44:31 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/The Administrator Console.htm"
+      TimeStamp="5/6/2015 9:44:31 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Thresholds and Alerts.htm"
+      TimeStamp="4/27/2015 5:57:55 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Time - Graphs.htm"
+      TimeStamp="5/6/2015 9:44:31 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Time - Reports.htm"
+      TimeStamp="5/6/2015 9:44:31 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/User Audit Trail.htm"
+      TimeStamp="5/6/2015 9:44:31 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Viewing Assets.htm"
+      TimeStamp="4/23/2015 4:36:42 PM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Zone Manager Status.htm"
+      TimeStamp="5/6/2015 9:44:31 AM" />
+    <Url
+      Source="../../../../Content/Resources/Deployment/Zone Manager.htm"
+      TimeStamp="5/6/2015 9:44:31 AM" />
+    <Url
+      Source="../../../../Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.eps"
+      TimeStamp="6/1/2015 11:18:54 AM" />
+    <Url
+      Source="../../../../Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif"
+      TimeStamp="6/1/2015 11:17:02 AM" />
+    <Url
+      Source="../../../../Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png"
+      TimeStamp="6/1/2015 11:17:38 AM" />
+    <Url
+      Source="../../../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png"
+      TimeStamp="6/1/2015 10:58:24 AM" />
+    <Url
+      Source="../../../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.eps"
+      TimeStamp="6/1/2015 11:18:54 AM" />
+    <Url
+      Source="../../../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif"
+      TimeStamp="6/1/2015 11:17:02 AM" />
+    <Url
+      Source="../../../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png"
+      TimeStamp="6/1/2015 11:17:38 AM" />
+    <Url
+      Source="../../../../Content/Global Images/CenterScape Logo Color.png"
+      TimeStamp="6/22/2015 10:50:12 AM" />
+    <Url
+      Source="../../../../Content/Global Images/CS logo cropped no RFC.bmp"
+      TimeStamp="6/22/2015 10:47:57 AM" />
+    <Url
+      Source="../../../../Content/Global Images/drop-down arrow.bmp"
+      TimeStamp="7/21/2015 3:28:27 PM" />
+    <Url
+      Source="../../../../Content/Global Images/ECD Survey 1 of 3.jpg"
+      TimeStamp="7/21/2015 4:30:03 PM" />
+    <Url
+      Source="../../../../Content/Global Images/greencheck.bmp"
+      TimeStamp="5/26/2015 2:18:53 PM" />
+    <Url
+      Source="../../../../Content/Global Images/help icon.bmp"
+      TimeStamp="5/26/2015 5:03:03 PM" />
+    <Url
+      Source="../../../../Content/Global Images/redx.bmp"
+      TimeStamp="5/26/2015 2:18:19 PM" />
+    <Url
+      Source="../../../../Content/Global Images/RFC data center background - Copy.bmp"
+      TimeStamp="7/16/2015 10:53:10 AM" />
+    <Url
+      Source="../../../../Content/Global Images/RFC data center background cropped and shaded.bmp"
+      TimeStamp="7/2/2015 11:08:53 AM" />
+    <Url
+      Source="../../../../Content/Global Images/rfc data center background rich color.bmp"
+      TimeStamp="6/30/2015 4:39:37 PM" />
+    <Url
+      Source="../../../../Content/Global Images/RFC data center background.bmp"
+      TimeStamp="7/7/2015 10:03:30 AM" />
+    <Url
+      Source="../../../../Content/Global Images/rfc dc back.jpg"
+      TimeStamp="7/16/2015 10:55:04 AM" />
+    <Url
+      Source="../../../../Content/Global Images/rfc logo.bmp"
+      TimeStamp="4/29/2015 1:41:24 PM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/Appendix.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/ChapterNumber.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/Copyright Statement.htm"
+      TimeStamp="7/20/2015 3:41:49 PM" />
+    <Url
+      Source="../../../../Content/Print Only Topics/Trademarks.htm"
+      TimeStamp="7/21/2015 1:46:58 PM" />
+    <Url
+      Source="../../../../Content/Resources/Snippets/Web Browsers Supported.flsnp"
+      TimeStamp="7/21/2015 11:59:15 AM" />
+    <Url
+      Source="../../../../Content/Topics/2012 Tasks Menu.htm"
+      TimeStamp="6/2/2015 9:11:47 AM" />
+    <Url
+      Source="../../../../Content/Topics/Appendix 2012 - Existing Zone Manger Integration.htm"
+      TimeStamp="6/2/2015 9:11:48 AM" />
+    <Url
+      Source="../../../../Content/Topics/Appendix-Example Floorplans.htm"
+      TimeStamp="7/21/2015 10:13:46 AM" />
+    <Url
+      Source="../../../../Content/Topics/Appendix-Inventory Spreadsheet.htm"
+      TimeStamp="6/29/2015 4:18:39 PM" />
+    <Url
+      Source="../../../../Content/Topics/Asset Location and Detected Location.htm"
+      TimeStamp="7/21/2015 10:13:14 AM" />
+    <Url
+      Source="../../../../Content/Topics/Assets-Workflow.htm"
+      TimeStamp="7/21/2015 10:13:12 AM" />
+    <Url
+      Source="../../../../Content/Topics/Best Practice - Installing Sensor Tags in Network Closets.htm"
+      TimeStamp="6/2/2015 9:11:49 AM" />
+    <Url
+      Source="../../../../Content/Topics/Best Practices for Importing Assets with a Spreadsheet.htm"
+      TimeStamp="6/24/2015 12:47:00 PM" />
+    <Url
+      Source="../../../../Content/Topics/Changing Administrator Login.htm"
+      TimeStamp="7/14/2015 12:15:46 PM" />
+    <Url
+      Source="../../../../Content/Topics/Changing Web Server Ports.htm"
+      TimeStamp="6/2/2015 9:11:50 AM" />
+    <Url
+      Source="../../../../Content/Topics/Compare Values.htm"
+      TimeStamp="7/6/2015 4:36:41 PM" />
+    <Url
+      Source="../../../../Content/Topics/Configuration for Unknown.htm"
+      TimeStamp="6/2/2015 9:11:50 AM" />
+    <Url
+      Source="../../../../Content/Topics/Configuration Task intro.htm"
+      TimeStamp="7/21/2015 10:14:29 AM" />
+    <Url
+      Source="../../../../Content/Topics/Creating and Using Map Hot.htm"
+      TimeStamp="7/21/2015 10:13:16 AM" />
+    <Url
+      Source="../../../../Content/Topics/Creating Maps.htm"
+      TimeStamp="7/21/2015 10:15:57 AM" />
+    <Url
+      Source="../../../../Content/Topics/Default Alerts.htm"
+      TimeStamp="6/2/2015 9:11:52 AM" />
+    <Url
+      Source="../../../../Content/Topics/Default Dashboards.htm"
+      TimeStamp="6/21/2015 5:39:50 PM" />
+    <Url
+      Source="../../../../Content/Topics/Default Graphs.htm"
+      TimeStamp="6/2/2015 9:11:52 AM" />
+    <Url
+      Source="../../../../Content/Topics/Default Reports.htm"
+      TimeStamp="7/2/2015 9:56:41 PM" />
+    <Url
+      Source="../../../../Content/Topics/Delete Assets.htm"
+      TimeStamp="7/20/2015 12:05:36 PM" />
+    <Url
+      Source="../../../../Content/Topics/Deployment Configuration.htm"
+      TimeStamp="6/22/2015 2:26:25 PM" />
+    <Url
+      Source="../../../../Content/Topics/Displaying Values in English or Metric System.htm"
+      TimeStamp="7/2/2015 3:22:02 PM" />
+    <Url
+      Source="../../../../Content/Topics/Events and Alerts.htm"
+      TimeStamp="7/21/2015 10:12:16 AM" />
+    <Url
+      Source="../../../../Content/Topics/Getting Started with Product-PilotConfig.htm"
+      TimeStamp="6/19/2015 10:34:17 AM" />
+    <Url
+      Source="../../../../Content/Topics/Getting Started with Product-SysConfig.htm"
+      TimeStamp="7/13/2015 9:06:30 AM" />
+    <Url
+      Source="../../../../Content/Topics/Import Assets Using Spreadsheet.htm"
+      TimeStamp="7/21/2015 10:12:01 AM" />
+    <Url
+      Source="../../../../Content/Topics/Import Location Hierarchy Using Spreadsheet.htm"
+      TimeStamp="7/21/2015 10:15:41 AM" />
+    <Url
+      Source="../../../../Content/Topics/Installing Product.htm"
+      TimeStamp="7/21/2015 10:14:29 AM" />
+    <Url
+      Source="../../../../Content/Topics/License Key Configuration 2012.htm"
+      TimeStamp="7/21/2015 10:12:05 AM" />
+    <Url
+      Source="../../../../Content/Topics/Locations, Rules, Maps 2012 addendum.htm"
+      TimeStamp="7/21/2015 10:12:23 AM" />
+    <Url
+      Source="../../../../Content/Topics/Logan Default Schema.htm"
+      TimeStamp="7/16/2015 12:22:53 PM" />
+    <Url
+      Source="../../../../Content/Topics/Logan Schema Details.htm"
+      TimeStamp="6/26/2015 4:13:34 PM" />
+    <Url
+      Source="../../../../Content/Topics/Manage Assets.htm"
+      TimeStamp="7/21/2015 10:13:13 AM" />
+    <Url
+      Source="../../../../Content/Topics/Manage Selected Assets.htm"
+      TimeStamp="7/21/2015 10:11:59 AM" />
+    <Url
+      Source="../../../../Content/Topics/Moving Assets.htm"
+      TimeStamp="7/14/2015 12:15:46 PM" />
+    <Url
+      Source="../../../../Content/Topics/New Views.htm"
+      TimeStamp="7/21/2015 10:13:23 AM" />
+    <Url
+      Source="../../../../Content/Topics/Product Card.htm"
+      TimeStamp="5/26/2015 4:35:00 PM" />
+    <Url
+      Source="../../../../Content/Topics/quickstart-Product.htm"
+      TimeStamp="7/21/2015 10:08:14 AM" />
+    <Url
+      Source="../../../../Content/Topics/Rack Visualization.htm"
+      TimeStamp="7/22/2015 10:17:33 AM" />
+    <Url
+      Source="../../../../Content/Topics/Reader Configuration 2012.htm"
+      TimeStamp="7/21/2015 10:14:29 AM" />
+    <Url
+      Source="../../../../Content/Topics/Remote Zone Managers.htm"
+      TimeStamp="7/21/2015 10:12:08 AM" />
+    <Url
+      Source="../../../../Content/Topics/Resetting Administrator Login.htm"
+      TimeStamp="7/13/2015 7:12:32 AM" />
+    <Url
+      Source="../../../../Content/Topics/Roll-Out.htm"
+      TimeStamp="6/22/2015 9:28:35 AM" />
+    <Url
+      Source="../../../../Content/Topics/System API Pages.htm"
+      TimeStamp="7/20/2015 12:20:24 PM" />
+    <Url
+      Source="../../../../Content/Topics/System Attributes.htm"
+      TimeStamp="7/21/2015 10:14:29 AM" />
+    <Url
+      Source="../../../../Content/Topics/Terminology.htm"
+      TimeStamp="6/26/2015 1:50:56 PM" />
+    <Url
+      Source="../../../../Content/Topics/Update Attributes.htm"
+      TimeStamp="6/26/2015 3:35:54 PM" />
+    <Url
+      Source="../../../../Content/Topics/Workflow-Product.htm"
+      TimeStamp="7/21/2015 10:16:20 AM" />
+    <Url
+      Source="../../../Targets/HTML Help.fltar"
+      TimeStamp="7/21/2015 10:17:55 AM" />
+    <Url
+      Source="../../../Targets/PDF (simple).fltar"
+      TimeStamp="7/21/2015 10:17:55 AM" />
+    <Url
+      Source="../../../VariableSets/General.flvar"
+      TimeStamp="7/21/2015 10:18:21 AM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/Chapter8X11.flpgl"
+      TimeStamp="7/22/2015 10:18:21 AM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/Cover.flpgl"
+      TimeStamp="7/22/2015 10:17:33 AM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/Default.flpgl"
+      TimeStamp="7/6/2015 3:20:15 PM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/Fronmatter8X11.flpgl"
+      TimeStamp="6/15/2015 12:02:52 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Databases Supported.flsnp"
+      TimeStamp="6/19/2015 11:25:11 AM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Firmware Versions.flsnp"
+      TimeStamp="6/15/2015 2:54:57 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp"
+      TimeStamp="7/20/2015 12:52:47 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Minimum Hardware.flsnp"
+      TimeStamp="6/15/2015 3:16:11 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp"
+      TimeStamp="7/20/2015 12:54:00 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Operating Systems Supported.flsnp"
+      TimeStamp="6/15/2015 2:54:38 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/required fields note.flsnp"
+      TimeStamp="6/14/2015 3:45:57 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/RF Code Customer Support.flsnp"
+      TimeStamp="4/24/2015 11:35:05 AM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Standard Warranty Limitations.flsnp"
+      TimeStamp="7/20/2015 12:51:51 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Web Browsers Supported.flsnp"
+      TimeStamp="7/21/2015 11:59:15 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Simple.css"
+      TimeStamp="6/18/2015 11:15:53 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      TimeStamp="7/17/2015 2:47:38 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf"
+      TimeStamp="4/24/2015 8:16:44 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt"
+      TimeStamp="5/13/2015 11:48:46 AM" />
+    <Url
+      Source="../Skins/CS WebHelp.flskn"
+      TimeStamp="7/16/2015 11:23:22 AM" />
+    <Url
+      Source="../Skins/Default.flskn"
+      TimeStamp="7/16/2015 9:55:32 AM" />
+    <Url
+      Source="../Skins/HTML5 (2).flskn"
+      TimeStamp="7/16/2015 11:13:26 AM" />
+    <Url
+      Source="../Skins/HTML5.flskn"
+      TimeStamp="7/16/2015 11:15:43 AM" />
+    <Url
+      Source="../Skins/WebHelp BookNav.flskn"
+      TimeStamp="7/16/2015 11:41:46 AM" />
+    <Url
+      Source="../Skins/WebHelp.flskn"
+      TimeStamp="7/16/2015 10:21:39 AM" />
+    <Url
+      Source="../Targets/HTML Help.fltar"
+      TimeStamp="7/21/2015 10:17:55 AM" />
+    <Url
+      Source="../Targets/HTML5.fltar"
+      TimeStamp="7/16/2015 10:05:21 AM" />
+    <Url
+      Source="../Targets/PDF (simple).fltar"
+      TimeStamp="7/21/2015 10:17:55 AM" />
+    <Url
+      Source="../Targets/Release Notes.fltar"
+      TimeStamp="7/15/2015 2:28:39 PM" />
+    <Url
+      Source="../Targets/Word for Review.fltar"
+      TimeStamp="7/15/2015 2:28:39 PM" />
+    <Url
+      Source="../TOCs/singleton.fltoc"
+      TimeStamp="7/15/2015 1:52:31 PM" />
+    <Url
+      Source="../VariableSets/General.flvar"
+      TimeStamp="7/21/2015 10:18:21 AM" />
+    <Url
+      Source="../../Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif"
+      TimeStamp="6/1/2015 11:17:02 AM" />
+    <Url
+      Source="../../Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png"
+      TimeStamp="6/1/2015 11:17:38 AM" />
+    <Url
+      Source="../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png"
+      TimeStamp="7/30/2015 4:33:51 PM" />
+    <Url
+      Source="../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif"
+      TimeStamp="6/1/2015 11:17:02 AM" />
+    <Url
+      Source="../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png"
+      TimeStamp="6/1/2015 11:17:38 AM" />
+    <Url
+      Source="../../Content/Global Images/CenterScape Logo Color.png"
+      TimeStamp="6/22/2015 10:50:12 AM" />
+    <Url
+      Source="../../Content/Global Images/CS alert threshold humidity.bmp"
+      TimeStamp="7/29/2015 5:54:12 PM" />
+    <Url
+      Source="../../Content/Global Images/CS alert threshold.bmp"
+      TimeStamp="7/29/2015 5:52:15 PM" />
+    <Url
+      Source="../../Content/Global Images/CS hero splash.png"
+      TimeStamp="7/30/2015 4:32:43 PM" />
+    <Url
+      Source="../../Content/Global Images/CS logo cropped no RFC.bmp"
+      TimeStamp="6/22/2015 10:47:57 AM" />
+    <Url
+      Source="../../Content/Global Images/drop-down arrow.bmp"
+      TimeStamp="7/21/2015 3:28:27 PM" />
+    <Url
+      Source="../../Content/Global Images/greencheck.bmp"
+      TimeStamp="5/26/2015 2:18:53 PM" />
+    <Url
+      Source="../../Content/Global Images/help icon.bmp"
+      TimeStamp="5/26/2015 5:03:03 PM" />
+    <Url
+      Source="../../Content/Global Images/Note icon.bmp"
+      TimeStamp="7/29/2015 4:47:12 PM" />
+    <Url
+      Source="../../Content/Global Images/redx.bmp"
+      TimeStamp="5/26/2015 2:18:19 PM" />
+    <Url
+      Source="../../Content/Global Images/RFC data center background - Copy.bmp"
+      TimeStamp="7/16/2015 10:53:10 AM" />
+    <Url
+      Source="../../Content/Global Images/RFC data center background cropped and shaded.bmp"
+      TimeStamp="7/2/2015 11:08:53 AM" />
+    <Url
+      Source="../../Content/Global Images/rfc data center background rich color.bmp"
+      TimeStamp="6/30/2015 4:39:37 PM" />
+    <Url
+      Source="../../Content/Global Images/RFC data center background.bmp"
+      TimeStamp="7/7/2015 10:03:30 AM" />
+    <Url
+      Source="../../Content/Global Images/rfc dc back.jpg"
+      TimeStamp="7/16/2015 10:55:04 AM" />
+    <Url
+      Source="../../Content/Global Images/rfc logo.bmp"
+      TimeStamp="4/29/2015 1:41:24 PM" />
+    <Url
+      Source="../../Content/Global Images/Tool Tip icon.bmp"
+      TimeStamp="7/29/2015 4:46:36 PM" />
+    <Url
+      Source="../../Content/Global Images/Vital Icon.bmp"
+      TimeStamp="7/29/2015 4:45:20 PM" />
+    <Url
+      Source="../../Content/Print Only Topics/Appendix.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../Content/Print Only Topics/ChapterNumber.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../Content/Print Only Topics/Copyright Statement.htm"
+      TimeStamp="7/20/2015 3:41:49 PM" />
+    <Url
+      Source="../../Content/Print Only Topics/Glossary.htm"
+      TimeStamp="7/20/2015 11:31:39 AM" />
+    <Url
+      Source="../../Content/Print Only Topics/Index.htm"
+      TimeStamp="7/20/2015 11:31:21 AM" />
+    <Url
+      Source="../../Content/Print Only Topics/PDFGuideATitle.htm"
+      TimeStamp="7/20/2015 11:30:42 AM" />
+    <Url
+      Source="../../Content/Print Only Topics/PDGGuideBTitle.htm"
+      TimeStamp="2/28/2014 9:10:50 AM" />
+    <Url
+      Source="../../Content/Print Only Topics/TOC.htm"
+      TimeStamp="7/17/2015 2:34:15 PM" />
+    <Url
+      Source="../../Content/Print Only Topics/Trademarks.htm"
+      TimeStamp="7/21/2015 1:46:58 PM" />
+    <Url
+      Source="../../Content/Print Only Topics/Warranty and Service.htm"
+      TimeStamp="7/31/2015 2:44:29 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/UserManual for reference.flmsp"
+      TimeStamp="7/22/2015 10:17:33 AM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/ControlDoc.flpgl"
+      TimeStamp="7/22/2015 10:17:33 AM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/DraftChapter8X11.flpgl"
+      TimeStamp="7/30/2015 3:05:24 PM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/Frontmatter8X11.flpgl"
+      TimeStamp="6/15/2015 12:02:52 PM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/RFC Cover with data center.flpgl"
+      TimeStamp="7/22/2015 10:17:33 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/TOC1.css"
+      TimeStamp="8/13/2015 10:22:08 AM" />
+    <Url
+      Source="../Advanced/English (United States) Dictionary.mcdic"
+      TimeStamp="7/17/2015 3:58:40 PM" />
+    <Url
+      Source="../Advanced/English (United States).mchyph"
+      TimeStamp="7/6/2015 3:17:31 PM" />
+    <Url
+      Source="../Advanced/Auto Index Sets/AutoIndexSet.flaix"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Advanced/Browse Sequences/BrowseSequence.flbrs"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Advanced/CSH/BIRT.flali"
+      TimeStamp="7/21/2015 10:14:39 AM" />
+    <Url
+      Source="../Advanced/CSH/HeaderFile.h"
+      TimeStamp="6/11/2015 3:43:36 PM" />
+    <Url
+      Source="../Advanced/CSH/Unlink_and_Move.flali"
+      TimeStamp="7/21/2015 10:14:29 AM" />
+    <Url
+      Source="../Advanced/File Tags/FileTagSetAuthor.flfts"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Advanced/File Tags/FileTagSetStatus.flfts"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Advanced/Index Link Sets/IndexLinkSet.flixl"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Advanced/Relationship Tables/RelationshipTable.flrtb"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Advanced/Search Filters/SearchFilter.flsfs"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Advanced/Synonyms/Synonyms.mcsyns"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../ConditionTagSets/Default.flcts"
+      TimeStamp="8/11/2015 9:48:00 AM" />
+    <Url
+      Source="../Destinations/Destination.fldes"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Exports/RFC-Comprehensive.flexp"
+      TimeStamp="6/26/2015 9:24:18 AM" />
+    <Url
+      Source="../Glossaries/RFC Terms.flglo"
+      TimeStamp="7/15/2015 5:00:20 PM" />
+    <Url
+      Source="UserManual for reference.flimp"
+      TimeStamp="4/22/2015 9:05:51 AM" />
+    <Url
+      Source="../Reports/Critical Issues Report.flrep"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Reports/Empty Report.flrep"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../Reports/Unused Items Report.flrep"
+      TimeStamp="2/28/2014 9:10:48 AM" />
+    <Url
+      Source="../../Content/Global Images/ECD Survey 1 of 3.jpg"
+      TimeStamp="7/21/2015 4:30:03 PM" />
+    <Url
+      Source="../../Content/Global Images/chevron arrow.bmp"
+      TimeStamp="8/18/2015 10:19:14 AM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/Stationery.flpgl"
+      TimeStamp="8/21/2015 11:03:02 AM" />
+    <Url
+      Source="../Targets/Release History.fltar"
+      TimeStamp="8/20/2015 3:47:49 PM" />
+  </GeneratedFiles>
+</CatapultProject>

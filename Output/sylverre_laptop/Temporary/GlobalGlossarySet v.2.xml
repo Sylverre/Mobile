@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalGlossaryCache
+  SavedSource="file:///C:/Users/sylverre-laptop/Mobile/Output/sylverre_laptop/Temporary/GlobalGlossarySet v.2.xml">
+  <Map>
+    <GlossaryCacheEntry
+      Term="View"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Set by the System Administrator, a View defines the content and layout of a given area within CenterScape that a user with a specified role or permission will see.  A View set to be available to the group Everyone will appear in the task pane for every user; while one set to be available only to a more exclusive group will only appear for members of that group.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Task Pane"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">The  persistent navigation path present on the left side of the web interface.  Only those Tasks and nested subtasks available to the user appear.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="DCIM"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Data Center Infrastructure Management.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="U"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Abbreviation for Unit, or Rack Unit, equivalent to 1.75 inches. Refers to the height of equipment that can be mounted in a rack. (Written as 1U, no spaces.)</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="CenterScape"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">CenterScape is a SaaS solution for data center asset and environmental monitoring.  Logan performs the configuration, alerting and notification, asset and environment data management tasks, receiving information relayed from one or more Zone Managers.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Asset Types"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Categories of data definitions used to describe assets, those categories arranged in a hierarchy.  Child Asset Types inherit Attributes from their parent types.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Attributes"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Specific properties or characteristics of Asset Types. Attributes are completely user definable. An example of an attribute might be the manufacturer of the asset or the model of the asset.  Asset Attributes are user-defined; System Attributes cannot be changed by the user.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Custom Attribute Types"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Combinations of attributes into a single grouping to represent a specific quality or characteristic. Custom attribute types are  associated to asset types just like standard attributes.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Calculated Asset Attributes"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Attributes that have been derived from the application of a formula to various asset attributes to produce a value. The System Administrator can choose to create the formula or can use one of the pre-created calculated asset attributes that are contained within the data schema.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Data Schema"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">The schema of a database system is its structure. The schema defines the tables, the fields in each table, and the relationships between fields and tables. The schema used to track assets in  is completely customizable by the System Administrator. A schema is comprised of Asset Types, Attributes, and Custom Attributes.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Readers"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">RFC Readers are passive, incidental emitters with dual-channel radio receivers that are tuned to receive signals at 433.92 MHz. A digital signal processor is used to monitor the radio messages received from the tags.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Zone Manager"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">The "middleware" portion of the solution, Zone Manager is the second-level component. The Zone Manager interfaces directly with the readers and allows for processing of tag data and transmissions to the tracking and management software.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="SMTP"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Abbreviation for Simple Mail Transfer Protocol. See Alerts, Events.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="tags"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">RF Code Active RFID tags are battery-powered one-way RF transmitters that attach to items that need to be tracked, located and identified. Every tag broadcasts its unique ID and a status message at a periodic rate (programmed at the factory). Read ranges are dependent upon the deployment environment because of specific building materials and construction features, various obstructions, and other factors within the environment.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Treatment Code"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">A three-character code that, combined with the Group Code, tells RFC software how to interpret the data coming from the specific tag.  
+A Treatment Code can have multiple types/group codes within it, so it is important to match them exactly when adding them to a specific environment of RF Code readers and tags.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Group Code"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">A six-letter code printed on the label of each RFC Tag, identifying the type of data the tag is designed to monitor and transmit.  Examples are:  "LOCATE", "IRCODE", "HUMRCK", "RFCRCK".</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Summary Location"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">A Location plus Asset association, that consumes one license and allows you to treat the Location as if it were an Asset; that is, to track, monitor, and manage the Location.  Required in order to use Calculated Attributes on those locations.  Commonly used for racks.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Asset"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">An Asset is a physical item to be tracked, for which an asset record must be created in CenterScape. Assets have Types and Attributes, may be assigned Tags, and are assigned to or detected in Locations.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Retire"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">User action making a record inactive while still present in the system, not deleted. Retired Assets can be Unretired.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Delete"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">User action removing a record from the system. Deleted items cannot be retrieved.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="System Attributes"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">Properties or characteristics defined by the CenterScape system, including information received from hardware and firmware components. These cannot be changed nor deleted.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Assign"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">User action associating a tag to an asset or an asset to a location.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Detect"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">System action of registering presence and location of a tag and its associated asset if applicable.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="IR Locator"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">An IR Room Locator or IR Rack Locator is a beacon that sends out a unique user-defined location code. IR-enabled tags receive this code and bundle it with the information they send to readers.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="Web Interface"
+      SourceFile="/Project/Glossaries/RFC Terms.flglo">
+      <Definition
+        Link="">The web interface is the browser-based user interface which is composed of the Administrator and User Consoles. The Administrator Console is designed to manage the system infrastructure and database schema while the User Console manages all aspects of the physical assets.</Definition>
+    </GlossaryCacheEntry>
+  </Map>
+  <SourceUrls>
+    <Url
+      Source="../Project/Glossaries/RFC Terms.flglo" />
+  </SourceUrls>
+</CatapultGlobalGlossaryCache>

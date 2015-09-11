@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/Mobile/assets by type.png" />
+    <Link
+      Url="Content/Images/Mobile/assets by type phone.png" />
+    <Link
+      Url="Content/Images/Mobile/asset.png" />
+    <Link
+      Url="Content/Images/Mobile/asset types highlight.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/Mobile/assets by type.png" />
+    <Link
+      Url="Content/Images/Mobile/assets by type phone.png" />
+    <Link
+      Url="Content/Images/Mobile/asset.png" />
+    <Link
+      Url="Content/Images/Mobile/asset types highlight.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

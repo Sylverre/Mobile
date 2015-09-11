@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="320" MadCap:lastWidth="833">
+    <body>
+        <h2>Operating Systems Supported</h2>
+        <ul>
+            <li>Microsoft® Windows Server 2012 R2</li>
+            <li>Microsoft® Windows Server 2008 R2 </li>
+            <li>64-bit Microsoft® Windows 7</li>
+            <li>64-bit commercially available Linux distributions</li>
+            <li MadCap:conditions="Default.future release">64-bit Red Hat Enterprise Linux 6.4 - 7.1</li>
+            <li MadCap:conditions="Default.future release">64-bit CentOS Linux 6.6 – 7.1</li>
+            <li MadCap:conditions="Default.future release">64-bit Oracle Linux 6.5 - 7.0</li>
+        </ul>
+        <p MadCap:conditions="Default.Notes for authors" style="color: #ff0000;font-style: italic;">Latest tested release plus one before unless otherwise specified. As of Linux 7, there will be no need to specify “64-bit” as 32-bit is no longer supported.</p>
+    </body>
+</html>

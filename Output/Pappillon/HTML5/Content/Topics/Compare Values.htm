@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Compare Values</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Compare Values</h1>
+        <p>Among the functions available for calculated asset attributes are two called <span class="emphasis">in</span> and <span class="emphasis">containsElement</span> that are useful for comparing values.</p>
+        <p>The <span class="emphasis">in</span> function takes two arguments and evaluates to a boolean:</p>
+        <p>in(arg1, arg2)</p>
+        <p>The first argument is a single value to be tested against the second argument.</p>
+        <p>The second argument can be a single value such as an asset’s name attribute, or a list of values such as a string-list or custom type list.</p>
+        <p>If we have a location hierarchy of the form:</p>
+        <p>US</p>
+        <p> TEXAS</p>
+        <p>DALLAS</p>
+        <p>AUSTIN</p>
+        <p>FLORIDA</p>
+        <p>MIAMI</p>
+        <p>ORLANDO</p>
+        <p>The <span class="emphasis">in</span> function it could be called with the values in(“AUSTIN”, “TEXAS”) and would return true.</p>
+        <p>In this case, the value of “AUSTIN” is first checked for an exact string match. If that match does not occur, all ancestors of “TEXAS” are checked to see if “AUSTIN” matches any of them.</p>
+        <p>The <span class="emphasis">containsElement</span> function operates similarly to the <span class="emphasis">in</span> function. However, the ancestors of the value(s) in the second argument are not checked.</p>
+        <p>The first argument has to have an exact match to one of the values in the second argument.</p>
+        <p>If we had a schema where we had for example a person and a laptop as two Asset Types:</p>
+        <p>PERSON</p>
+        <p>COMPUTER</p>
+        <p>A boolean calculated asset attribute called PC_IN_EXPECTED_LOCATION could be added to the PERSON type to set a flag to indicate if a PERSON’s LAPTOP is detected to be in the PERSON’s expected location. The expression is:</p>
+        <p>if ((isNull($aExpectedLocation) || isNull(PC.$aLocation)), null,</p>
+        <p>in(PC.$aLocation, $aExpectedLocation))</p>
+        <p>The if condition checks that both the PERSON’s expected location and the PC’s location have values, otherwise the PC_IN_EXPECTED_LOCATION attribute has no value. If both the PERSON’s expected location and the PC’s location have values, the in function is evaluated and set as the value of the calculated asset attribute.</p>
+    </body>
+</html>

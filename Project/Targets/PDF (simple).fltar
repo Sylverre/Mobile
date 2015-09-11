@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Default.Deployment or Default.Logan or Default.NewText or Default.workflow] exclude[&quot;Default.AM only&quot; or &quot;Default.future release&quot; or &quot;Default.Notes for authors&quot; or &quot;Default.Notes for Reviewers&quot; or Default.ScreenOnly or Default.SourceText or Default.SysManual or Default.User] "
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  PatchHeadingLevels="true"
+  InjectBookHeadings="true"
+  InjectEmptyPages="true"
+  MasterPageLayout="/Content/Resources/PageLayouts/Chapter8X11.flpgl">
+  <PrintedOutput
+    CollapseMargins="false"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false"
+    MultiDocOutput="false" />
+  <PDF
+    PageMode="UseNone" />
+  <DocumentProperties
+    Author="RF Code" />
+</CatapultTarget>

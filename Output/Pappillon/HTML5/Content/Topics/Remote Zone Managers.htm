@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Remote Zone Managers Zone Managers</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>
+            <MadCap:conditionalText data-mc-conditions="Default.SysManual">Remote Zone Managers </MadCap:conditionalText>
+            <MadCap:conditionalText data-mc-conditions="Default.workflow">Zone Managers</MadCap:conditionalText>
+        </h1>
+        <p>A local Zone Manager is installed as part of <span class="GeneralProductName">CenterScape</span>᾽s initial installation. This Zone Manager can handle 1,000 readers and 100,000s of tags if installed on a powerful server system. The number of tag events has a far larger impact on the resource requirements of the Zone Manager system(s) than the number of readers. The need for additional remote Zone Managers can be driven by two factors:</p>
+        <ul>
+            <li value="1"><span class="Strong">Scalability:</span> The need to handle more tags and readers and spread the load over additional systems.</li>
+            <li value="2"><span class="Strong">Network Architecture and Connectivity:</span> The need to distribute Zone Managers to remote locations in a distributed environment.</li>
+        </ul>
+        <p>To set up <span class="GeneralProductName">CenterScape</span> with additional Zone Managers, first install those Zone Managers on the desired servers by running the <span class="GeneralProductName">CenterScape</span> installer EXE, selecting the option to install only the Zone Manager component. Then log in to <span class="GeneralProductName">CenterScape</span>.</p>
+        <ol>
+            <li value="1">Navigate to <span class="Strong">Configuration &gt; Zone Managers</span> and click<span class="Strong"> New.</span></li>
+        </ol>
+        <p>&#160;</p>
+        <ol data-mc-continue="true">
+            <li value="2">Complete all required and any desired additional fields.<br /></li>
+        </ol>
+        <p><span class="Strong">NOTE</span>:&#160; Those fields with asterisks (*) are required fields. </p>
+        <h2>Basic Information</h2>
+        <ul>
+            <li value="1"><span class="strong">Name:</span> Input a unique ID for this new Zone Manager.</li>
+            <li value="2"><span class="strong">Description:</span> If desired, add a detailed comment describing the new Zone Manager.</li>
+            <li value="3"><span class="strong">Enabled:</span> Check this box to allow the new Zone Manager to go online once saved.</li>
+        </ul>
+        <h2>Direct Network Settings</h2>
+        <ul>
+            <li value="1"><span class="strong">Hostname:</span> Enter the IP address of your new Zone Manager in this field. </li>
+            <li value="2"><span class="strong">Port:</span> Enter the port number over which to communicate with your new Zone Manager. </li>
+            <li value="3"><span class="strong">SSL:</span> Select the desired SSL&#160;mode:<ul><li value="1"><span class="strong">OFF:</span> turns SSL&#160;mode off on the Zone Manager</li><li value="2"><span class="strong">IFAVAIL:</span> uses SSL on the Zone Manager if available</li><li value="3"><span class="strong">REQUIRED:</span> requires use of SSL </li><li value="4"><span class="strong">STRICT:</span> will authenticate the matching hostname and only connect if the hostname matches the Zone Manager</li></ul></li>
+        </ul>
+        <h2>Up Connect Settings</h2>
+        <p>When this option is configured, the Zone Manager initiates the contact with the <span class="GeneralProductName">CenterScape</span> rather than requiring that access be granted to allow <span class="GeneralProductName">CenterScape</span> to connect to Zone Managers behind a firewall. Up Connection settings must be specified in the configuration of your remote Zone Manager prior to configuring this Zone Manager for use with <span class="GeneralProductName">CenterScape</span>. The Up Connection Zone Manager ID and password are obtained in the configuration of the remote Zone Manager.</p>
+        <ul>
+            <li value="1"><span class="strong">Up Connection Zone Manager ID:</span> Enter the ID that was assigned when you configured your Zone Manager for Up Connection.</li>
+            <li value="2"><span class="strong">Up Connection&#160;User ID:</span> Enter the User ID that was assigned when you configured your Zone Manager for Up Connection.</li>
+            <li value="3"><span class="strong">Up Connection Password:</span> If you assigned a password to your Zone Manager when you configured it for Up Connection, enter the same password here.</li>
+            <li value="4"><span class="strong">Confirm Password:</span> Enter the password again to confirm it.</li>
+        </ul>
+        <h2>User Account</h2>
+        <p>
+                Set up a user account if desired by entering a username and password to allow for administrator or view-only access of the Zone Manager.</p>
+        <ul>
+            <li value="1"><span class="strong">Administrator Username:</span> Create an administrator ID.</li>
+            <li value="2"><span class="strong">Administrator Password:</span> Enter a password for the administrator ID.</li>
+            <li value="3"><span class="strong">Confirm Password:</span> Enter the password again to confirm it.</li>
+            <li value="4"><span class="strong">Read-only Username:</span> Create a user ID&#160;with read-only access to the Zone Manager.</li>
+        </ul>
+        <h2>Advanced</h2>
+        <ul>
+            <li value="1"><span class="strong">Offline Timeout:</span> The number of seconds since the last successful message before readers are reported as offline.  </li>
+            <li value="2"><span class="strong">Expected Location Bias:</span> Increases the confidence level of a location assertion; required in order to tune reader zones but not otherwise used.</li>
+            <li value="3"><span class="strong">Initialization Delay:</span> Set a period to delay initialization of the new Zone Manager to prevent conflicts with other items competing for the same resources.</li>
+        </ul>
+        <h2>IBM® WebSphere® Sensor Events</h2>
+        <p>These fields are used specifically for configuring Zone Manager for use with IBM WebSphere. This configuration section is optional and not required for basic configuration of a Zone Manager for use with <span class="GeneralProductName">CenterScape</span>.</p>
+        <ol start="3">
+            <li value="3">Click <span class="strong">Save Changes</span>. The newly configured Zone Manager appears in the Zone Manager list.</li>
+        </ol>
+        <p>To configure <span class="GeneralProductName">CenterScape</span> to interact with more than one Zone Manager, repeat these steps for each Zone Manager.</p>
+    </body>
+</html>

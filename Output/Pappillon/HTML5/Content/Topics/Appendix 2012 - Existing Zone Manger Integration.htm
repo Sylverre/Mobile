@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Appendix 2012 - Existing Zone Manger Integration</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Appendix 2012 - Existing Zone Manger Integration</h1>
+        <p>This section will describe the process of importing an existing remote Zone Manager configuration for use with <span class="GeneralProductName">CenterScape</span>. This process is done through an exportation of the four Zone Manager configuration files (readers. csv, groups.csv, locations.csv, and rules.csv) from the existing remote Zone Manager, and then importing these files into <span class="GeneralProductName">CenterScape</span>. The purpose of performing this action is to migrate reader, tag group, location and rule information that you have already configured with your existing remote Zone Manager into <span class="GeneralProductName">CenterScape</span>.</p>
+        <p>This step is for users who already have an existing configured Zone Manager system, if you are installing a remote Zone Manager for the first time, you will not need to perform these steps. For information on configuring remote Zone Managers for use with <span class="GeneralProductName">CenterScape</span>, please refer to steps number 10-12 of the Getting Started section of this document.</p>
+        <p>Exporting Configuration Files from Remote Zone Manager</p>
+        <p>The following is a list of instructions to export your existing remote Zone Manager configuration files:</p>
+        <p>1. Access the system where you are currently running your Zone Manager. In order to ensure that files are updated with the most recent configuration operations you have performed with your existing Zone Manager, you must restart the Zone Manager service. This will automatically update the Zone Manager configuration files. To do this please perform the following:</p>
+        <p>a. Navigate to <span class="Strong">Start &gt; Control Panel &gt; Administrative Tools &gt; Services</span>.</p>
+        <p>b. Locate and select the RF Code Zone Manager service. Click Restart to restart the service (This will update the existing Zone Manager configuration files).</p>
+        <p>2. Navigate to the C:\Program Files\RF Code\Zone Manager\zonemgr.datadir (Windows users) or usr\share\ rfcode\zonemanager\jetty\zonemgr.datadir (Linux users) directory. Here you will find four files: readers. csv, groups.csv, locations.csv, and rules.csv. Save a copy of these files to the system that will be running the <span class="GeneralProductName">CenterScape</span> console.</p>
+        <p>3. Start the <span class="GeneralProductName">CenterScape</span> console and import the existing remote Zone Manager configuration files into <span class="GeneralProductName">CenterScape</span>. Do this by navigating to <span class="Strong">Configuration &gt; Import Configuration</span> on the Administrative Console. The import configuration screen will appear.</p>
+        <p>4. Browse to the existing Zone Manager configuration files (groups.csv, readers.csv, locations.csv, rules.csv) that you just copied to your system and click <span class="Strong">Upload</span>. Once the files have uploaded a message box will appear indicating that you have imported the files successfully.</p>
+        <p>This completes the existing Zone Manager integration process. The imported tag groups, readers, locations, and rules will appear in the appropriate configuration panels in the Administrative Console.</p>
+        <p>Please note that the existing Zone Manager configurations are now assigned to the local Zone Manager.</p>
+        <p class="note">This means that you must turn off your existing Remote Zone Managers if using M200 Readers since RF Code M200 Readers only support a single simultaneous connection.</p>
+    </body>
+</html>

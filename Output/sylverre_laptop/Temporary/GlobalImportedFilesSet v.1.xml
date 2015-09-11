@@ -1,0 +1,1876 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalImportedFilesCache
+  SavedSource="file:///C:/Users/sylverre-laptop/Mobile/Output/sylverre_laptop/Temporary/GlobalImportedFilesSet v.1.xml">
+  <ImportedMap>
+    <Map
+      Local="Content/Print Only Topics/Copyright.htm"
+      Remote="../RFCode/Content/Print Only Topics/Copyright.htm" />
+    <Map
+      Local="Content/Print Only Topics/Glossary.htm"
+      Remote="../Global/Content/Print Only Topics/ChapterNumber.htm" />
+    <Map
+      Local="Content/Print Only Topics/Index.htm"
+      Remote="../Global/Content/Print Only Topics/Copyright Statement.htm" />
+    <Map
+      Local="Content/Print Only Topics/PDFGuideATitle.htm"
+      Remote="../Global/Content/Print Only Topics/Glossary.htm" />
+    <Map
+      Local="Content/Print Only Topics/PDGGuideBTitle.htm"
+      Remote="../Global/Content/Print Only Topics/Index.htm" />
+    <Map
+      Local="Content/Print Only Topics/TOC.htm"
+      Remote="../Global/Content/Print Only Topics/PDFGuideATitle.htm" />
+    <Map
+      Local="Content/Resources/Access Control.htm"
+      Remote="../RFCode/Content/Resources/Access Control.htm" />
+    <Map
+      Local="Content/Resources/Adding LDAP Users and Groups.htm"
+      Remote="../RFCode/Content/Resources/Adding LDAP Users and Groups.htm" />
+    <Map
+      Local="Content/Resources/Adding Tag Groups.htm"
+      Remote="../RFCode/Content/Resources/Adding Tag Groups.htm" />
+    <Map
+      Local="Content/Resources/Adding Users.htm"
+      Remote="../RFCode/Content/Resources/Adding Users.htm" />
+    <Map
+      Local="Content/Resources/Advanced Asset Security.htm"
+      Remote="../RFCode/Content/Resources/Advanced Asset Security.htm" />
+    <Map
+      Local="Content/Resources/Advanced Reader Configuration.htm"
+      Remote="../RFCode/Content/Resources/Advanced Reader Configuration.htm" />
+    <Map
+      Local="Content/Resources/Asset Attributes.htm"
+      Remote="../RFCode/Content/Resources/Asset Attributes.htm" />
+    <Map
+      Local="Content/Resources/Asset Templates.htm"
+      Remote="../RFCode/Content/Resources/Asset Templates.htm" />
+    <Map
+      Local="Content/Resources/Asset Types.htm"
+      Remote="../RFCode/Content/Resources/Asset Types.htm" />
+    <Map
+      Local="Content/Resources/BACnet Slave Device.htm"
+      Remote="../RFCode/Content/Resources/BACnet Slave Device.htm" />
+    <Map
+      Local="Content/Resources/BACnet Slave Object IDs.htm"
+      Remote="../RFCode/Content/Resources/BACnet Slave Object IDs.htm" />
+    <Map
+      Local="Content/Resources/BACnet Slave Server.htm"
+      Remote="../RFCode/Content/Resources/BACnet Slave Server.htm" />
+    <Map
+      Local="Content/Resources/Basic Information - Graph.htm"
+      Remote="../RFCode/Content/Resources/Basic Information - Graph.htm" />
+    <Map
+      Local="Content/Resources/Bookmarks.htm"
+      Remote="../RFCode/Content/Resources/Bookmarks.htm" />
+    <Map
+      Local="Content/Resources/Configuration for Unknown.htm"
+      Remote="../RFCode/Content/Resources/Configuration for Unknown.htm" />
+    <Map
+      Local="Content/Resources/Configuration Settings for1.htm"
+      Remote="../RFCode/Content/Resources/Configuration Settings for1.htm" />
+    <Map
+      Local="Content/Resources/Configuration Settings for3.htm"
+      Remote="../RFCode/Content/Resources/Configuration Settings for3.htm" />
+    <Map
+      Local="Content/Resources/Configuration Settings Specific.htm"
+      Remote="../RFCode/Content/Resources/Configuration Settings Specific.htm" />
+    <Map
+      Local="Content/Resources/Configuring a Production Database.htm"
+      Remote="../RFCode/Content/Resources/Configuring a Production Database.htm" />
+    <Map
+      Local="Content/Resources/Configuring FTP Actions for.htm"
+      Remote="../RFCode/Content/Resources/Configuring FTP Actions for.htm" />
+    <Map
+      Local="Content/Resources/Configuring Graph Template.htm"
+      Remote="../RFCode/Content/Resources/Configuring Graph Template.htm" />
+    <Map
+      Local="Content/Resources/Configuring Report Template.htm"
+      Remote="../RFCode/Content/Resources/Configuring Report Template.htm" />
+    <Map
+      Local="Content/Resources/Configuring SMTP.htm"
+      Remote="../RFCode/Content/Resources/Configuring SMTP.htm" />
+    <Map
+      Local="Content/Resources/Creating and Using Map Hot.htm"
+      Remote="../RFCode/Content/Resources/Creating and Using Map Hot.htm" />
+    <Map
+      Local="Content/Resources/Creating Asset Templates.htm"
+      Remote="../RFCode/Content/Resources/Creating Asset Templates.htm" />
+    <Map
+      Local="Content/Resources/Creating Graph Template Definitions.htm"
+      Remote="../RFCode/Content/Resources/Creating Graph Template Definitions.htm" />
+    <Map
+      Local="Content/Resources/Creating Groups.htm"
+      Remote="../RFCode/Content/Resources/Creating Groups.htm" />
+    <Map
+      Local="Content/Resources/Creating Maps.htm"
+      Remote="../RFCode/Content/Resources/Creating Maps.htm" />
+    <Map
+      Local="Content/Resources/Creating Report Template Definitions.htm"
+      Remote="../RFCode/Content/Resources/Creating Report Template Definitions.htm" />
+    <Map
+      Local="Content/Resources/Custom Attribute Types.htm"
+      Remote="../RFCode/Content/Resources/Custom Attribute Types.htm" />
+    <Map
+      Local="Content/Resources/Data Schema.htm"
+      Remote="../RFCode/Content/Resources/Data Schema.htm" />
+    <Map
+      Local="Content/Resources/Deleting Asset Types.htm"
+      Remote="../RFCode/Content/Resources/Deleting Asset Types.htm" />
+    <Map
+      Local="Content/Resources/Deleting Graphs.htm"
+      Remote="../RFCode/Content/Resources/Deleting Graphs.htm" />
+    <Map
+      Local="Content/Resources/Deleting Reports.htm"
+      Remote="../RFCode/Content/Resources/Deleting Reports.htm" />
+    <Map
+      Local="Content/Resources/Expected Location.htm"
+      Remote="../RFCode/Content/Resources/Expected Location.htm" />
+    <Map
+      Local="Content/Resources/Exporting Reports.htm"
+      Remote="../RFCode/Content/Resources/Exporting Reports.htm" />
+    <Map
+      Local="Content/Resources/Filtering Graphs.htm"
+      Remote="../RFCode/Content/Resources/Filtering Graphs.htm" />
+    <Map
+      Local="Content/Resources/Graph Actions.htm"
+      Remote="../RFCode/Content/Resources/Graph Actions.htm" />
+    <Map
+      Local="Content/Resources/Graph Appearance.htm"
+      Remote="../RFCode/Content/Resources/Graph Appearance.htm" />
+    <Map
+      Local="Content/Resources/Graph Columns Attributes.htm"
+      Remote="../RFCode/Content/Resources/Graph Columns Attributes.htm" />
+    <Map
+      Local="Content/Resources/Graph Filter and Post Condition.htm"
+      Remote="../RFCode/Content/Resources/Graph Filter and Post Condition.htm" />
+    <Map
+      Local="Content/Resources/Graph Filters Post Conditions.htm"
+      Remote="../RFCode/Content/Resources/Graph Filters Post Conditions.htm" />
+    <Map
+      Local="Content/Resources/Graph Schedule.htm"
+      Remote="../RFCode/Content/Resources/Graph Schedule.htm" />
+    <Map
+      Local="Content/Resources/Graphs.htm"
+      Remote="../RFCode/Content/Resources/Graphs.htm" />
+    <Map
+      Local="Content/Resources/Integrating with BACnet.htm"
+      Remote="../RFCode/Content/Resources/Integrating with BACnet.htm" />
+    <Map
+      Local="Content/Resources/Integrating with JMX.htm"
+      Remote="../RFCode/Content/Resources/Integrating with JMX.htm" />
+    <Map
+      Local="Content/Resources/Integrating with Modbus.htm"
+      Remote="../RFCode/Content/Resources/Integrating with Modbus.htm" />
+    <Map
+      Local="Content/Resources/JMX Domain Configuration Settings.htm"
+      Remote="../RFCode/Content/Resources/JMX Domain Configuration Settings.htm" />
+    <Map
+      Local="Content/Resources/JMX Domains.htm"
+      Remote="../RFCode/Content/Resources/JMX Domains.htm" />
+    <Map
+      Local="Content/Resources/JMX Monitor.htm"
+      Remote="../RFCode/Content/Resources/JMX Monitor.htm" />
+    <Map
+      Local="Content/Resources/Licenses for Advanced Features.htm"
+      Remote="../RFCode/Content/Resources/Licenses for Advanced Features.htm" />
+    <Map
+      Local="Content/Resources/Locations and the Location.htm"
+      Remote="../RFCode/Content/Resources/Locations and the Location.htm" />
+    <Map
+      Local="Content/Resources/Macros for Reports and Graphs.htm"
+      Remote="../RFCode/Content/Resources/Macros for Reports and Graphs.htm" />
+    <Map
+      Local="Content/Resources/Manage Graphs.htm"
+      Remote="../RFCode/Content/Resources/Manage Graphs.htm" />
+    <Map
+      Local="Content/Resources/Manage Reports.htm"
+      Remote="../RFCode/Content/Resources/Manage Reports.htm" />
+    <Map
+      Local="Content/Resources/Map Views.htm"
+      Remote="../RFCode/Content/Resources/Map Views.htm" />
+    <Map
+      Local="Content/Resources/Maps.htm"
+      Remote="../RFCode/Content/Resources/Maps.htm" />
+    <Map
+      Local="Content/Resources/Modbus Slave Addresses.htm"
+      Remote="../RFCode/Content/Resources/Modbus Slave Addresses.htm" />
+    <Map
+      Local="Content/Resources/Modbus Slave Devices.htm"
+      Remote="../RFCode/Content/Resources/Modbus Slave Devices.htm" />
+    <Map
+      Local="Content/Resources/Modbus Slave Server.htm"
+      Remote="../RFCode/Content/Resources/Modbus Slave Server.htm" />
+    <Map
+      Local="Content/Resources/Overview of Groups.htm"
+      Remote="../RFCode/Content/Resources/Overview of Groups.htm" />
+    <Map
+      Local="Content/Resources/Report Filters Post Conditions.htm"
+      Remote="../RFCode/Content/Resources/Report Filters Post Conditions.htm" />
+    <Map
+      Local="Content/Resources/Report Schedule.htm"
+      Remote="../RFCode/Content/Resources/Report Schedule.htm" />
+    <Map
+      Local="Content/Resources/Reports and Graphs Overview.htm"
+      Remote="../RFCode/Content/Resources/Reports and Graphs Overview.htm" />
+    <Map
+      Local="Content/Resources/Reports and Graphs.htm"
+      Remote="../RFCode/Content/Resources/Reports and Graphs.htm" />
+    <Map
+      Local="Content/Resources/Reports.htm"
+      Remote="../RFCode/Content/Resources/Reports.htm" />
+    <Map
+      Local="Content/Resources/Rule Types and Configuration.htm"
+      Remote="../RFCode/Content/Resources/Rule Types and Configuration.htm" />
+    <Map
+      Local="Content/Resources/Running and Viewing Reports.htm"
+      Remote="../RFCode/Content/Resources/Running and Viewing Reports.htm" />
+    <Map
+      Local="Content/Resources/Running Graphs.htm"
+      Remote="../RFCode/Content/Resources/Running Graphs.htm" />
+    <Map
+      Local="Content/Resources/Security.htm"
+      Remote="../RFCode/Content/Resources/Security.htm" />
+    <Map
+      Local="Content/Resources/User Accounts and Security.htm"
+      Remote="../RFCode/Content/Resources/User Accounts and Security.htm" />
+    <Map
+      Local="Content/Resources/User Accounts Roles and Permissions.htm"
+      Remote="../RFCode/Content/Resources/User Accounts Roles and Permissions.htm" />
+    <Map
+      Local="Content/Resources/Using Actions with Reports.htm"
+      Remote="../RFCode/Content/Resources/Using Actions with Reports.htm" />
+    <Map
+      Local="Content/Resources/Viewing an Asset Type Sample.htm"
+      Remote="../RFCode/Content/Resources/Viewing an Asset Type Sample.htm" />
+    <Map
+      Local="Content/Resources/Viewing Asset Types.htm"
+      Remote="../RFCode/Content/Resources/Viewing Asset Types.htm" />
+    <Map
+      Local="Content/Resources/Viewing Graphs.htm"
+      Remote="../RFCode/Content/Resources/Viewing Graphs.htm" />
+    <Map
+      Local="Content/Resources/[DCM] Web Console Overview.htm"
+      Remote="../RFCode/Content/Resources/[DCM] Web Console Overview.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Add Reader(s).htm"
+      Remote="../RFCode/Content/Resources/Deployment/Add Reader(s).htm" />
+    <Map
+      Local="Content/Resources/Deployment/Adding LDAP Users and Groups.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Adding LDAP Users and Groups.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Adding Licenses.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Adding Licenses.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Adding Sensors as Assets1.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Adding Sensors as Assets1.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Adding Sensors as Assets2.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Adding Sensors as Assets2.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Alert Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Alert Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Alert Filter.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Alert Filter.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Alert Thresholds.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Alert Thresholds.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Alert Viewer.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Alert Viewer.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Alerts.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Alerts.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Applying a Calculated Asset.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Applying a Calculated Asset.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Asset Links.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Asset Links.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Asset Skins.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Asset Skins.htm" />
+    <Map
+      Local="Content/Resources/Deployment/BIRT Templates.htm"
+      Remote="../RFCode/Content/Resources/Deployment/BIRT Templates.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Calculated Asset Attributes.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Calculated Asset Attributes.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Calculated Asset Attributes1.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Calculated Asset Attributes1.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Calculated Asset Attributes2.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Calculated Asset Attributes2.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Conditional Formatting with.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Conditional Formatting with.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuration Settings for.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuration Settings for.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuration Settings for2.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuration Settings for2.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuration Settings for4.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuration Settings for4.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring Alert Thresholds.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring Alert Thresholds.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring Email Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring Email Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring Email Alert Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring Email Alert Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring Event Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring Event Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring FTP Alert Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring FTP Alert Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring HTTP Post Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring HTTP Post Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring HTTP Post Alert.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring HTTP Post Alert.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring Logging Alert.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring Logging Alert.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring Serial Device.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring Serial Device.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring SNMP V1 Trap Alert.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring SNMP V1 Trap Alert.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring SNMP V3 Alert.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring SNMP V3 Alert.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring the M250 Reader.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring the M250 Reader.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Configuring Triggers.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Configuring Triggers.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Copying Alert Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Copying Alert Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Copying Alert Thresholds.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Copying Alert Thresholds.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Copying Event Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Copying Event Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Copying Event Triggers.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Copying Event Triggers.htm" />
+    <Map
+      Local="Content/Resources/Deployment/CRAC Assets for RTI.htm"
+      Remote="../../RFC Flare/Global/Content/Resources/PageLayouts/ControlDoc.flpgl" />
+    <Map
+      Local="Content/Resources/Deployment/Creating a Basic Dashboard.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Creating a Basic Dashboard.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Creating a Calculated Asset.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Creating a Calculated Asset.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Creating Alert Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Creating Alert Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Creating Alert Thresholds.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Creating Alert Thresholds.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Creating Event Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Creating Event Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Creating New Triggers.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Creating New Triggers.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Dashboards.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Dashboards.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Data Center Requirements.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Data Center Requirements.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Data Schema.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Data Schema.htm" />
+    <Map
+      Local="Content/Resources/Deployment/DCM Deploy Intro.htm"
+      Remote="../RFCode/Content/Resources/Deployment/DCM Deploy Intro.htm" />
+    <Map
+      Local="Content/Resources/Deployment/DCM Deploy Overview.htm"
+      Remote="../RFCode/Content/Resources/Deployment/DCM Deploy Overview.htm" />
+    <Map
+      Local="Content/Resources/Deployment/DCM Hardware, Software, and Database Requirements.htm"
+      Remote="../RFCode/Content/Resources/Deployment/DCM Hardware, Software, and Database Requirements.htm" />
+    <Map
+      Local="Content/Resources/Deployment/DCM Initial Configuration - Consoles.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/English (United States) Dictionary.mcdic" />
+    <Map
+      Local="Content/Resources/Deployment/DCM Installation.htm"
+      Remote="../RFCode/Content/Resources/Deployment/DCM Installation.htm" />
+    <Map
+      Local="Content/Resources/Deployment/DCM manual pilot deployment1.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/English (United States).mchyph" />
+    <Map
+      Local="Content/Resources/Deployment/Deleting Alert Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Deleting Alert Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Deleting Alert Thresholds.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Deleting Alert Thresholds.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Deleting Event Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Deleting Event Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Deleting Event Triggers.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Deleting Event Triggers.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Discovery.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Discovery.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Event Actions.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Event Actions.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Event Filters.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Event Filters.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Event Triggers.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Event Triggers.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Events.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Events.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Export Configuration.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Export Configuration.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Folders.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Folders.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Global Alert Policies for.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Global Alert Policies for.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Global Positioning System (GPS).htm"
+      Remote="../RFCode/Content/Resources/Deployment/Global Positioning System (GPS).htm" />
+    <Map
+      Local="Content/Resources/Deployment/Import Configuration.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Import Configuration.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Install and Configure IR Locator.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Install and Configure IR Locator.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Installation and Deployment of Readers.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Installation and Deployment of Readers.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Integrating with LDAP Active.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Integrating with LDAP Active.htm" />
+    <Map
+      Local="Content/Resources/Deployment/JMX Monitor.htm"
+      Remote="../RFCode/Content/Resources/Deployment/JMX Monitor.htm" />
+    <Map
+      Local="Content/Resources/Deployment/LDAP Server Configuration.htm"
+      Remote="../RFCode/Content/Resources/Deployment/LDAP Server Configuration.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Locations and Rules.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Locations and Rules.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Locations.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Locations.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Macros for Events and Alerts.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Macros for Events and Alerts.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Map Views in the User Console.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Map Views in the User Console.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Maps.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Maps.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Measuring RTI.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/Auto Index Sets/AutoIndexSet.flaix" />
+    <Map
+      Local="Content/Resources/Deployment/Planning and Deployment.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Planning and Deployment.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Rack Cooling Index.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Rack Cooling Index.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Readers, Reader Firmware, Reader Status.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx" />
+    <Map
+      Local="Content/Resources/Deployment/Reports, Advanced.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/Browse Sequences/BrowseSequence.flbrs" />
+    <Map
+      Local="Content/Resources/Deployment/Reports, Create New.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/CSH/BIRT.flali" />
+    <Map
+      Local="Content/Resources/Deployment/Reports, Run.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/CSH/HeaderFile.h" />
+    <Map
+      Local="Content/Resources/Deployment/Return Temperature Index.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Return Temperature Index.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Schema Import.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/CSH/Unlink_and_Move.flali" />
+    <Map
+      Local="Content/Resources/Deployment/Security.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/File Tags/FileTagSetAuthor.flfts" />
+    <Map
+      Local="Content/Resources/Deployment/Sensor Definitions.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/File Tags/FileTagSetStatus.flfts" />
+    <Map
+      Local="Content/Resources/Deployment/Serial Devices.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/Index Link Sets/IndexLinkSet.flixl" />
+    <Map
+      Local="Content/Resources/Deployment/Server.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Server.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Statistical Pack.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/Relationship Tables/RelationshipTable.flrtb" />
+    <Map
+      Local="Content/Resources/Deployment/Statistical Policy.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/Search Filters/SearchFilter.flsfs" />
+    <Map
+      Local="Content/Resources/Deployment/Status Attributes.htm"
+      Remote="../../RFC Flare/Global/Project/Advanced/Synonyms/Synonyms.mcsyns" />
+    <Map
+      Local="Content/Resources/Deployment/Summary Assets.htm"
+      Remote="../../RFC Flare/Global/Project/ConditionTagSets/Default.flcts" />
+    <Map
+      Local="Content/Resources/Deployment/Table View.htm"
+      Remote="../../RFC Flare/Global/Project/Destinations/Destination.fldes" />
+    <Map
+      Local="Content/Resources/Deployment/Tag Groups.htm"
+      Remote="../../RFC Flare/Global/Project/Exports/RFC-Comprehensive.flexp" />
+    <Map
+      Local="Content/Resources/Deployment/Tag Management.htm"
+      Remote="../../RFC Flare/Global/Project/Glossaries/RFC Terms.flglo" />
+    <Map
+      Local="Content/Resources/Deployment/Tag Positioning.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Tag Positioning.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Testing Event Actions.htm"
+      Remote="../../RFC Flare/Global/Project/Imports/UserManual for reference.flimp" />
+    <Map
+      Local="Content/Resources/Deployment/The Administrator Console.htm"
+      Remote="../RFCode/Content/Resources/Deployment/The Administrator Console.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Thresholds and Alerts.htm"
+      Remote="../../RFC Flare/Global/Project/Reports/Critical Issues Report.flrep" />
+    <Map
+      Local="Content/Resources/Deployment/Time - Graphs.htm"
+      Remote="../../RFC Flare/Global/Project/Reports/Empty Report.flrep" />
+    <Map
+      Local="Content/Resources/Deployment/Time - Reports.htm"
+      Remote="../../RFC Flare/Global/Project/Reports/Unused Items Report.flrep" />
+    <Map
+      Local="Content/Resources/Deployment/User Audit Trail.htm"
+      Remote="../RFCode/Content/Resources/Deployment/User Audit Trail.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Viewing Assets.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Viewing Assets.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Zone Manager Status.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Zone Manager Status.htm" />
+    <Map
+      Local="Content/Resources/Deployment/Zone Manager.htm"
+      Remote="../RFCode/Content/Resources/Deployment/Zone Manager.htm" />
+    <Map
+      Local="Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.eps"
+      Remote="../../RFC Flare/Global/Project/Targets/Word for Review.fltar" />
+    <Map
+      Local="Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif"
+      Remote="../../RFC Flare/Global/Project/Targets/Word for Review.fltar" />
+    <Map
+      Local="Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png"
+      Remote="../../RFC Flare/Global/Project/TOCs/singleton.fltoc" />
+    <Map
+      Local="Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png"
+      Remote="../Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif" />
+    <Map
+      Local="Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.eps"
+      Remote="../../RFC Flare/Global/Content/Resources/Deployment/DCM manual pilot deployment1.htm" />
+    <Map
+      Local="Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif"
+      Remote="../Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png" />
+    <Map
+      Local="Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png"
+      Remote="../Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png" />
+    <Map
+      Local="Content/Global Images/CenterScape Logo Color.png"
+      Remote="../Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif" />
+    <Map
+      Local="Content/Global Images/CS logo cropped no RFC.bmp"
+      Remote="../Global/Content/Global Images/CS alert threshold.bmp" />
+    <Map
+      Local="Content/Global Images/drop-down arrow.bmp"
+      Remote="../Global/Content/Global Images/CS hero splash.png" />
+    <Map
+      Local="Content/Global Images/ECD Survey 1 of 3.jpg"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf" />
+    <Map
+      Local="Content/Global Images/greencheck.bmp"
+      Remote="../Global/Content/Global Images/CS logo cropped no RFC.bmp" />
+    <Map
+      Local="Content/Global Images/help icon.bmp"
+      Remote="../Global/Content/Global Images/drop-down arrow.bmp" />
+    <Map
+      Local="Content/Global Images/redx.bmp"
+      Remote="../Global/Content/Global Images/help icon.bmp" />
+    <Map
+      Local="Content/Global Images/RFC data center background - Copy.bmp"
+      Remote="../Global/Content/Global Images/Note icon.bmp" />
+    <Map
+      Local="Content/Global Images/RFC data center background cropped and shaded.bmp"
+      Remote="../Global/Content/Global Images/redx.bmp" />
+    <Map
+      Local="Content/Global Images/rfc data center background rich color.bmp"
+      Remote="../Global/Content/Global Images/RFC data center background - Copy.bmp" />
+    <Map
+      Local="Content/Global Images/RFC data center background.bmp"
+      Remote="../Global/Content/Global Images/RFC data center background cropped and shaded.bmp" />
+    <Map
+      Local="Content/Global Images/rfc dc back.jpg"
+      Remote="../Global/Content/Global Images/rfc data center background rich color.bmp" />
+    <Map
+      Local="Content/Global Images/rfc logo.bmp"
+      Remote="../Global/Content/Global Images/RFC data center background.bmp" />
+    <Map
+      Local="Content/Print Only Topics/Appendix.htm"
+      Remote="../Global/Content/Global Images/Tool Tip icon.bmp" />
+    <Map
+      Local="Content/Print Only Topics/ChapterNumber.htm"
+      Remote="../Global/Content/Global Images/Vital Icon.bmp" />
+    <Map
+      Local="Content/Print Only Topics/Copyright Statement.htm"
+      Remote="../Global/Content/Print Only Topics/Appendix.htm" />
+    <Map
+      Local="Content/Print Only Topics/Trademarks.htm"
+      Remote="../Global/Content/Print Only Topics/PDGGuideBTitle.htm" />
+    <Map
+      Local="Content/Resources/Snippets/Web Browsers Supported.flsnp"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Minimum Hardware.flsnp" />
+    <Map
+      Local="Content/Topics/2012 Tasks Menu.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/PDFGuideATitle.htm" />
+    <Map
+      Local="Content/Topics/Appendix 2012 - Existing Zone Manger Integration.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/PDGGuideBTitle.htm" />
+    <Map
+      Local="Content/Topics/Appendix-Example Floorplans.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/TOC.htm" />
+    <Map
+      Local="Content/Topics/Appendix-Inventory Spreadsheet.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/Trademarks.htm" />
+    <Map
+      Local="Content/Topics/Asset Location and Detected Location.htm"
+      Remote="../../RFC Flare/Global/Content/Resources/Deployment/Time - Reports.htm" />
+    <Map
+      Local="Content/Topics/Assets-Workflow.htm"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Web Browsers Supported.flsnp" />
+    <Map
+      Local="Content/Topics/Best Practice - Installing Sensor Tags in Network Closets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/2012 Tasks Menu.htm" />
+    <Map
+      Local="Content/Topics/Best Practices for Importing Assets with a Spreadsheet.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Appendix 2012 - Existing Zone Manger Integration.htm" />
+    <Map
+      Local="Content/Topics/Changing Administrator Login.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Appendix-Example Floorplans.htm" />
+    <Map
+      Local="Content/Topics/Changing Web Server Ports.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Appendix-Inventory Spreadsheet.htm" />
+    <Map
+      Local="Content/Topics/Compare Values.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Asset Location and Detected Location.htm" />
+    <Map
+      Local="Content/Topics/Configuration for Unknown.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Assets-Workflow.htm" />
+    <Map
+      Local="Content/Topics/Configuration Task intro.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Best Practice - Installing Sensor Tags in Network Closets.htm" />
+    <Map
+      Local="Content/Topics/Creating and Using Map Hot.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Best Practices for Importing Assets with a Spreadsheet.htm" />
+    <Map
+      Local="Content/Topics/Creating Maps.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Changing Administrator Login.htm" />
+    <Map
+      Local="Content/Topics/Default Alerts.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Changing Web Server Ports.htm" />
+    <Map
+      Local="Content/Topics/Default Dashboards.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Compare Values.htm" />
+    <Map
+      Local="Content/Topics/Default Graphs.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Configuration for Unknown.htm" />
+    <Map
+      Local="Content/Topics/Default Reports.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Configuration Task intro.htm" />
+    <Map
+      Local="Content/Topics/Delete Assets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Creating and Using Map Hot.htm" />
+    <Map
+      Local="Content/Topics/Deployment Configuration.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Creating Maps.htm" />
+    <Map
+      Local="Content/Topics/Displaying Values in English or Metric System.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Default Alerts.htm" />
+    <Map
+      Local="Content/Topics/Events and Alerts.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Default Dashboards.htm" />
+    <Map
+      Local="Content/Topics/Getting Started with Product-PilotConfig.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Default Graphs.htm" />
+    <Map
+      Local="Content/Topics/Getting Started with Product-SysConfig.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Default Reports.htm" />
+    <Map
+      Local="Content/Topics/Import Assets Using Spreadsheet.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Delete Assets.htm" />
+    <Map
+      Local="Content/Topics/Import Location Hierarchy Using Spreadsheet.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Deployment Configuration.htm" />
+    <Map
+      Local="Content/Topics/Installing Product.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Displaying Values in English or Metric System.htm" />
+    <Map
+      Local="Content/Topics/License Key Configuration 2012.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Events and Alerts.htm" />
+    <Map
+      Local="Content/Topics/Locations, Rules, Maps 2012 addendum.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Getting Started with Product-PilotConfig.htm" />
+    <Map
+      Local="Content/Topics/Logan Default Schema.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Getting Started with Product-SysConfig.htm" />
+    <Map
+      Local="Content/Topics/Logan Schema Details.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Import Assets Using Spreadsheet.htm" />
+    <Map
+      Local="Content/Topics/Manage Assets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Import Location Hierarchy Using Spreadsheet.htm" />
+    <Map
+      Local="Content/Topics/Manage Selected Assets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Installing Product.htm" />
+    <Map
+      Local="Content/Topics/Moving Assets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/License Key Configuration 2012.htm" />
+    <Map
+      Local="Content/Topics/New Views.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Locations, Rules, Maps 2012 addendum.htm" />
+    <Map
+      Local="Content/Topics/Product Card.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Logan Default Schema.htm" />
+    <Map
+      Local="Content/Topics/quickstart-Product.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Logan Schema Details.htm" />
+    <Map
+      Local="Content/Topics/Rack Visualization.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Manage Assets.htm" />
+    <Map
+      Local="Content/Topics/Reader Configuration 2012.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Manage Selected Assets.htm" />
+    <Map
+      Local="Content/Topics/Remote Zone Managers.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Moving Assets.htm" />
+    <Map
+      Local="Content/Topics/Resetting Administrator Login.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/New Views.htm" />
+    <Map
+      Local="Content/Topics/Roll-Out.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Product Card.htm" />
+    <Map
+      Local="Content/Topics/System API Pages.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/quickstart-Product.htm" />
+    <Map
+      Local="Content/Topics/System Attributes.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Rack Visualization.htm" />
+    <Map
+      Local="Content/Topics/Terminology.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Reader Configuration 2012.htm" />
+    <Map
+      Local="Content/Topics/Update Attributes.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Remote Zone Managers.htm" />
+    <Map
+      Local="Content/Topics/Workflow-Product.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Resetting Administrator Login.htm" />
+    <Map
+      Local="Project/Targets/HTML Help.fltar"
+      Remote="../../RFC Flare/Global/Project/Skins/Default.flskn" />
+    <Map
+      Local="Project/Targets/PDF (simple).fltar"
+      Remote="../../RFC Flare/Global/Project/Skins/HTML5.flskn" />
+    <Map
+      Local="Project/VariableSets/General.flvar"
+      Remote="../../RFC Flare/Global/Project/Targets/Release Notes.fltar" />
+    <Map
+      Local="Content/Resources/MasterPages/UserManual for reference.flmsp"
+      Remote="../Global/Content/Print Only Topics/Trademarks.htm" />
+    <Map
+      Local="Content/Resources/PageLayouts/Chapter8X11.flpgl"
+      Remote="../../RFC Flare/Global/Content/Topics/Terminology.htm" />
+    <Map
+      Local="Content/Resources/PageLayouts/ControlDoc.flpgl"
+      Remote="../Global/Content/Print Only Topics/Warranty and Service.htm" />
+    <Map
+      Local="Content/Resources/PageLayouts/Cover.flpgl"
+      Remote="../../RFC Flare/Global/Content/Topics/Update Attributes.htm" />
+    <Map
+      Local="Content/Resources/PageLayouts/Default.flpgl"
+      Remote="../../RFC Flare/Global/Content/Topics/Workflow-Product.htm" />
+    <Map
+      Local="Content/Resources/PageLayouts/Fronmatter8X11.flpgl"
+      Remote="../../RFC Flare/Global/Project/Targets/HTML Help.fltar" />
+    <Map
+      Local="Content/Resources/Snippets/Databases Supported.flsnp"
+      Remote="../../RFC Flare/Global/Project/Targets/PDF (simple).fltar" />
+    <Map
+      Local="Content/Resources/Snippets/Firmware Versions.flsnp"
+      Remote="../../RFC Flare/Global/Project/VariableSets/General.flvar" />
+    <Map
+      Local="Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp"
+      Remote="../../RFC Flare/Global/Content/Resources/PageLayouts/Chapter8X11.flpgl" />
+    <Map
+      Local="Content/Resources/Snippets/Minimum Hardware.flsnp"
+      Remote="../../RFC Flare/Global/Content/Resources/PageLayouts/Cover.flpgl" />
+    <Map
+      Local="Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp"
+      Remote="../../RFC Flare/Global/Content/Resources/PageLayouts/Default.flpgl" />
+    <Map
+      Local="Content/Resources/Snippets/Operating Systems Supported.flsnp"
+      Remote="../../RFC Flare/Global/Content/Resources/PageLayouts/Fronmatter8X11.flpgl" />
+    <Map
+      Local="Content/Resources/Snippets/required fields note.flsnp"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Databases Supported.flsnp" />
+    <Map
+      Local="Content/Resources/Snippets/RF Code Customer Support.flsnp"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Firmware Versions.flsnp" />
+    <Map
+      Local="Content/Resources/Snippets/Standard Warranty Limitations.flsnp"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/Simple.css"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/Styles.css"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Operating Systems Supported.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/required fields note.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/RF Code Customer Support.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Standard Warranty Limitations.flsnp" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Simple.css" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Styles.css" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLight.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Medium.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-MediumItalic.ttf" />
+    <Map
+      Local="Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Regular.ttf" />
+    <Map
+      Local="Project/Advanced/English (United States) Dictionary.mcdic"
+      Remote="../Global/Content/Resources/PageLayouts/Default.flpgl" />
+    <Map
+      Local="Project/Advanced/English (United States).mchyph"
+      Remote="../Global/Content/Resources/PageLayouts/DraftChapter8X11.flpgl" />
+    <Map
+      Local="Project/Advanced/Auto Index Sets/AutoIndexSet.flaix"
+      Remote="../Global/Content/Resources/PageLayouts/Frontmatter8X11.flpgl" />
+    <Map
+      Local="Project/Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx"
+      Remote="../Global/Content/Resources/PageLayouts/RFC Cover with data center.flpgl" />
+    <Map
+      Local="Project/Advanced/Browse Sequences/BrowseSequence.flbrs"
+      Remote="../Global/Content/Resources/Snippets/Databases Supported.flsnp" />
+    <Map
+      Local="Project/Advanced/CSH/BIRT.flali"
+      Remote="../Global/Content/Resources/Snippets/Firmware Versions.flsnp" />
+    <Map
+      Local="Project/Advanced/CSH/HeaderFile.h"
+      Remote="../Global/Content/Resources/Snippets/Limited Standard Warranty Terms.flsnp" />
+    <Map
+      Local="Project/Advanced/CSH/Unlink_and_Move.flali"
+      Remote="../Global/Content/Resources/Snippets/Minimum Hardware.flsnp" />
+    <Map
+      Local="Project/Advanced/File Tags/FileTagSetAuthor.flfts"
+      Remote="../Global/Content/Resources/Snippets/Obtaining Service &amp; Support.flsnp" />
+    <Map
+      Local="Project/Advanced/File Tags/FileTagSetStatus.flfts"
+      Remote="../Global/Content/Resources/Snippets/Operating Systems Supported.flsnp" />
+    <Map
+      Local="Project/Advanced/Index Link Sets/IndexLinkSet.flixl"
+      Remote="../Global/Content/Resources/Snippets/required fields note.flsnp" />
+    <Map
+      Local="Project/Advanced/Relationship Tables/RelationshipTable.flrtb"
+      Remote="../Global/Content/Resources/Snippets/RF Code Customer Support.flsnp" />
+    <Map
+      Local="Project/Advanced/Search Filters/SearchFilter.flsfs"
+      Remote="../Global/Content/Resources/Snippets/Standard Warranty Limitations.flsnp" />
+    <Map
+      Local="Project/Advanced/Synonyms/Synonyms.mcsyns"
+      Remote="../Global/Content/Resources/Snippets/Web Browsers Supported.flsnp" />
+    <Map
+      Local="Project/ConditionTagSets/Default.flcts"
+      Remote="../Global/Content/Resources/Stylesheets/Simple.css" />
+    <Map
+      Local="Project/Destinations/Destination.fldes"
+      Remote="../Global/Content/Resources/Stylesheets/Styles.css" />
+    <Map
+      Local="Project/Exports/RFC-Comprehensive.flexp"
+      Remote="../Global/Content/Resources/Stylesheets/TOC1.css" />
+    <Map
+      Local="Project/Glossaries/RFC Terms.flglo"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-Black.ttf" />
+    <Map
+      Local="Project/Imports/UserManual for reference.flimp"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-BlackItalic.ttf" />
+    <Map
+      Local="Project/Reports/Critical Issues Report.flrep"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-Bold.ttf" />
+    <Map
+      Local="Project/Reports/Empty Report.flrep"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-BoldItalic.ttf" />
+    <Map
+      Local="Project/Reports/Unused Items Report.flrep"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBold.ttf" />
+    <Map
+      Local="Project/Skins/CS WebHelp.flskn"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBold.ttf" />
+    <Map
+      Local="Project/Skins/Default.flskn"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-SemiBoldItalic.ttf" />
+    <Map
+      Local="Project/Skins/HTML5 (2).flskn"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-Thin.ttf" />
+    <Map
+      Local="Project/Skins/HTML5.flskn"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/Raleway-ThinItalic.ttf" />
+    <Map
+      Local="Project/Skins/WebHelp BookNav.flskn"
+      Remote="../../RFC Flare/Global/Content/Resources/Stylesheets/Fonts/SIL Open Font License.txt" />
+    <Map
+      Local="Project/Skins/WebHelp.flskn"
+      Remote="../../RFC Flare/Global/Project/Skins/CS WebHelp.flskn" />
+    <Map
+      Local="Project/Targets/Release Notes.fltar"
+      Remote="../../RFC Flare/Global/Project/Skins/WebHelp BookNav.flskn" />
+    <Map
+      Local="Project/Targets/Word for Review.fltar"
+      Remote="../../RFC Flare/Global/Project/Skins/WebHelp.flskn" />
+    <Map
+      Local="Project/TOCs/singleton.fltoc"
+      Remote="../../RFC Flare/Global/Project/Targets/HTML5.fltar" />
+    <Map
+      Local="../../Content/Print Only Topics/Copyright.htm"
+      Remote="../../../RFCode/Content/Print Only Topics/Copyright.htm" />
+    <Map
+      Local="../../Content/Print Only Topics/Glossary.htm"
+      Remote="../../../RFCode/Content/Print Only Topics/Glossary.htm" />
+    <Map
+      Local="../../Content/Print Only Topics/Index.htm"
+      Remote="../../../RFCode/Content/Print Only Topics/Index.htm" />
+    <Map
+      Local="../../Content/Print Only Topics/PDFGuideATitle.htm"
+      Remote="../../../RFCode/Content/Print Only Topics/PDFGuideATitle.htm" />
+    <Map
+      Local="../../Content/Print Only Topics/PDGGuideBTitle.htm"
+      Remote="../../../RFCode/Content/Print Only Topics/PDGGuideBTitle.htm" />
+    <Map
+      Local="../../Content/Print Only Topics/TOC.htm"
+      Remote="../../../RFCode/Content/Print Only Topics/TOC.htm" />
+    <Map
+      Local="../../Content/Resources/Access Control.htm"
+      Remote="../../../RFCode/Content/Resources/Access Control.htm" />
+    <Map
+      Local="../../Content/Resources/Adding LDAP Users and Groups.htm"
+      Remote="../../../RFCode/Content/Resources/Adding LDAP Users and Groups.htm" />
+    <Map
+      Local="../../Content/Resources/Adding Tag Groups.htm"
+      Remote="../../../RFCode/Content/Resources/Adding Tag Groups.htm" />
+    <Map
+      Local="../../Content/Resources/Adding Users.htm"
+      Remote="../../../RFCode/Content/Resources/Adding Users.htm" />
+    <Map
+      Local="../../Content/Resources/Advanced Asset Security.htm"
+      Remote="../../../RFCode/Content/Resources/Advanced Asset Security.htm" />
+    <Map
+      Local="../../Content/Resources/Advanced Reader Configuration.htm"
+      Remote="../../../RFCode/Content/Resources/Advanced Reader Configuration.htm" />
+    <Map
+      Local="../../Content/Resources/Asset Attributes.htm"
+      Remote="../../../RFCode/Content/Resources/Asset Attributes.htm" />
+    <Map
+      Local="../../Content/Resources/Asset Templates.htm"
+      Remote="../../../RFCode/Content/Resources/Asset Templates.htm" />
+    <Map
+      Local="../../Content/Resources/Asset Types.htm"
+      Remote="../../../RFCode/Content/Resources/Asset Types.htm" />
+    <Map
+      Local="../../Content/Resources/BACnet Slave Device.htm"
+      Remote="../../../RFCode/Content/Resources/BACnet Slave Device.htm" />
+    <Map
+      Local="../../Content/Resources/BACnet Slave Object IDs.htm"
+      Remote="../../../RFCode/Content/Resources/BACnet Slave Object IDs.htm" />
+    <Map
+      Local="../../Content/Resources/BACnet Slave Server.htm"
+      Remote="../../../RFCode/Content/Resources/BACnet Slave Server.htm" />
+    <Map
+      Local="../../Content/Resources/Basic Information - Graph.htm"
+      Remote="../../../RFCode/Content/Resources/Basic Information - Graph.htm" />
+    <Map
+      Local="../../Content/Resources/Bookmarks.htm"
+      Remote="../../../RFCode/Content/Resources/Bookmarks.htm" />
+    <Map
+      Local="../../Content/Resources/Configuration for Unknown.htm"
+      Remote="../../../RFCode/Content/Resources/Configuration for Unknown.htm" />
+    <Map
+      Local="../../Content/Resources/Configuration Settings for1.htm"
+      Remote="../../../RFCode/Content/Resources/Configuration Settings for1.htm" />
+    <Map
+      Local="../../Content/Resources/Configuration Settings for3.htm"
+      Remote="../../../RFCode/Content/Resources/Configuration Settings for3.htm" />
+    <Map
+      Local="../../Content/Resources/Configuration Settings Specific.htm"
+      Remote="../../../RFCode/Content/Resources/Configuration Settings Specific.htm" />
+    <Map
+      Local="../../Content/Resources/Configuring a Production Database.htm"
+      Remote="../../../RFCode/Content/Resources/Configuring a Production Database.htm" />
+    <Map
+      Local="../../Content/Resources/Configuring FTP Actions for.htm"
+      Remote="../../../RFCode/Content/Resources/Configuring FTP Actions for.htm" />
+    <Map
+      Local="../../Content/Resources/Configuring Graph Template.htm"
+      Remote="../../../RFCode/Content/Resources/Configuring Graph Template.htm" />
+    <Map
+      Local="../../Content/Resources/Configuring Report Template.htm"
+      Remote="../../../RFCode/Content/Resources/Configuring Report Template.htm" />
+    <Map
+      Local="../../Content/Resources/Configuring SMTP.htm"
+      Remote="../../../RFCode/Content/Resources/Configuring SMTP.htm" />
+    <Map
+      Local="../../Content/Resources/Creating and Using Map Hot.htm"
+      Remote="../../../RFCode/Content/Resources/Creating and Using Map Hot.htm" />
+    <Map
+      Local="../../Content/Resources/Creating Asset Templates.htm"
+      Remote="../../../RFCode/Content/Resources/Creating Asset Templates.htm" />
+    <Map
+      Local="../../Content/Resources/Creating Graph Template Definitions.htm"
+      Remote="../../../RFCode/Content/Resources/Creating Graph Template Definitions.htm" />
+    <Map
+      Local="../../Content/Resources/Creating Groups.htm"
+      Remote="../../../RFCode/Content/Resources/Creating Groups.htm" />
+    <Map
+      Local="../../Content/Resources/Creating Maps.htm"
+      Remote="../../../RFCode/Content/Resources/Creating Maps.htm" />
+    <Map
+      Local="../../Content/Resources/Creating Report Template Definitions.htm"
+      Remote="../../../RFCode/Content/Resources/Creating Report Template Definitions.htm" />
+    <Map
+      Local="../../Content/Resources/Custom Attribute Types.htm"
+      Remote="../../../RFCode/Content/Resources/Custom Attribute Types.htm" />
+    <Map
+      Local="../../Content/Resources/Data Schema.htm"
+      Remote="../../../RFCode/Content/Resources/Data Schema.htm" />
+    <Map
+      Local="../../Content/Resources/Deleting Asset Types.htm"
+      Remote="../../../RFCode/Content/Resources/Deleting Asset Types.htm" />
+    <Map
+      Local="../../Content/Resources/Deleting Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Deleting Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/Deleting Reports.htm"
+      Remote="../../../RFCode/Content/Resources/Deleting Reports.htm" />
+    <Map
+      Local="../../Content/Resources/Expected Location.htm"
+      Remote="../../../RFCode/Content/Resources/Expected Location.htm" />
+    <Map
+      Local="../../Content/Resources/Exporting Reports.htm"
+      Remote="../../../RFCode/Content/Resources/Exporting Reports.htm" />
+    <Map
+      Local="../../Content/Resources/Filtering Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Filtering Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/Graph Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Graph Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Graph Appearance.htm"
+      Remote="../../../RFCode/Content/Resources/Graph Appearance.htm" />
+    <Map
+      Local="../../Content/Resources/Graph Columns Attributes.htm"
+      Remote="../../../RFCode/Content/Resources/Graph Columns Attributes.htm" />
+    <Map
+      Local="../../Content/Resources/Graph Filter and Post Condition.htm"
+      Remote="../../../RFCode/Content/Resources/Graph Filter and Post Condition.htm" />
+    <Map
+      Local="../../Content/Resources/Graph Filters Post Conditions.htm"
+      Remote="../../../RFCode/Content/Resources/Graph Filters Post Conditions.htm" />
+    <Map
+      Local="../../Content/Resources/Graph Schedule.htm"
+      Remote="../../../RFCode/Content/Resources/Graph Schedule.htm" />
+    <Map
+      Local="../../Content/Resources/Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/Integrating with BACnet.htm"
+      Remote="../../../RFCode/Content/Resources/Integrating with BACnet.htm" />
+    <Map
+      Local="../../Content/Resources/Integrating with JMX.htm"
+      Remote="../../../RFCode/Content/Resources/Integrating with JMX.htm" />
+    <Map
+      Local="../../Content/Resources/Integrating with Modbus.htm"
+      Remote="../../../RFCode/Content/Resources/Integrating with Modbus.htm" />
+    <Map
+      Local="../../Content/Resources/JMX Domain Configuration Settings.htm"
+      Remote="../../../RFCode/Content/Resources/JMX Domain Configuration Settings.htm" />
+    <Map
+      Local="../../Content/Resources/JMX Domains.htm"
+      Remote="../../../RFCode/Content/Resources/JMX Domains.htm" />
+    <Map
+      Local="../../Content/Resources/JMX Monitor.htm"
+      Remote="../../../RFCode/Content/Resources/JMX Monitor.htm" />
+    <Map
+      Local="../../Content/Resources/Licenses for Advanced Features.htm"
+      Remote="../../../RFCode/Content/Resources/Licenses for Advanced Features.htm" />
+    <Map
+      Local="../../Content/Resources/Locations and the Location.htm"
+      Remote="../../../RFCode/Content/Resources/Locations and the Location.htm" />
+    <Map
+      Local="../../Content/Resources/Macros for Reports and Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Macros for Reports and Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/Manage Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Manage Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/Manage Reports.htm"
+      Remote="../../../RFCode/Content/Resources/Manage Reports.htm" />
+    <Map
+      Local="../../Content/Resources/Map Views.htm"
+      Remote="../../../RFCode/Content/Resources/Map Views.htm" />
+    <Map
+      Local="../../Content/Resources/Maps.htm"
+      Remote="../../../RFCode/Content/Resources/Maps.htm" />
+    <Map
+      Local="../../Content/Resources/Modbus Slave Addresses.htm"
+      Remote="../../../RFCode/Content/Resources/Modbus Slave Addresses.htm" />
+    <Map
+      Local="../../Content/Resources/Modbus Slave Devices.htm"
+      Remote="../../../RFCode/Content/Resources/Modbus Slave Devices.htm" />
+    <Map
+      Local="../../Content/Resources/Modbus Slave Server.htm"
+      Remote="../../../RFCode/Content/Resources/Modbus Slave Server.htm" />
+    <Map
+      Local="../../Content/Resources/Overview of Groups.htm"
+      Remote="../../../RFCode/Content/Resources/Overview of Groups.htm" />
+    <Map
+      Local="../../Content/Resources/Report Filters Post Conditions.htm"
+      Remote="../../../RFCode/Content/Resources/Report Filters Post Conditions.htm" />
+    <Map
+      Local="../../Content/Resources/Report Schedule.htm"
+      Remote="../../../RFCode/Content/Resources/Report Schedule.htm" />
+    <Map
+      Local="../../Content/Resources/Reports and Graphs Overview.htm"
+      Remote="../../../RFCode/Content/Resources/Reports and Graphs Overview.htm" />
+    <Map
+      Local="../../Content/Resources/Reports and Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Reports and Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/Reports.htm"
+      Remote="../../../RFCode/Content/Resources/Reports.htm" />
+    <Map
+      Local="../../Content/Resources/Rule Types and Configuration.htm"
+      Remote="../../../RFCode/Content/Resources/Rule Types and Configuration.htm" />
+    <Map
+      Local="../../Content/Resources/Running and Viewing Reports.htm"
+      Remote="../../../RFCode/Content/Resources/Running and Viewing Reports.htm" />
+    <Map
+      Local="../../Content/Resources/Running Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Running Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/Security.htm"
+      Remote="../../../RFCode/Content/Resources/Security.htm" />
+    <Map
+      Local="../../Content/Resources/User Accounts and Security.htm"
+      Remote="../../../RFCode/Content/Resources/User Accounts and Security.htm" />
+    <Map
+      Local="../../Content/Resources/User Accounts Roles and Permissions.htm"
+      Remote="../../../RFCode/Content/Resources/User Accounts Roles and Permissions.htm" />
+    <Map
+      Local="../../Content/Resources/Using Actions with Reports.htm"
+      Remote="../../../RFCode/Content/Resources/Using Actions with Reports.htm" />
+    <Map
+      Local="../../Content/Resources/Viewing an Asset Type Sample.htm"
+      Remote="../../../RFCode/Content/Resources/Viewing an Asset Type Sample.htm" />
+    <Map
+      Local="../../Content/Resources/Viewing Asset Types.htm"
+      Remote="../../../RFCode/Content/Resources/Viewing Asset Types.htm" />
+    <Map
+      Local="../../Content/Resources/Viewing Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Viewing Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/[DCM] Web Console Overview.htm"
+      Remote="../../../RFCode/Content/Resources/[DCM] Web Console Overview.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Add Reader(s).htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Add Reader(s).htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Adding LDAP Users and Groups.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Adding LDAP Users and Groups.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Adding Licenses.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Adding Licenses.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Adding Sensors as Assets1.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Adding Sensors as Assets1.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Adding Sensors as Assets2.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Adding Sensors as Assets2.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Alert Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Alert Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Alert Filter.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Alert Filter.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Alert Thresholds.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Alert Thresholds.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Alert Viewer.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Alert Viewer.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Alerts.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Alerts.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Applying a Calculated Asset.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Applying a Calculated Asset.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Asset Links.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Asset Links.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Asset Skins.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Asset Skins.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/BIRT Templates.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/BIRT Templates.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Calculated Asset Attributes.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Calculated Asset Attributes.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Calculated Asset Attributes1.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Calculated Asset Attributes1.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Calculated Asset Attributes2.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Calculated Asset Attributes2.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Conditional Formatting with.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Conditional Formatting with.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuration Settings for.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuration Settings for.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuration Settings for2.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuration Settings for2.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuration Settings for4.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuration Settings for4.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring Alert Thresholds.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring Alert Thresholds.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring Email Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring Email Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring Email Alert Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring Email Alert Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring Event Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring Event Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring FTP Alert Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring FTP Alert Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring HTTP Post Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring HTTP Post Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring HTTP Post Alert.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring HTTP Post Alert.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring Logging Alert.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring Logging Alert.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring Serial Device.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring Serial Device.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring SNMP V1 Trap Alert.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring SNMP V1 Trap Alert.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring SNMP V3 Alert.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring SNMP V3 Alert.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring the M250 Reader.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring the M250 Reader.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Configuring Triggers.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Configuring Triggers.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Copying Alert Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Copying Alert Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Copying Alert Thresholds.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Copying Alert Thresholds.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Copying Event Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Copying Event Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Copying Event Triggers.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Copying Event Triggers.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/CRAC Assets for RTI.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/CRAC Assets for RTI.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Creating a Basic Dashboard.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Creating a Basic Dashboard.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Creating a Calculated Asset.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Creating a Calculated Asset.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Creating Alert Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Creating Alert Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Creating Alert Thresholds.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Creating Alert Thresholds.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Creating Event Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Creating Event Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Creating New Triggers.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Creating New Triggers.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Dashboards.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Dashboards.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Data Center Requirements.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Data Center Requirements.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Data Schema.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Data Schema.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/DCM Deploy Intro.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/DCM Deploy Intro.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/DCM Deploy Overview.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/DCM Deploy Overview.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/DCM Hardware, Software, and Database Requirements.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/DCM Hardware, Software, and Database Requirements.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/DCM Initial Configuration - Consoles.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/DCM Initial Configuration - Consoles.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/DCM Installation.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/DCM Installation.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/DCM manual pilot deployment1.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/DCM manual pilot deployment1.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Deleting Alert Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Deleting Alert Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Deleting Alert Thresholds.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Deleting Alert Thresholds.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Deleting Event Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Deleting Event Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Deleting Event Triggers.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Deleting Event Triggers.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Discovery.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Discovery.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Event Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Event Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Event Filters.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Event Filters.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Event Triggers.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Event Triggers.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Events.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Events.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Export Configuration.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Export Configuration.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Folders.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Folders.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Global Alert Policies for.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Global Alert Policies for.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Global Positioning System (GPS).htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Global Positioning System (GPS).htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Import Configuration.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Import Configuration.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Install and Configure IR Locator.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Install and Configure IR Locator.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Installation and Deployment of Readers.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Installation and Deployment of Readers.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Integrating with LDAP Active.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Integrating with LDAP Active.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/JMX Monitor.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/JMX Monitor.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/LDAP Server Configuration.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/LDAP Server Configuration.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Locations and Rules.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Locations and Rules.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Locations.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Locations.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Macros for Events and Alerts.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Macros for Events and Alerts.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Map Views in the User Console.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Map Views in the User Console.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Maps.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Maps.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Measuring RTI.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Measuring RTI.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Planning and Deployment.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Planning and Deployment.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Rack Cooling Index.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Rack Cooling Index.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Readers, Reader Firmware, Reader Status.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Readers, Reader Firmware, Reader Status.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Reports, Advanced.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Reports, Advanced.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Reports, Create New.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Reports, Create New.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Reports, Run.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Reports, Run.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Return Temperature Index.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Return Temperature Index.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Schema Import.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Schema Import.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Security.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Security.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Sensor Definitions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Sensor Definitions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Serial Devices.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Serial Devices.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Server.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Server.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Statistical Pack.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Statistical Pack.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Statistical Policy.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Statistical Policy.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Status Attributes.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Status Attributes.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Summary Assets.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Summary Assets.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Table View.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Table View.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Tag Groups.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Tag Groups.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Tag Management.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Tag Management.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Tag Positioning.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Tag Positioning.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Testing Event Actions.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Testing Event Actions.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/The Administrator Console.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/The Administrator Console.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Thresholds and Alerts.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Thresholds and Alerts.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Time - Graphs.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Time - Graphs.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Time - Reports.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Time - Reports.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/User Audit Trail.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/User Audit Trail.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Viewing Assets.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Viewing Assets.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Zone Manager Status.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Zone Manager Status.htm" />
+    <Map
+      Local="../../Content/Resources/Deployment/Zone Manager.htm"
+      Remote="../../../RFCode/Content/Resources/Deployment/Zone Manager.htm" />
+    <Map
+      Local="../../Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.eps"
+      Remote="../../RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.eps" />
+    <Map
+      Local="../../Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif"
+      Remote="../../RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.gif" />
+    <Map
+      Local="../../Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png"
+      Remote="../../RFC Flare/Global/Content/Global Images/._2015_CenterScape-by-RF-Code-Logo-White.png" />
+    <Map
+      Local="../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png"
+      Remote="../../RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png" />
+    <Map
+      Local="../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.eps"
+      Remote="../../RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.eps" />
+    <Map
+      Local="../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif"
+      Remote="../../RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.gif" />
+    <Map
+      Local="../../Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png"
+      Remote="../../RFC Flare/Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png" />
+    <Map
+      Local="../../Content/Global Images/CenterScape Logo Color.png"
+      Remote="../../RFC Flare/Global/Content/Global Images/CenterScape Logo Color.png" />
+    <Map
+      Local="../../Content/Global Images/CS logo cropped no RFC.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/CS logo cropped no RFC.bmp" />
+    <Map
+      Local="../../Content/Global Images/drop-down arrow.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/drop-down arrow.bmp" />
+    <Map
+      Local="../../Content/Global Images/ECD Survey 1 of 3.jpg"
+      Remote="../../RFC Flare/Global/Content/Global Images/ECD Survey 1 of 3.jpg" />
+    <Map
+      Local="../../Content/Global Images/greencheck.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/greencheck.bmp" />
+    <Map
+      Local="../../Content/Global Images/help icon.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/help icon.bmp" />
+    <Map
+      Local="../../Content/Global Images/redx.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/redx.bmp" />
+    <Map
+      Local="../../Content/Global Images/RFC data center background - Copy.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/RFC data center background - Copy.bmp" />
+    <Map
+      Local="../../Content/Global Images/RFC data center background cropped and shaded.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/RFC data center background cropped and shaded.bmp" />
+    <Map
+      Local="../../Content/Global Images/rfc data center background rich color.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/rfc data center background rich color.bmp" />
+    <Map
+      Local="../../Content/Global Images/RFC data center background.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/RFC data center background.bmp" />
+    <Map
+      Local="../../Content/Global Images/rfc dc back.jpg"
+      Remote="../../RFC Flare/Global/Content/Global Images/rfc dc back.jpg" />
+    <Map
+      Local="../../Content/Global Images/rfc logo.bmp"
+      Remote="../../RFC Flare/Global/Content/Global Images/rfc logo.bmp" />
+    <Map
+      Local="../../Content/Print Only Topics/Appendix.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/Appendix.htm" />
+    <Map
+      Local="../../Content/Print Only Topics/ChapterNumber.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/ChapterNumber.htm" />
+    <Map
+      Local="../../Content/Print Only Topics/Copyright Statement.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/Copyright Statement.htm" />
+    <Map
+      Local="../../Content/Print Only Topics/Trademarks.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/Glossary.htm" />
+    <Map
+      Local="../../Content/Resources/Snippets/Web Browsers Supported.flsnp"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/Index.htm" />
+    <Map
+      Local="../../Content/Topics/2012 Tasks Menu.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/PDFGuideATitle.htm" />
+    <Map
+      Local="../../Content/Topics/Appendix 2012 - Existing Zone Manger Integration.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/PDGGuideBTitle.htm" />
+    <Map
+      Local="../../Content/Topics/Appendix-Example Floorplans.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/TOC.htm" />
+    <Map
+      Local="../../Content/Topics/Appendix-Inventory Spreadsheet.htm"
+      Remote="../../RFC Flare/Global/Content/Print Only Topics/Trademarks.htm" />
+    <Map
+      Local="../../Content/Topics/Asset Location and Detected Location.htm"
+      Remote="../../RFC Flare/Global/Content/Resources/Deployment/Time - Reports.htm" />
+    <Map
+      Local="../../Content/Topics/Assets-Workflow.htm"
+      Remote="../../RFC Flare/Global/Content/Resources/Snippets/Web Browsers Supported.flsnp" />
+    <Map
+      Local="../../Content/Topics/Best Practice - Installing Sensor Tags in Network Closets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/2012 Tasks Menu.htm" />
+    <Map
+      Local="../../Content/Topics/Best Practices for Importing Assets with a Spreadsheet.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Appendix 2012 - Existing Zone Manger Integration.htm" />
+    <Map
+      Local="../../Content/Topics/Changing Administrator Login.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Appendix-Example Floorplans.htm" />
+    <Map
+      Local="../../Content/Topics/Changing Web Server Ports.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Appendix-Inventory Spreadsheet.htm" />
+    <Map
+      Local="../../Content/Topics/Compare Values.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Asset Location and Detected Location.htm" />
+    <Map
+      Local="../../Content/Topics/Configuration for Unknown.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Assets-Workflow.htm" />
+    <Map
+      Local="../../Content/Topics/Configuration Task intro.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Best Practice - Installing Sensor Tags in Network Closets.htm" />
+    <Map
+      Local="../../Content/Topics/Creating and Using Map Hot.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Best Practices for Importing Assets with a Spreadsheet.htm" />
+    <Map
+      Local="../../Content/Topics/Creating Maps.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Changing Administrator Login.htm" />
+    <Map
+      Local="../../Content/Topics/Default Alerts.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Changing Web Server Ports.htm" />
+    <Map
+      Local="../../Content/Topics/Default Dashboards.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Compare Values.htm" />
+    <Map
+      Local="../../Content/Topics/Default Graphs.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Configuration for Unknown.htm" />
+    <Map
+      Local="../../Content/Topics/Default Reports.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Configuration Task intro.htm" />
+    <Map
+      Local="../../Content/Topics/Delete Assets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Creating and Using Map Hot.htm" />
+    <Map
+      Local="../../Content/Topics/Deployment Configuration.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Creating Maps.htm" />
+    <Map
+      Local="../../Content/Topics/Displaying Values in English or Metric System.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Default Alerts.htm" />
+    <Map
+      Local="../../Content/Topics/Events and Alerts.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Default Dashboards.htm" />
+    <Map
+      Local="../../Content/Topics/Getting Started with Product-PilotConfig.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Default Graphs.htm" />
+    <Map
+      Local="../../Content/Topics/Getting Started with Product-SysConfig.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Default Reports.htm" />
+    <Map
+      Local="../../Content/Topics/Import Assets Using Spreadsheet.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Delete Assets.htm" />
+    <Map
+      Local="../../Content/Topics/Import Location Hierarchy Using Spreadsheet.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Deployment Configuration.htm" />
+    <Map
+      Local="../../Content/Topics/Installing Product.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Displaying Values in English or Metric System.htm" />
+    <Map
+      Local="../../Content/Topics/License Key Configuration 2012.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Events and Alerts.htm" />
+    <Map
+      Local="../../Content/Topics/Locations, Rules, Maps 2012 addendum.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Getting Started with Product-PilotConfig.htm" />
+    <Map
+      Local="../../Content/Topics/Logan Default Schema.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Getting Started with Product-SysConfig.htm" />
+    <Map
+      Local="../../Content/Topics/Logan Schema Details.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Import Assets Using Spreadsheet.htm" />
+    <Map
+      Local="../../Content/Topics/Manage Assets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Import Location Hierarchy Using Spreadsheet.htm" />
+    <Map
+      Local="../../Content/Topics/Manage Selected Assets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Installing Product.htm" />
+    <Map
+      Local="../../Content/Topics/Moving Assets.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/License Key Configuration 2012.htm" />
+    <Map
+      Local="../../Content/Topics/New Views.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Locations, Rules, Maps 2012 addendum.htm" />
+    <Map
+      Local="../../Content/Topics/Product Card.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Logan Default Schema.htm" />
+    <Map
+      Local="../../Content/Topics/quickstart-Product.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Logan Schema Details.htm" />
+    <Map
+      Local="../../Content/Topics/Rack Visualization.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Manage Assets.htm" />
+    <Map
+      Local="../../Content/Topics/Reader Configuration 2012.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Manage Selected Assets.htm" />
+    <Map
+      Local="../../Content/Topics/Remote Zone Managers.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Moving Assets.htm" />
+    <Map
+      Local="../../Content/Topics/Resetting Administrator Login.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/New Views.htm" />
+    <Map
+      Local="../../Content/Topics/Roll-Out.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Product Card.htm" />
+    <Map
+      Local="../../Content/Topics/System API Pages.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/quickstart-Product.htm" />
+    <Map
+      Local="../../Content/Topics/System Attributes.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Rack Visualization.htm" />
+    <Map
+      Local="../../Content/Topics/Terminology.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Reader Configuration 2012.htm" />
+    <Map
+      Local="../../Content/Topics/Update Attributes.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Remote Zone Managers.htm" />
+    <Map
+      Local="../../Content/Topics/Workflow-Product.htm"
+      Remote="../../RFC Flare/Global/Content/Topics/Resetting Administrator Login.htm" />
+    <Map
+      Local="../Targets/HTML Help.fltar"
+      Remote="../../RFC Flare/Global/Content/Topics/Roll-Out.htm" />
+    <Map
+      Local="../Targets/PDF (simple).fltar"
+      Remote="../../RFC Flare/Global/Content/Topics/System API Pages.htm" />
+    <Map
+      Local="../VariableSets/General.flvar"
+      Remote="../../RFC Flare/Global/Content/Topics/System Attributes.htm" />
+    <Map
+      Local="Project/Targets/HTML5.fltar"
+      Remote="../../RFC Flare/Global/Project/Skins/HTML5 (2).flskn" />
+    <Map
+      Local="Content/Global Images/CS alert threshold humidity.bmp"
+      Remote="../Global/Content/Global Images/2015_CenterScape-by-RF-Code-Logo-White.png" />
+    <Map
+      Local="Content/Global Images/CS alert threshold.bmp"
+      Remote="../Global/Content/Global Images/CenterScape Logo Color.png" />
+    <Map
+      Local="Content/Global Images/CS hero splash.png"
+      Remote="../Global/Content/Global Images/CS alert threshold humidity.bmp" />
+    <Map
+      Local="Content/Global Images/Note icon.bmp"
+      Remote="../Global/Content/Global Images/greencheck.bmp" />
+    <Map
+      Local="Content/Global Images/Tool Tip icon.bmp"
+      Remote="../Global/Content/Global Images/rfc dc back.jpg" />
+    <Map
+      Local="Content/Global Images/Vital Icon.bmp"
+      Remote="../Global/Content/Global Images/rfc logo.bmp" />
+    <Map
+      Local="Content/Print Only Topics/Warranty and Service.htm"
+      Remote="../Global/Content/Print Only Topics/TOC.htm" />
+    <Map
+      Local="Content/Resources/PageLayouts/DraftChapter8X11.flpgl"
+      Remote="../Global/Content/Resources/MasterPages/UserManual for reference.flmsp" />
+    <Map
+      Local="Content/Resources/PageLayouts/Frontmatter8X11.flpgl"
+      Remote="../Global/Content/Resources/PageLayouts/Chapter8X11.flpgl" />
+    <Map
+      Local="Content/Resources/PageLayouts/RFC Cover with data center.flpgl"
+      Remote="../Global/Content/Resources/PageLayouts/ControlDoc.flpgl" />
+    <Map
+      Local="Content/Resources/Stylesheets/TOC1.css"
+      Remote="../Global/Content/Resources/PageLayouts/Cover.flpgl" />
+    <Map
+      Local="Content/Global Images/chevron arrow.bmp"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraBoldItalic.ttf" />
+    <Map
+      Local="Content/Resources/PageLayouts/Stationery.flpgl"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-ExtraLightItalic.ttf" />
+    <Map
+      Local="Project/Targets/Release History.fltar"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-Italic.ttf" />
+    <Map
+      Local="Content/Resources/PageLayouts/testcover.flpgl"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-Light.ttf" />
+    <Map
+      Local="Content/Print Only Topics/RF Code Support and Professional.htm"
+      Remote="../Global/Content/Resources/Stylesheets/Fonts/Raleway-LightItalic.ttf" />
+  </ImportedMap>
+  <SourceUrls>
+    <Url
+      Source="Project/Imports/Global.flimpfl" />
+    <Url
+      Source="Project/Imports/Global1.flimpfl" />
+    <Url
+      Source="Project/Imports/Global2.flimpfl" />
+    <Url
+      Source="Project/Imports/Global3.flimpfl" />
+    <Url
+      Source="Project/Imports/Global4.flimpfl" />
+    <Url
+      Source="Project/Imports/Global5.flimpfl" />
+    <Url
+      Source="Project/Imports/Global6.flimpfl" />
+  </SourceUrls>
+</CatapultGlobalImportedFilesCache>

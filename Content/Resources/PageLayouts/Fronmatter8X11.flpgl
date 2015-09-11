@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="First" Width="8.5in" Height="11in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1.5in" PaddingRight="0.75in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.8333333in" Y="0in" Right="0.0625in" Bottom="0.02083333in" Width="674px" Height="862px">
+        </Frame>
+    </Page>
+    <Page Name="Title" Width="8.5in" Height="11in" Padding="20px" PageSize="custom" PageType="title" PaddingLeft="1.5in" PaddingRight="0.75in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.4791667in" Y="0in" Right="0.4791667in" Bottom="5.354167in" Width="600px" Height="350px">
+        </Frame>
+        <Frame X="311px" Y="730px" Width="242px" Height="80px" Flow="decoration" Right="47px" Bottom="54px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="8.5in" Height="11in" Padding="20px" PageSize="custom" PageType="title" PaddingLeft="1.5in" PaddingRight="0.75in" PaddingTop="1in" PaddingBottom="1in">
+    </Page>
+</PageStyles>

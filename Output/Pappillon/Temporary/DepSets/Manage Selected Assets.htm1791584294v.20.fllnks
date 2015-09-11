@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Images/CS Assets - manage assets - ctrl-click and right-click menu.bmp" />
+    <Link
+      Url="Content/Images/CS Assets - manage assets - ctrl-click right-click menu selected all.bmp" />
+    <Link
+      Url="Content/Images/CS Assets - manage assets - column selection menu.bmp" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Images/CS Assets - manage assets - ctrl-click and right-click menu.bmp" />
+    <Link
+      Url="Content/Images/CS Assets - manage assets - ctrl-click right-click menu selected all.bmp" />
+    <Link
+      Url="Content/Images/CS Assets - manage assets - column selection menu.bmp" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Notes for authors" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

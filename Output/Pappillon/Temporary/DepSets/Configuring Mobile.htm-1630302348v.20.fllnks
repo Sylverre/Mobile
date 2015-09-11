@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Images/Mobile/initial server address request.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS server connect.png" />
+    <Link
+      Url="Content/Images/Mobile/cannot connect to server.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS server connect error.png" />
+    <Link
+      Url="Content/Images/Mobile/CS change servers and connect.png" />
+    <Link
+      Url="Content/Images/AM Mobile/AM Multiple servers.png" />
+    <Link
+      Url="Content/Images/AM Mobile/AM login or change.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS login or change.png" />
+    <Link
+      Url="Content/Images/AM Mobile/AM clear credentials.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS clear credentials.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Images/Mobile/initial server address request.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS server connect.png" />
+    <Link
+      Url="Content/Images/Mobile/cannot connect to server.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS server connect error.png" />
+    <Link
+      Url="Content/Images/Mobile/CS change servers and connect.png" />
+    <Link
+      Url="Content/Images/AM Mobile/AM Multiple servers.png" />
+    <Link
+      Url="Content/Images/AM Mobile/AM login or change.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS login or change.png" />
+    <Link
+      Url="Content/Images/AM Mobile/AM clear credentials.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS clear credentials.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.AM only" />
+    <Condition
+      Tag="Default.Logan" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

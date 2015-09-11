@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="3281" MadCap:lastWidth="1096">
+    <head>
+        <link href="../../Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Configuring and Using <MadCap:variable name="General.ProductName" /> Mobile</h1>
+        <p>After you start the application, you will see a Connect to Server screen:</p>
+        <p>
+            <img src="../../Images/Mobile/initial server address request.png" class="imgbordered" MadCap:conditions="Default.AM only" />
+            <img src="../../Images/CS Mobile/CS server connect.png" class="imgbordered" MadCap:conditions="Default.Logan" />
+        </p>
+        <p>The Server Address is the address where your <MadCap:variable name="General.ProductName" /> resides so that the <MadCap:variable name="General.ProductName" />Mobile application can connect to it.</p>
+        <p>To configure the server address:</p>
+        <p>Tap the Server address field and input the server address. The <MadCap:variable name="General.ProductName" /> Mobile application will automatically append “:6580” to the end of your address, by default, unless you specify a different port number. In most cases, your <MadCap:variable name="General.ProductName" /> will be located on port 6580.</p>
+        <p class="example" MadCap:autonum="&lt;b&gt;Example # 1: &#160;&lt;/b&gt;">Inputting the Server Address of “<MadCap:conditionalText MadCap:conditions="Default.AM only">am</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.Logan">cs</MadCap:conditionalText>.yourcompany.com” would automatically append the “:6580” so that it would appear as: “<span class="codefont"><MadCap:conditionalText MadCap:conditions="Default.AM only">am</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.Logan">cs</MadCap:conditionalText>.yourcompany.com:6580</span>” in the Server address field.</p>
+        <p class="example" MadCap:autonum="&lt;b&gt;Example # 2: &#160;&lt;/b&gt;">Inputting the Server Address of “<MadCap:conditionalText MadCap:conditions="Default.AM only">am</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.Logan">cs</MadCap:conditionalText>.yourcompany.com:4444” would not append anything since you specified a port number, so that it would appear as: “<span class="codefont"><MadCap:conditionalText MadCap:conditions="Default.AM only">am</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Default.Logan">cs</MadCap:conditionalText>.yourcompany.com:4444</span>” in the Server address field.</p>
+        <p>A server connection error message will look similar to the screenshot <MadCap:annotation MadCap:createDate="2015-08-25T11:58:00.4369599-05:00" MadCap:creator="Sylverre" MadCap:initials="S" MadCap:comment="Global note: pitch in this doc is just really odd.  " MadCap:editor="Sylverre" MadCap:editDate="2015-08-26T12:24:12.8349386-05:00">below:</MadCap:annotation></p>
+        <p>
+            <img src="../../Images/Mobile/cannot connect to server.png" class="imgbordered" MadCap:conditions="Default.AM only" />
+            <img src="../../Images/CS Mobile/CS server connect error.png" class="imgbordered" MadCap:conditions="Default.Logan" />
+        </p>
+        <p>You could receive the above error for several reasons. The most common would be:</p>
+        <ul style="list-style-type: square;">
+            <li>Incorrect port number of your <MadCap:variable name="General.ProductName" />.</li>
+            <li>Incorrect address of your <MadCap:variable name="General.ProductName" />.</li>
+            <li>Your <MadCap:variable name="General.ProductName" /> is not version 2.9 or higher.</li>
+            <li>Your smartphone or tablet does not have Internet connectivity.</li>
+        </ul>
+        <p>Please note that on subsequent connections after a successful connection using <MadCap:variable name="General.ProductName" /> Mobile, the <MadCap:variable name="General.ProductName" /> Mobile application will store and list those successful connections. In the case of multiple servers where you have made a successful connection, they will be listed (as in the screenshot below) so that you may tap on the server to select the server that you want to connect to. </p>
+        <p>
+            <img src="../../Images/Mobile/CS change servers and connect.png" class="imgbordered" MadCap:conditions="Default.Logan" />
+            <img src="../../Images/AM Mobile/AM Multiple servers.png" class="imgbordered" MadCap:conditions="Default.AM only" />
+        </p>
+        <p>
+            <MadCap:annotation MadCap:createDate="2015-08-26T13:32:02.2949915-05:00" MadCap:creator="Sylverre" MadCap:initials="S" MadCap:comment="not sure about logo above product (AM) -- it's over to the left on the iPad..." MadCap:editor="Sylverre" MadCap:editDate="2015-08-26T13:32:24.2972743-05:00">After</MadCap:annotation> you successfully connect to your <MadCap:variable name="General.ProductName" /> server, you will be presented with the following login <MadCap:annotation MadCap:createDate="2015-08-25T12:49:15.7113602-05:00" MadCap:creator="Sylverre" MadCap:initials="S" MadCap:comment="at least on iPad, need to select the Save username option before beginning to input text." MadCap:editor="Sylverre" MadCap:editDate="2015-08-25T12:49:33.4742379-05:00">screen:</MadCap:annotation></p>
+        <p>
+            <img src="../../Images/AM Mobile/AM login or change.png" class="imgbordered" MadCap:conditions="Default.AM only" />
+            <img src="../../Images/CS Mobile/CS login or change.png" class="imgbordered" MadCap:conditions="Default.Logan" />
+        </p>
+        <p>Here you will log in with the normal login credentials to <MadCap:variable name="General.ProductName" style="mc-tag-and-class: span;" />. Note that the address of the server you are accessing now appears above the fields for <span class="strong">User name</span> and <span class="strong">Password</span>.</p>
+        <p>The <span class="strong">Change Server</span> <MadCap:annotation MadCap:createDate="2015-08-25T12:05:11.4131123-05:00" MadCap:creator="Sylverre" MadCap:initials="S" MadCap:comment="when/if I get to revise this doc properly, this approach is going away!  &quot;Click the Change Server button to...&quot;  None of this &quot;gives you the ability to&quot; stuff." MadCap:editor="Sylverre" MadCap:editDate="2015-08-25T12:05:43.2737374-05:00">button</MadCap:annotation> gives you the ability to go back to the <span class="strong">Server Address</span> screen (the previous screen) to change which <MadCap:variable name="General.ProductName" /> server you are accessing.</p>
+        <p>If you have a problem logging in using certain credentials, you must log in to<span class="strong">  <![CDATA[ ]]></span><MadCap:variable name="General.ProductName" style="mc-tag-and-class: span;" /> itself to reset or modify any particular logins.</p>
+        <p>When you type in the credentials, you can clear them by clicking on the <img src="../../Images/Mobile/clear x.bmp" /> that appears in the right part of the text field, as shown in the screenshot below:</p>
+        <p>
+            <img src="../../Images/AM Mobile/AM clear credentials.png" class="imgbordered" MadCap:conditions="Default.AM only" />
+            <img src="../../Images/CS Mobile/CS clear credentials.png" class="imgbordered" MadCap:conditions="Default.Logan" />
+        </p>
+        <p>&#160;</p>
+    </body>
+</html>

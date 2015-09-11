@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Right noResetting Reset Administrator Login</title>
+        <script src="../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>
+            <MadCap:conditionalText data-mc-conditions="Default.SysManual">Right noResetting </MadCap:conditionalText>
+            <MadCap:conditionalText data-mc-conditions="Default.workflow">Reset </MadCap:conditionalText>Administrator Login</h1>
+        <p>A <span class="GeneralProductName">CenterScape</span> has a built-in administrator account. To reset this account, all references to “admin” in the system properties file on the host running <span class="GeneralProductName">CenterScape</span> and in the database with which <span class="GeneralProductName">CenterScape</span> connects will need to be removed.</p>
+        <ol>
+            <li value="1">Before making changes, it is important that <span class="GeneralProductName">CenterScape</span> service is shut down. If in Windows, stop “RF Code <span class="GeneralProductName">CenterScape</span>” service in <span class="Strong">Administrator Tools &gt; Services</span> task. If in Linux, follow Linux protocols.</li>
+            <li value="2">In the system properties file stored in the conf directory in <span class="GeneralProductName">CenterScape</span> install path, remove all lines that contain <span class="codefont">admin.*</span> properties.</li>
+            <li value="3">Remove all references to the ADMIN entity in the database. Connect to the database using a client tool that you can execute SQL queries. For example, when using Microsoft SQL Server 2008 you can use Microsoft SQL Server Management Studio Express.</li>
+            <li value="4">Execute the following SQL statements:<br /><br /></li>
+        </ol>
+        <ul class="nonbulleted">
+            <li value="1"><span class="codefont" data-mc-initials="PA" data-mc-creator="Pappillon" data-mc-create-date="2015-06-23T12:39:48.5060174-05:00">Delete</span><span class="codefont"> from t1_entity_current_val where entity_id IN (SELECT entity_id from t1_entity where GUID = 'ADMIN');</span>
+            </li>
+            <li value="2"><span class="codefont">Delete from t1_attribute_history where e_id IN (SELECT entity_id from t1_entity where GUID = 'ADMIN');</span>
+            </li>
+            <li value="3"><span class="codefont">Delete from t1_entity_type_mapping where entity_id IN (SELECT entity_id from t1_entity where GUID = 'ADMIN');</span>
+            </li>
+            <li value="4"><span class="codefont">Delete from t1_entity where guid = 'ADMIN'</span>
+            </li>
+        </ul>
+        <ol data-mc-continue="true">
+            <li value="5">Start “RF Code <span class="GeneralProductName">CenterScape</span>” service.</li>
+            <li value="6"><span class="GeneralProductName">CenterScape</span> can be authenticated using user account admin and its default password admin.</li>
+        </ol>
+    </body>
+</html>

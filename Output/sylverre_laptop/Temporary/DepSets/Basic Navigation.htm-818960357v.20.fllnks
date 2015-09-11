@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Images/Mobile/back arrow button.png" />
+    <Link
+      Url="Content/Images/Mobile/search button.png" />
+    <Link
+      Url="Content/Images/Mobile/main menu button.png" />
+    <Link
+      Url="Content/Images/Mobile/filter button.png" />
+    <Link
+      Url="Content/Images/Mobile/less-more buttons.png" />
+    <Link
+      Url="Content/Images/Mobile/add new asset button.png" />
+    <Link
+      Url="Content/Images/Mobile/attribute filter button.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS assets by type - inventory.png" />
+    <Link
+      Url="Content/Images/Mobile/basic navigation screen.png" />
+    <Link
+      Url="Content/Images/Mobile/Asset heading.png" />
+    <Link
+      Url="Content/Images/Mobile/IT Equipment heading.png" />
+    <Link
+      Url="Content/Images/Mobile/drop-down menu button.png" />
+    <Link
+      Url="Content/Images/Mobile/basic navigation screen phone.png" />
+    <Link
+      Url="Content/Images/Mobile/inventory box.png" />
+    <Link
+      Url="Content/Images/Mobile/right arrow button.png" />
+    <Link
+      Url="Content/Images/Mobile/summary-location box.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 1.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 2.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 3.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 4.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 5.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Images/Mobile/back arrow button.png" />
+    <Link
+      Url="Content/Images/Mobile/search button.png" />
+    <Link
+      Url="Content/Images/Mobile/main menu button.png" />
+    <Link
+      Url="Content/Images/Mobile/filter button.png" />
+    <Link
+      Url="Content/Images/Mobile/less-more buttons.png" />
+    <Link
+      Url="Content/Images/Mobile/add new asset button.png" />
+    <Link
+      Url="Content/Images/Mobile/attribute filter button.png" />
+    <Link
+      Url="Content/Images/CS Mobile/CS assets by type - inventory.png" />
+    <Link
+      Url="Content/Images/Mobile/basic navigation screen.png" />
+    <Link
+      Url="Content/Images/Mobile/Asset heading.png" />
+    <Link
+      Url="Content/Images/Mobile/IT Equipment heading.png" />
+    <Link
+      Url="Content/Images/Mobile/drop-down menu button.png" />
+    <Link
+      Url="Content/Images/Mobile/basic navigation screen phone.png" />
+    <Link
+      Url="Content/Images/Mobile/inventory box.png" />
+    <Link
+      Url="Content/Images/Mobile/right arrow button.png" />
+    <Link
+      Url="Content/Images/Mobile/summary-location box.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 1.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 2.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 3.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 4.png" />
+    <Link
+      Url="Content/Images/Mobile/context menu 5.png" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/General.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="General.ProductName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Logan" />
+    <Condition
+      Tag="Default.AM only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

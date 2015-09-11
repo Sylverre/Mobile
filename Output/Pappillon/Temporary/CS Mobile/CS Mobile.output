@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Pappillon/CS Mobile/CS Mobile.pdf"
+  BuildVersion="10.2.2.0">
+  <Files>
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Global Images/CenterScape Logo Color.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Global Images/rfc logo.bmp" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Global Images/CS hero splash.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Global Images/RFC data center background.bmp" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Global Images/Vital Icon.bmp" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Global Images/2015_CenterScape-by-RF-Code-Logo-Color.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/CS Mobile/CS server connect.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/CS Mobile/CS server connect error.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/CS change servers and connect.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/CS Mobile/CS login or change.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/CS Mobile/CS clear credentials.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/CS Mobile/asets by type.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/mobile console overview phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/back arrow button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/search button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/main menu button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/filter button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/less-more buttons.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/add new asset button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/attribute filter button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/basic navigation screen.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/Asset heading.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/IT Equipment heading.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/drop-down menu button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/basic navigation screen phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/inventory box.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/right arrow button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/summary-location box.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/context menu 1.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/context menu 2.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/context menu 3.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/context menu 4.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/context menu 5.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/navigation - main button highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/navigation - browse assets by type.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/navigation - browse assets by type phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/assets by type.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/assets by type phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/asset.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/asset types highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/assets by location.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/assets by location phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/asset alert.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/failure icon.bmp" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/informational icon.bmp" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/error icon.bmp" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/critical icon.bmp" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/warning icon.bmp" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alerts menu.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alerts phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert detail.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert detail pt 2.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert more detail.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert asset details.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/menu bar highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alerts button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/retire button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/delete button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/edit button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/asset tag.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert tag phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert source phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/asset tag details.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/barcode icon.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/assets by location barcode.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/asset barcode phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/barcode viewfinder.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/barcode in view.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/barcode scanned.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/barcode imported.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/camera icon.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/assets by location camera.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/assets by location camera phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/get image dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/cancel image button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/camera image button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/gallery image button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/get image phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/image selected highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/acknowledge alert button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert acknowledge highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert acknowledge grayed.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert ACK phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/main highlight for bookmark.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/bookmarks menu option.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/bookmarks dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/add bookmark button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/bookmarks dialog highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/new bookmark dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/test bookmark.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/bookmarks phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/search highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/search dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/search for example.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/attribute search dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/search result highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/search for phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/search for attribute phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/filter highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/asset filter dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/menu filter options highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/filter location dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/location filter world.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/filter status dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/filter sort dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/add attribute filter button.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/attribute filter highlight.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/attribute dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/attribute value dialog.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/attribute values applied.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert filter.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/asset filter phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/attribute filter phone.png" />
+    <Url
+      Source="Output/Pappillon/Temporary/CS Mobile/CS Mobile_315B22C/Images/Mobile/alert filter attribute dropdown.png" />
+    <Url
+      Source="Output/Pappillon/CS Mobile/CS Mobile.pdf" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

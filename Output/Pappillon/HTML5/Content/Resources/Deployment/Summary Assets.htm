@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="../../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" />
+        <link href="../../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" />
+        <link href="../../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" type="text/css" /><title>Summary Assets</title>
+        <script src="../../../Resources/Scripts/custom.modernizr.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/jquery.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/foundation.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/plugins.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/require.min.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/require.config.js" type="text/javascript">
+        </script>
+        <script src="../../../Resources/Scripts/MadCapAll.js" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <h1>Summary Assets</h1>
+        <p style="text-decoration: underline;" data-mc-conditions="General.notes for reviewers">check with Barry about updates</p>
+        <p>After defining the Location hierarchy with distinct entries, you will then associate your locations with Summary Assets. Summary assets are collections of more granular assets used to provide aggregate data, such as the highest rack input temperature for a row or pod. This is done so that you can define and/or populate additional attributes for your assets, as well as view summary data/monitoring information later. When making the associations, start with the lowest level in your hierarchy, e.g., a rack (enclosure).</p>
+        <p>NOTE: You should only make your location to asset associations as broad as necessary, i.e., most customers do not associate the entire data center with an asset. Do not fail to make any necessary associations required for monitoring and reporting, but associating unnecessarily can add overhead to computations when you ask for reports on aggregations of assets or calculations of values derived from sensor readings.</p>
+        <p>NOTE: Summary Assets consume licenses, so create all those you need for specific metrics, but do not create any unnecessary Summary Assets. After deployment, if you need to free up licenses to use for general Assets, then check your Summary Assets.</p>
+        <p>To create a Summary Asset, perform the following steps:</p>
+        <ol>
+            <li value="1">Browse to <u>Admin Console &gt; Locations/Rules/Maps &gt; Location to Asset Association</u>.</li>
+            <li value="2">Select the location to be associated (e.g., ADC-R1-Rack1), click Associate Location to Asset, click to dot the button next to Associate ADC-R1-Rack1 To New Asset, and then click OK.</li>
+            <li value="3">Next, under the Summary – Location hierarchy, click Rack.</li>
+            <li value="4">On the Edit: Rack screen, select the proper Asset Location: to be the containing location. For a rack (such as this example), choose the row in which it resides. For a row, select the pod or data center in which it is.</li>
+            <li value="5">Select Rack Environmental Monitoring for this configuration and select Intake Only, which simply means you’ll be monitoring temperature from the sensors on the front of the racks. Below is an example of associating a row. Note that the Asset Location: value is now the name of the data center in which the row resides.</li>
+            <li value="6">Set Row Environmental Monitoring to <b>Yes</b>.</li>
+        </ol>
+    </body>
+</html>

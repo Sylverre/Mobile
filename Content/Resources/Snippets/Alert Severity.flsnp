@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="411" MadCap:lastWidth="1087">
+    <body>
+        <p>The icon on the bottom right of each alert box has an indicator showing the alert severity. These are the same icons used as in <MadCap:variable name="General.ProductName" />.</p>
+        <table style="width: 100%; margin-left: 0; margin-right: auto;">
+            <col style="width: 240px;">
+            </col>
+            <col>
+            </col>
+            <thead>
+                <tr>
+                    <th>Alert <MadCap:annotation MadCap:createDate="2015-07-13T16:30:52.8632230-05:00" MadCap:creator="Sylverre" MadCap:initials="S" MadCap:comment="This legend needs to go in AM &amp; CS somewhere!" MadCap:editor="Sylverre" MadCap:editDate="2015-08-26T12:58:14.9382450-05:00">Icon</MadCap:annotation></th>
+                    <th>Legend</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../../Images/Mobile/failure icon.bmp" />
+                    </td>
+                    <td>Failure alert</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../../Images/Mobile/informational icon.bmp" />
+                    </td>
+                    <td>Informational alert</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../../Images/Mobile/error icon.bmp" />
+                    </td>
+                    <td>Error alert</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../../Images/Mobile/critical icon.bmp" />
+                    </td>
+                    <td>Critical alert</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../../Images/Mobile/warning icon.bmp" />
+                    </td>
+                    <td>Warning alert</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
